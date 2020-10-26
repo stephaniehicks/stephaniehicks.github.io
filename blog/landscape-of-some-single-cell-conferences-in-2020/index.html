@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.73.0" />
+
+
+<title>Shopping around for what single-cell conferences to attend in 2020? - Stephanie Hicks</title>
+<meta property="og:title" content="Shopping around for what single-cell conferences to attend in 2020? - Stephanie Hicks">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<link href='//cdn.bootcss.com/highlight.js/9.11.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+
+
+
+<link rel="stylesheet" href="../../css/fonts.css" media="all">
+<link rel="stylesheet" href="../../css/main.css" media="all">
+
+
+  <script src="../../js/collapse.js"></script>
+  <script src="../../js/dropdown.js"></script>
+  <script src="../../js/transition.js"></script>
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="../../" class="nav-logo">
+    <img src="../../images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="../../about/">About</a></li>
+    
+    <li><a href="../../people/">People</a></li>
+    
+    <li><a href="../../projects/">Projects</a></li>
+    
+    <li><a href="../../software/">Software</a></li>
+    
+    <li><a href="../../teaching/">Teaching</a></li>
+    
+    <li><a href="../../talks/">Talks</a></li>
+    
+    <li><a href="../../blog/">Blog</a></li>
+    
+    <li><a href="../../join/">Join us</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+
+    <h1 class="article-title">Shopping around for what single-cell conferences to attend in 2020?</h1>
+
+    
+
+    <div class="article-content">
+      
+
+
+<p>The new year is around the corner and you might be interested in figuring out what single-cell conferences to attend in 2020.
+A <a href="http://single-cell.net/Conferences/single_cell">list of some single-cell conferences in 2020</a> came across my twitter feed the other day and I started to peruse it.
+If you are interested in attending of them, I thought I write up a quick blogpost to help make some comparisons between the single-cell conferences.</p>
+<div id="load-packages" class="section level2">
+<h2>Load packages</h2>
+<p>First we will load some packages.</p>
+<pre class="r"><code>suppressMessages({
+  library(here)
+  library(tidyverse)
+  library(rvest)
+  library(UpSetR)
+  library(gender)
+})
+
+here()</code></pre>
+<pre><code>## [1] &quot;/Users/shicks/Documents/github/websites/website-hicks-source&quot;</code></pre>
+</div>
+<div id="load-data" class="section level2">
+<h2>Load data</h2>
+<p>First let’s create a dataframe with the short and long name for each conference and the url.
+I only considered conferences that had a list of names for the organizing committee and confirmed speakers available as of Dec 2019.</p>
+<pre class="r"><code>url_wellcome2020 &lt;- &quot;https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/&quot;
+url_cellsymp &lt;- &quot;http://www.cell-symposia.com/conceptual-single-cells-2020/&quot;
+url_keystone &lt;- &quot;https://www.keystonesymposia.org/ks/Online/Events/2020F1/Details.aspx?EventKey=2020F1&amp;Tabs=2#Tabs&quot;
+url_grc_scgenomics &lt;- &quot;https://www.grc.org/single-cell-genomics-conference/2020/&quot;
+url_grc_sccancerbio &lt;- &quot;https://www.grc.org/single-cell-cancer-biology-conference/2020/&quot;
+url_emrg_tech &lt;- &quot;https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research#speakers&quot;
+
+url_confs &lt;- tibble(name_conf = c(&quot;wellcome&quot;, &quot;cell_symp&quot;, &quot;keystone&quot;, &quot;grc_scgenomics&quot;, &quot;grc_sccancerbio&quot;, &quot;emrg_tech&quot;),
+                    name_long = c(&quot;Wellcome Genome Campus: Single Cell Biology&quot;, 
+                                  &quot;Cell Symposia: The Conceptual Power of Single Cell Biology&quot;, &quot;Keystone Symposia: Single Cell Biology&quot;, &quot;Gordon Research Conference: Single-Cell Genomics&quot;, &quot;Gordon Research Conference: Single-Cell Cancer Biology&quot;, &quot;Emerging Technologies in Single Cell Research&quot;),
+                    url = c(url_wellcome2020, url_cellsymp, url_keystone, url_grc_scgenomics, url_grc_sccancerbio, url_emrg_tech))
+
+url_confs</code></pre>
+<pre><code>## # A tibble: 6 x 3
+##   name_conf    name_long                    url                            
+##   &lt;chr&gt;        &lt;chr&gt;                        &lt;chr&gt;                          
+## 1 wellcome     Wellcome Genome Campus: Sin… https://coursesandconferences.…
+## 2 cell_symp    Cell Symposia: The Conceptu… http://www.cell-symposia.com/c…
+## 3 keystone     Keystone Symposia: Single C… https://www.keystonesymposia.o…
+## 4 grc_scgenom… Gordon Research Conference:… https://www.grc.org/single-cel…
+## 5 grc_sccance… Gordon Research Conference:… https://www.grc.org/single-cel…
+## 6 emrg_tech    Emerging Technologies in Si… https://www.vibconferences.be/…</code></pre>
+<p>Next, I used a combination of <a href="https://cran.r-project.org/web/packages/rvest/index.html"><code>rvest</code></a> or by hand adding in the names of the organizing committees and speakers for each conference (depending on my frustration level with rvest and/or XML/HTML).</p>
+<div id="wellcome-genome-campus-single-cell-biology" class="section level4">
+<h4>Wellcome Genome Campus: Single Cell Biology</h4>
+<pre class="r"><code>wellcome_committee &lt;- c(&quot;Ellen Rothenberg&quot;, &quot;Sarah Teichmann&quot;, 
+                        &quot;Fabian Theis&quot;, &quot;Itai Yanai&quot;)
+wellcome_speakers &lt;- c(&quot;Kathy Cheah&quot;, &quot;Polly Fordyce&quot;, &quot;Eileen Furlong&quot;,
+                       &quot;Gillian Griffiths&quot;, &quot;Guoji Guo&quot;, &quot;Muzz Haniffa&quot;,
+                       &quot;Joakim Lundeberg&quot;, &quot;Samantha Morris&quot;, &quot;Mats Nilsson&quot;, 
+                       &quot;Rahul Satija&quot;, &quot;Timm Schroeder&quot;, &quot;Fabian Theis&quot;,
+                       &quot;Barbara Treutlein&quot;, &quot;Ludovic Vallier&quot;, &quot;Roser Vento&quot;,
+                       &quot;Itai Yanai&quot;)
+wellcome_all &lt;- unique(c(wellcome_committee, wellcome_speakers))</code></pre>
+</div>
+<div id="cell-symposia-the-conceptual-power-of-single-cell-biology" class="section level4">
+<h4>Cell Symposia: The Conceptual Power of Single Cell Biology</h4>
+<pre class="r"><code>h &lt;- read_html(url_confs[which(url_confs$name_conf == &quot;cell_symp&quot;),]$url)
+
+conf_names &lt;- h %&gt;% 
+  html_nodes(&quot;.blue .bold&quot;) %&gt;% 
+  html_text()
+
+cell_symp_committee &lt;- conf_names[c(22, 24,25)] 
+cell_symp_committee[2:3] &lt;- stringr::str_sub(string = cell_symp_committee[2:3], end = -3)
+cell_symp_speakers &lt;- conf_names[1:21]
+cell_symp_all &lt;- unique(c(cell_symp_committee, cell_symp_speakers))</code></pre>
+</div>
+<div id="keystone-symposia-single-cell-biology" class="section level4">
+<h4>Keystone Symposia: Single Cell Biology</h4>
+<pre class="r"><code>keystone_committee &lt;- c(&quot;Charles Ansong&quot;, &quot;Nikolaus Rajewsky&quot;, 
+                        &quot;Massimiliano Pagani&quot;)
+keystone_speakers &lt;- c(&quot;Eileen E.M. Furlong&quot;, &quot;Barbara Treutlein&quot;, &quot;Ido Amit&quot;, 
+                &quot;Hans Clevers&quot;, &quot;Charles Ansong&quot;, &quot;Sarah Teichmann&quot;, 
+                &quot;Fabian Theis&quot;, &quot;Matthias Mann&quot;, &quot;Jeffrey A. Whitsett&quot;,
+                &quot;Nikolaus Rajewsky&quot;, &quot;Alexander Schier&quot;, &quot;Stefano Piccolo&quot;, 
+                &quot;Julia Laskin&quot;, &quot;Bernd Bodenmiller&quot;, &quot;Evan Macosko&quot;, 
+                &quot;Massimiliano Pagani&quot;, &quot;Evan W. Newell&quot;, &quot;Peter Lichter&quot;, 
+                &quot;Alexander van Oudenaarden&quot;, &quot;Iannis Aifantis&quot;, &quot;Aron Jaffe&quot;, 
+                &quot;Sten Linnarsson&quot;, &quot;Ana Pombo&quot;, &quot;Bosiljka Tasic&quot;, &quot;Liqun Luo&quot;, 
+                &quot;David Van Valen&quot;, &quot;Jörg Vogel&quot;, &quot;Angela Ciuffi&quot;)
+
+keystone_all &lt;- unique(c(keystone_committee, keystone_speakers))</code></pre>
+</div>
+<div id="gordon-research-conference-single-cell-genomics" class="section level4">
+<h4>Gordon Research Conference: Single-Cell Genomics</h4>
+<pre class="r"><code>h &lt;- read_html(url_confs[which(url_confs$name_conf == &quot;grc_scgenomics&quot;),]$url)
+
+conf_names &lt;- h %&gt;% 
+  html_nodes(&quot;.name strong&quot;) %&gt;% 
+  html_text()
+
+grc_scgenomics_committee &lt;- c(&quot;Xiaoliang Sunney Xie&quot;, &quot;Stephen R. Quake&quot;, 
+                              &quot;Xiaowei Zhuang&quot;, &quot;Barbara Treutlein&quot;)
+grc_scgenomics_speakers &lt;- conf_names
+grc_scgenomics_all &lt;- unique(c(grc_scgenomics_committee, grc_scgenomics_speakers))</code></pre>
+</div>
+<div id="gordon-research-conference-single-cell-cancer-biology" class="section level4">
+<h4>Gordon Research Conference: Single-Cell Cancer Biology</h4>
+<pre class="r"><code>h &lt;- read_html(url_confs[which(url_confs$name_conf == &quot;grc_sccancerbio&quot;),]$url)
+
+conf_names &lt;- h %&gt;% 
+  html_nodes(&quot;.name strong&quot;) %&gt;% 
+  html_text()
+
+grc_sccancerbio_committee &lt;- c(&quot;Kai Tan&quot;, &quot;Nicholas Navin&quot;, &quot;Mario Suva&quot;, 
+                              &quot;Sohrab Shah&quot;)
+grc_sccancerbio_speakers &lt;- conf_names
+grc_sccancerbio_all &lt;- unique(c(grc_sccancerbio_committee, grc_sccancerbio_speakers))</code></pre>
+</div>
+<div id="emerging-technologies-in-single-cell-research" class="section level4">
+<h4>Emerging Technologies in Single Cell Research</h4>
+<pre class="r"><code>emrg_tech_committee &lt;- c(&quot;Jean-Christophe Marine&quot;, &quot;Diether Lambrechts&quot;, 
+                         &quot;Stein Aerts&quot;, &quot;Yvan Saeys&quot;, &quot;Martin Guilliams&quot;, 
+                         &quot;Ana Pombo&quot;, &quot;Helen Parkinson&quot;, &quot;Amos Tanay&quot;, 
+                         &quot;Evy Vierstraete&quot;)
+
+emrg_tech_speakers &lt;- c(&quot;Leeat Keren&quot;, &quot;Miao-Ping Chien&quot;, &quot;Jop Kind&quot;, 
+                         &quot;Klass Mulder&quot;, &quot;Nitzan Mor&quot;, &quot;Celine Vallot&quot;, 
+                         &quot;Nikolaus Rajewsky&quot;, &quot;Amos Tanay&quot;, &quot;Ana Pombo&quot;, 
+                         &quot;Oana Ursu&quot;)
+emrg_tech_all &lt;- unique(c(emrg_tech_committee, emrg_tech_speakers))</code></pre>
+</div>
+</div>
+<div id="find-overlaps" class="section level2">
+<h2>Find overlaps</h2>
+<p>Next, I combined all the organizing committee members and speakers into a big list into an <a href="https://cran.r-project.org/web/packages/UpSetR/vignettes/basic.usage.html"><code>UpSetr</code></a> plot to find out how many overlaps there were between confirmed individuals attending the conferences.
+Note, the default is to use <code>nsets=5</code>, where <code>nsets</code> is the number of sets to consider. Here we have 6 conferences, so 6 sets. So I bumped it up to <code>nsets=6</code> to show overlap between
+all 6 conferences.</p>
+<pre class="r"><code>data_list &lt;- list(wellcome = wellcome_all, cell_symp = cell_symp_all, 
+                    keystone = keystone_all, 
+                    grc_scgenomics = grc_scgenomics_all, 
+                    grc_sccancerbio = grc_sccancerbio_all, 
+                    emrg_tech = emrg_tech_all)
+
+upset(fromList(data_list), nsets = 6, order.by = &quot;freq&quot;)</code></pre>
+<p><img src="../../blog/2019-12-23-landscape-of-some-single-cell-conferences-in-2020_files/figure-html/unnamed-chunk-9-1.png" width="1152" /></p>
+<p>So you can see there are quite a few individuals who are confirmed speakers or on the organzing committee for multiple single-cell conferences in 2020 confirming my quick scan of the websites. There are at least two individuals who are scheduled to attend three out of the six single-cell conferences!</p>
+<p>Let’s do a bit of digging to see who these individuals are.
+Just think if you miss them at one conference, you might be able to catch them at another later in the year! :)</p>
+</div>
+<div id="data-wrangling" class="section level2">
+<h2>Data wrangling</h2>
+<p>Next, I converted the list of names for each conference into a dataframe with one column referring to the conference name, the second is the name of the individual.</p>
+<pre class="r"><code>df &lt;- tibble(name_conf = names(unlist(data_list)),
+             name_ind = c(unlist(data_list)))
+df</code></pre>
+<pre><code>## # A tibble: 165 x 2
+##    name_conf  name_ind         
+##    &lt;chr&gt;      &lt;chr&gt;            
+##  1 wellcome1  Ellen Rothenberg 
+##  2 wellcome2  Sarah Teichmann  
+##  3 wellcome3  Fabian Theis     
+##  4 wellcome4  Itai Yanai       
+##  5 wellcome5  Kathy Cheah      
+##  6 wellcome6  Polly Fordyce    
+##  7 wellcome7  Eileen Furlong   
+##  8 wellcome8  Gillian Griffiths
+##  9 wellcome9  Guoji Guo        
+## 10 wellcome10 Muzz Haniffa     
+## # … with 155 more rows</code></pre>
+<p>I removed the numbers from the end of the conference name</p>
+<pre class="r"><code>df$name_conf &lt;- gsub(&#39;[[:digit:]]+&#39;, &#39;&#39;, df$name_conf)
+head(df$name_conf)</code></pre>
+<pre><code>## [1] &quot;wellcome&quot; &quot;wellcome&quot; &quot;wellcome&quot; &quot;wellcome&quot; &quot;wellcome&quot; &quot;wellcome&quot;</code></pre>
+<p>And had to do some manual text wrangling to remove the middle initials of a few individuals and change the name of two other individuals as the names to reflect either the full name of an individual or that another individual’s last name was referred to differently across conference websites.</p>
+<pre class="r"><code>df[match(c(&quot;Eileen E.M. Furlong&quot;, &quot;Jeffrey A. Whitsett&quot;, &quot;Evan W. Newell&quot;, 
+           &quot;Stephen R. Quake&quot;), df$name_ind), ]$name_ind &lt;- 
+  c(&quot;Eileen Furlong&quot;, &quot;Jeffrey Whitsett&quot;, &quot;Evan Newell&quot;, &quot;Stephen Quake&quot;)
+df[grep(&quot;Muzz Haniffa&quot;, df$name_ind),]$name_ind &lt;- &quot;Muzlifah Haniffa&quot;
+df[grep(&quot;Vento&quot;, df$name_ind),]$name_ind &lt;- &quot;Roser Vento-Tormo&quot;</code></pre>
+<p>Next, I split the full names of the individuals into first and last names and converted the data frame into a tibble.</p>
+<pre class="r"><code>df &lt;- cbind(df, plyr::ldply(stringr::str_split(
+                df$name_ind, pattern = &quot; &quot;, n = 2)))
+colnames(df)[match(c(&quot;V1&quot;, &quot;V2&quot;), colnames(df))] &lt;- 
+  c(&quot;name_first&quot;, &quot;name_last&quot;)
+df &lt;- as_tibble(df)
+df</code></pre>
+<pre><code>## # A tibble: 165 x 4
+##    name_conf name_ind          name_first name_last 
+##    &lt;chr&gt;     &lt;chr&gt;             &lt;chr&gt;      &lt;chr&gt;     
+##  1 wellcome  Ellen Rothenberg  Ellen      Rothenberg
+##  2 wellcome  Sarah Teichmann   Sarah      Teichmann 
+##  3 wellcome  Fabian Theis      Fabian     Theis     
+##  4 wellcome  Itai Yanai        Itai       Yanai     
+##  5 wellcome  Kathy Cheah       Kathy      Cheah     
+##  6 wellcome  Polly Fordyce     Polly      Fordyce   
+##  7 wellcome  Eileen Furlong    Eileen     Furlong   
+##  8 wellcome  Gillian Griffiths Gillian    Griffiths 
+##  9 wellcome  Guoji Guo         Guoji      Guo       
+## 10 wellcome  Muzlifah Haniffa  Muzlifah   Haniffa   
+## # … with 155 more rows</code></pre>
+</div>
+<div id="exploratory-data-analysis" class="section level2">
+<h2>Exploratory data analysis</h2>
+<p>Let’s do some exploratory data analysis (EDA).</p>
+<p>First let’s see who are the individuals who are attending multiple single-cell conferences this summer as confirmed speakers or on the organizing committee.</p>
+<pre class="r"><code>df %&gt;% 
+  group_by(name_ind) %&gt;% 
+  summarize(tot = n()) %&gt;% 
+  filter(tot &gt; 1) %&gt;% 
+  arrange(desc(tot)) %&gt;% 
+  as.data.frame()</code></pre>
+<pre><code>##             name_ind tot
+## 1  Barbara Treutlein   3
+## 2     Bosiljka Tasic   3
+## 3         Amos Tanay   2
+## 4          Ana Pombo   2
+## 5  Bernd Bodenmiller   2
+## 6      Celine Vallot   2
+## 7      Charles Gawad   2
+## 8         Dana Pe&#39;er   2
+## 9     Eileen Furlong   2
+## 10  Ellen Rothenberg   2
+## 11      Fabian Theis   2
+## 12   Iannis Aifantis   2
+## 13          Ido Amit   2
+## 14  Joakim Lundeberg   2
+## 15    Nicholas Navin   2
+## 16 Nikolaus Rajewsky   2
+## 17     Polly Fordyce   2
+## 18      Rahul Satija   2
+## 19 Roser Vento-Tormo   2
+## 20   Samantha Morris   2
+## 21   Sarah Teichmann   2
+## 22    Xiaowei Zhuang   2
+## 23       Zemin Zhang   2</code></pre>
+<p>Lots of great speakers on this list!</p>
+<p>I also wanted to get a rough idea of what the gender balance was for each of the conferences.
+To do this, I used the <a href="https://cran.r-project.org/web/packages/gender/index.html"><code>gender</code></a> R package to infers state-recorded gender categories from first names using historical datasets.</p>
+<div id="inferring-the-gender" class="section level4">
+<h4>Inferring the gender</h4>
+<p>Here I’m using the <code>gender()</code> function with the <code>method = &quot;genderize&quot;</code>, which uses the <a href="http://genderize.io/">Genderize.io</a> API. Reading the documention, this is based on “user profiles across major social networks.”</p>
+<p>As there is an API limit on Genderize.io, I saved the dataset and load it in directly so I do not accidentally hit my limit each time I knit this R Markdown.</p>
+<pre class="r"><code>if(!file.exists(here(&quot;static&quot;, &quot;data&quot;, &quot;sc2020_genderize.csv&quot;))){
+  df_genderize &lt;- gender(unique(df$name_first), method = &quot;genderize&quot;)
+  write_csv(df_genderize, here(&quot;static&quot;, &quot;data&quot;, &quot;sc2020_genderize.csv&quot;))
+} else { 
+  df_genderize &lt;- read_csv(here(&quot;static&quot;, &quot;data&quot;, &quot;sc2020_genderize.csv&quot;))
+}</code></pre>
+<pre><code>## Parsed with column specification:
+## cols(
+##   name = col_character(),
+##   gender = col_character(),
+##   proportion_female = col_double(),
+##   proportion_male = col_double()
+## )</code></pre>
+<pre class="r"><code>df_genderize</code></pre>
+<pre><code>## # A tibble: 129 x 4
+##    name     gender proportion_female proportion_male
+##    &lt;chr&gt;    &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt;
+##  1 Ellen    female            0.98            0.02  
+##  2 Sarah    female            0.98            0.02  
+##  3 Fabian   male              0.01            0.99  
+##  4 Itai     male              0.0900          0.91  
+##  5 Kathy    female            0.98            0.02  
+##  6 Polly    female            0.9             0.100 
+##  7 Eileen   female            0.98            0.02  
+##  8 Gillian  female            0.92            0.0800
+##  9 Guoji    male              0               1     
+## 10 Muzlifah female            1               0     
+## # … with 119 more rows</code></pre>
+<p>We see for each first name, we get returned the proportion of male (or female) names.</p>
+<p>Then, I combine our data frame (<code>df</code>) above with the <code>df_genderize</code> data frame using a <code>left_join()</code> function from <code>dplyr</code></p>
+<pre class="r"><code>colnames(df_genderize)[1] &lt;- &quot;name_first&quot;
+df &lt;- dplyr::left_join(df, df_genderize, by = &quot;name_first&quot;)
+
+df %&gt;% 
+  select(name_conf, name_ind, gender, proportion_female, proportion_male)</code></pre>
+<pre><code>## # A tibble: 165 x 5
+##    name_conf name_ind          gender proportion_female proportion_male
+##    &lt;chr&gt;     &lt;chr&gt;             &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt;
+##  1 wellcome  Ellen Rothenberg  female            0.98            0.02  
+##  2 wellcome  Sarah Teichmann   female            0.98            0.02  
+##  3 wellcome  Fabian Theis      male              0.01            0.99  
+##  4 wellcome  Itai Yanai        male              0.0900          0.91  
+##  5 wellcome  Kathy Cheah       female            0.98            0.02  
+##  6 wellcome  Polly Fordyce     female            0.9             0.100 
+##  7 wellcome  Eileen Furlong    female            0.98            0.02  
+##  8 wellcome  Gillian Griffiths female            0.92            0.0800
+##  9 wellcome  Guoji Guo         male              0               1     
+## 10 wellcome  Muzlifah Haniffa  female            1               0     
+## # … with 155 more rows</code></pre>
+<p>After doing some digging, I noticed two incorrectly predicted gender labels. For example, <a href="https://en.wikipedia.org/wiki/Xiaowei_Zhuang">Xiaowei Zhuang</a> is referred to as a “she” in this wikipedia page, therefore, I modified the prediction here.</p>
+<pre class="r"><code>df[grep(&quot;Xiaowei&quot;, df$name_ind),]$gender &lt;- &quot;female&quot;
+df[grep(&quot;Xiaowei&quot;, df$name_ind),]$proportion_female &lt;- 
+  1 - unique(df[grep(&quot;Xiaowei&quot;, df$name_ind),]$proportion_female)
+df[grep(&quot;Xiaowei&quot;, df$name_ind),]$proportion_male &lt;- 
+  1 - unique(df[grep(&quot;Xiaowei&quot;, df$name_ind),]$proportion_male)
+df[grep(&quot;Xiaowei&quot;, df$name_ind),]</code></pre>
+<pre><code>## # A tibble: 2 x 7
+##   name_conf name_ind name_first name_last gender proportion_fema…
+##   &lt;chr&gt;     &lt;chr&gt;    &lt;chr&gt;      &lt;chr&gt;     &lt;chr&gt;             &lt;dbl&gt;
+## 1 cell_symp Xiaowei… Xiaowei    Zhuang    female             0.54
+## 2 grc_scge… Xiaowei… Xiaowei    Zhuang    female             0.54
+## # … with 1 more variable: proportion_male &lt;dbl&gt;</code></pre>
+<p>I also noticed <a href="https://en.wikipedia.org/wiki/Liqun_Luo">Liqun Luo</a> is referred to as a “he” in the Wikipedia page, so I modified the label.</p>
+<pre class="r"><code>df[grep(&quot;Liqun&quot;, df$name_ind),]$gender &lt;- &quot;male&quot;
+df[grep(&quot;Liqun&quot;, df$name_ind),]$proportion_female &lt;- 
+  1 - unique(df[grep(&quot;Liqun&quot;, df$name_ind),]$proportion_female)
+df[grep(&quot;Liqun&quot;, df$name_ind),]$proportion_male &lt;- 
+  1 - unique(df[grep(&quot;Liqun&quot;, df$name_ind),]$proportion_male)
+df[grep(&quot;Liqun&quot;, df$name_ind),]</code></pre>
+<pre><code>## # A tibble: 1 x 7
+##   name_conf name_ind name_first name_last gender proportion_fema…
+##   &lt;chr&gt;     &lt;chr&gt;    &lt;chr&gt;      &lt;chr&gt;     &lt;chr&gt;             &lt;dbl&gt;
+## 1 keystone  Liqun L… Liqun      Luo       male               0.38
+## # … with 1 more variable: proportion_male &lt;dbl&gt;</code></pre>
+<p>There were also some names that had no gender predictions returned.</p>
+<pre class="r"><code>df[is.na(df$proportion_female),] </code></pre>
+<pre><code>## # A tibble: 5 x 7
+##   name_conf name_ind name_first name_last gender proportion_fema…
+##   &lt;chr&gt;     &lt;chr&gt;    &lt;chr&gt;      &lt;chr&gt;     &lt;chr&gt;             &lt;dbl&gt;
+## 1 grc_scge… Chengha… Chenghang  Zong      &lt;NA&gt;                 NA
+## 2 grc_scge… Fuchou … Fuchou     Tang      &lt;NA&gt;                 NA
+## 3 grc_scca… Liynat … Liynat     Jerby-Ar… &lt;NA&gt;                 NA
+## 4 emrg_tech Leeat K… Leeat      Keren     &lt;NA&gt;                 NA
+## 5 emrg_tech Miao-Pi… Miao-Ping  Chien     &lt;NA&gt;                 NA
+## # … with 1 more variable: proportion_male &lt;dbl&gt;</code></pre>
+<p>I used some of my google-fu to use my best judgement on what the individual’s gender might be.
+However, it is worth noting that gender is not binary and I am only performing this part of the analysis to get a better guess of the gender-balance for the population as a whole for each conference.</p>
+<pre class="r"><code>df[match(c(&quot;Leeat Keren&quot;, &quot;Miao-Ping Chien&quot;, &quot;Liynat Jerby-Arnon&quot;), df$name_ind),]$gender &lt;- &quot;female&quot;
+df[match(c(&quot;Chenghang Zong&quot;, &quot;Fuchou Tang&quot;), df$name_ind),]$gender &lt;- &quot;male&quot;</code></pre>
+<p>Finally, I created a plot to show the gender balance of confirmed speakers and individuals on the organizing committees across the six conferences.</p>
+<pre class="r"><code>df %&gt;% 
+  left_join(url_confs, by = &quot;name_conf&quot;) %&gt;%
+  group_by(name_long, gender) %&gt;% 
+  summarize(total = n()) %&gt;% 
+  ggplot(aes(x = name_long, y = total, fill = gender)) + 
+  geom_bar(stat=&quot;identity&quot;, position = &quot;fill&quot;) +  coord_flip() + 
+  xlab(&quot;Conference&quot;) + 
+  ylab(&quot;Proportion&quot;) + 
+  ggtitle(&quot;Confirmed speakers and organizers at six single-cell conferences in 2020&quot;)</code></pre>
+<p><img src="../../blog/2019-12-23-landscape-of-some-single-cell-conferences-in-2020_files/figure-html/unnamed-chunk-21-1.png" width="1152" /></p>
+<p>As you can see, there seems to be a difference in the (predicted) gender balance across the six conferences.</p>
+<p>Anyways, I had fun exploring a bit of the landscape of the single-cell conferences coming up in 2020! Hopefully this was helpful for someone else too. :)</p>
+<p>Happy holidays and Happy New Year!</p>
+</div>
+</div>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+<footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="https://GitHub.com/stephaniehicks/" class="footer-links-kudos" target="_blank"> <img src="../../images/github-logo.png" alt="Img link to GitHub" width="22" height="22"></a>
+          </li>
+          <li>
+            <a href="mailto:shicks19@jhu.edu" class="footer-links-kudos" target="_blank"> <img src="../../images/email-logo.png" alt="Img link to email" width="22" height="22"></a>
+          </li>
+          <li>
+            <a href="https://twitter.com/stephaniehicks/" class="footer-links-kudos" target="_blank"> <img src="../../images/twitter-logo.png" alt="Img link to Twitter" width="22" height="22"></a>
+          </li>
+          <li>
+            <a href="../../index.xml" type="application/rss+xml" target="_blank"> <img src="../../images/rss-logo.png" alt="Img link to RSS" width="16" height="16"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/highlight.min.js"></script>
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/r.min.js"></script>
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/yaml.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+<script src="../../js/math-code.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-131643067-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+    
+     
+  <script>
+  $(document).ready(function () {
+    window.initializeCodeFolding("show" === "hide");
+  });
+  </script>
+  <script src="../../js/codefolding.js"></script>
+
+
+</body>
+</html>
+

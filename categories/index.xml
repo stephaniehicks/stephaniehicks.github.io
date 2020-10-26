@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Stephanie Hicks</title>
+    <link>http://www.stephaniehicks.com/categories/</link>
+    <description>Recent content in Categories on Stephanie Hicks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.stephaniehicks.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>service</title>
+      <link>http://www.stephaniehicks.com/categories/service/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/categories/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>single-cell</title>
+      <link>http://www.stephaniehicks.com/categories/single-cell/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/categories/single-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>faculty-life</title>
+      <link>http://www.stephaniehicks.com/categories/faculty-life/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/categories/faculty-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>announcement</title>
+      <link>http://www.stephaniehicks.com/categories/announcement/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/categories/announcement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

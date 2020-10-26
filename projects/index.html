@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.73.0" />
+
+
+<title>Projects - Stephanie Hicks</title>
+<meta property="og:title" content="Projects - Stephanie Hicks">
+
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="../css/fonts.css" media="all">
+<link rel="stylesheet" href="../css/main.css" media="all">
+
+
+  <script src="../js/collapse.js"></script>
+  <script src="../js/dropdown.js"></script>
+  <script src="../js/transition.js"></script>
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="../" class="nav-logo">
+    <img src="../images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="../about/">About</a></li>
+    
+    <li><a href="../people/">People</a></li>
+    
+    <li><a href="../projects/">Projects</a></li>
+    
+    <li><a href="../software/">Software</a></li>
+    
+    <li><a href="../teaching/">Teaching</a></li>
+    
+    <li><a href="../talks/">Talks</a></li>
+    
+    <li><a href="../blog/">Blog</a></li>
+    
+    <li><a href="../join/">Join us</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+
+    <h1 class="article-title">Projects</h1>
+
+    
+    
+    
+
+    <div class="article-content">
+      <h3 id="analysis-of-genomic-data-from-single-cells">Analysis of genomic data from single cells</h3>
+<p>Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical, computational and methodological challenges (1, 2).</p>
+<ol>
+<li>
+<p>Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, <strong>Hicks SC</strong>. (2020). <a href="https://doi.org/10.1038/s41592-019-0654-x">Orchestrating Single-Cell Analysis with Bioconductor</a>. <em>Nature Methods</em>.</p>
+</li>
+<li>
+<p>Lähnemann D, Koester J, Szczurek E, McCarthy D, <strong>Hicks S</strong>, Robinson MD, Vallejos C, Beerenwinkel N, et al. (2020). <a href="https://doi.org/10.1186/s13059-020-1926-6">Eleven grand challenges in single-cell data science</a>. <em>Genome Biology</em>.</p>
+</li>
+</ol>
+<h4 id="methods-to-address-technical-variablity">Methods to address technical variablity</h4>
+<p>In contrast to bulk RNA-seq experiments, the majority of reported expression levels in scRNA-seq data are zeros, which could be either biologically-driven, genes not expressing RNA at the time of measurement, or technically-driven, genes expressing RNA, but not at a sufficient level to be detected by sequencing technology. In addition, systematic errors, including batch effects, have been widely reported as a major challenge in high-throughput technologies, however, surprisingly, these issues have received minimal attention in published studies based on scRNA-seq technology. To investigate this, I examined data from fifteen published scRNA-seq studies and demonstrated that systematic errors can explain a substantial percentage of observed cell-to-cell expression variability, which in turn can lead to false discoveries, for example, when using unsupervised learning methods (1). To address this, we developed a fast, scalable statistical framework for feature selection and dimensionality reduction using generalized principal component analysis (GLM-PCA) for scRNA-seq data, which permits the identification of low-dimensional representations of cells measured with unique molecular identifiers (UMI) count data using a multinomial model (2). More recently we performed a benchmark comparison of 18 scRNA-seq imputation methods across multiple experimental protocols and datasets (3).</p>
+<ol>
+<li><strong>Hicks SC</strong>, Townes FW, Teng M, Irizarry RA (2018). <a href="https://academic.oup.com/biostatistics/article/19/4/562/4599254">Missing data and technical variability in single-cell RNA-sequencing experiments</a>. <em>Biostatistics</em>.</li>
+<li>Townes FW, <strong>Hicks SC</strong>, Aryee MJ, Irizarry RA (2019). <a href="https://doi.org/10.1186/s13059-019-1861-6">Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model</a>. <em>Genome Biology</em>.</li>
+<li>Hou W, Ji J, Ji H, <strong>Hicks SC</strong> (2020). <a href="https://doi.org/10.1186/s13059-020-02132-x">A systematic evaluation of single-cell RNA-sequencing imputation methods</a>. <em>Genome Biology</em>.</li>
+</ol>
+<h4 id="fast-scalable-memory-efficient-methods-to-analyze-single-cell-data">Fast, scalable, memory-efficient methods to analyze single-cell data</h4>
+<p>The <em>k</em>-means algorithm is a classic algorithm used in the analysis of scRNA-seq data. However, with increasing sizes of single-cell data, new methods are needed that are fast, scalable and memory-efficient. To address this, we implemented the mini-batch optimization for <em>k</em>-means clustering proposed in <a href="https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf">Sculley (2010)</a> for large single cell sequencing data (1). The mini batch <em>k</em>-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format).</p>
+<ol>
+<li><strong>Hicks SC</strong>, Liu R, Ni Y, Purdom E, Risso D (2020). <a href="https://doi.org/10.1101/2020.05.27.119438">mbkmeans: fast clustering for single cell data using mini-batch <em>k</em>-means</a>. <em>bioRxiv</em>.</li>
+</ol>
+<h4 id="high-grade-serous-ovarian-cancer-subtypes-with-single-cell-profiling">High-grade serous ovarian cancer subtypes with single-cell profiling</h4>
+<p>The goal of this project is to identify the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell gene expression data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. Most recently, we demonstrated that genetic demultiplexing from single-cell cancer samples can be used for better experimental design and increase cost savings (1).</p>
+<h4 id="single-nucleus-profiling">Single-nucleus profiling</h4>
+<p>Single-nucleus RNA-sequencing (snRNA-seq) has become the preferred experimental technology, compared to scRNA-seq, to profile gene expression in frozen cells or cells that are hard to dissociate, such as brain tissue. Previous studies have shown that snRNA-seq offers substantial advantages over scRNA-seq, including reduced dissociation bias and the ability to capture rare cell types in these tissues (1).</p>
+<ol>
+<li>Tran MN, Maynard KR, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, <strong>Hicks SC</strong>, Kleinman JE, Hyde TM, Martinowich K, Jaffe A. (2020). <a href="https://doi.org/10.1101/2020.10.07.329839">Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain</a>. <em>bioRxiv</em>.</li>
+</ol>
+<h4 id="development-and-neurogenesis-of-the-enteric-nervous-system-with-single-cell-profiling">Development and neurogenesis of the enteric nervous system with single-cell profiling</h4>
+<p>The goal of this project is to study the steady-state and transcriptomic changes from stimuli and perturbations of neurons and surrounding cells in enteric nervous system (ENS) in the gastrointestinal tract (gut) using bulk and single-cell gene expression data. For example, one project investigates the remodeling and cellular changes in the gastrointestinal tract from inflammation. The ENS contains the largest collection of neurons in the body outside of the brain that regulate diverse gastrointestinal and  metabolic functions and is commonly referred to as our &ldquo;second brain&rdquo;. A better understanding of the gut is highly relevant to public health because alterations and inflammation in the gut have been linked to diseases such as Parkinson&rsquo;s, colitis, irritable bowel syndrome, anxiety and mood disorders, with limited treatment options. The long-term impact of this project will be a key step towards developing targeted treatments for curbing inflammation and associated pathological changes in the gut.</p>
+<hr>
+<h3 id="analysis-of-genomic-data-with-spatial-resolution">Analysis of genomic data with spatial resolution</h3>
+<p>The goal of this project is to develop statistical methods and open-source software for the analysis of spatial transcriptomics data. This is highly relevant to public health because these methodologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. The funding for this project is from the <a href="https://chanzuckerberg.com">Chan Zuckerberg Initiative</a>.</p>
+<ol>
+<li>Maynard KR, Collado-Torres L, Weber LM, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, <strong>Hicks SC</strong>, Martinowich K, Jaffe AE (2020). <a href="https://doi.org/10.1101/2020.02.28.969931">Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex</a>. Accepted in <em>Nature Neuroscience</em>.</li>
+</ol>
+<hr>
+<h3 id="data-science-education">Data Science Education</h3>
+<p>An increase in demand for statistics and data science education has led to changes in curriculum, specifically an increase in computing. While this has led to more applied courses, students still struggle with effectively deriving knowledge from data and solving real-world problems. In 1999, Deborah Nolan and Terry Speed argued the solution was to teach courses through in-depth case studies derived from interesting scientific questions with nontrivial solutions that leave room for different analyses of the data. This innovative framework teaches the student to make important connections between the scientific question, data and statistical concepts that only come from hands-on experience analyzing data (1, 2). To address this, I am building the <a href="https://opencasestudies.github.io">Open Case Studies</a> (OCS) community resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data.</p>
+<p>In addition, I am actively thinking about how to define the field from first principles, namely the elements and principles of data analysis, based on the activities of people who analyze data with a language and taxonomy for describing a data analysis in a manner spanning disciplines (3). This leads to two insights: it suggests a formal mechanism to evaluate data analyses (4) based on objective characteristics, and it provides a framework to teach students how to build data analyses with an emphasis on reproducible data analyses (5).</p>
+<ol>
+<li><strong>Hicks SC</strong>, Irizarry RA (2018). <a href="https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1356747?journalCode=utas20">A Guide to Teaching Data Science</a>. <em>The American Statistician</em>.</li>
+<li><strong>Hicks SC</strong> (2017). <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1385472">Greater Data Science Ahead</a>. <em>Journal of Computational Graphical Statistics</em>.</li>
+<li><strong>Hicks SC</strong>, Peng RD. (2019). <a href="https://arxiv.org/abs/1903.07639">Elements and Principles for Characterizing Variation between Data Analyses</a>. <em>arXiv</em>.</li>
+<li><strong>Hicks SC</strong>, Peng RD. (2019). <a href="https://arxiv.org/abs/1904.11907">Evaluating the Success of a Data Analysis</a>. <em>arXiv</em>.</li>
+<li>Peng RD, <strong>Hicks SC</strong>. (2020). <a href="https://arxiv.org/abs/2007.12210">Reproducible Research: A Retrospective</a>. <em>arXiv</em>.</li>
+</ol>
+<hr>
+<h3 id="statistical-methods-to-control-for-false-discoveries">Statistical methods to control for false discoveries</h3>
+<p>In high-throughput studies, hundreds to millions of hypotheses are typically tested. Statistical methods that control the false discovery rate (FDR) have emerged as popular and powerful tools for error rate control. While classic FDR methods use only <em>p</em>-values as input, more modern FDR methods have been shown to increase power by incorporating complementary information as &ldquo;informative covariates&rdquo; to prioritize, weight, and group hypotheses. To address this, we investigated the accuracy, applicability, and ease of use of two classic and six modern FDR-controlling methods by performing a systematic benchmark comparison using simulation studies as well as six case studies in computational biology (1).</p>
+<ol>
+<li>Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, <strong>Hicks SC</strong> (2019). <a href="https://doi.org/10.1186/s13059-019-1716-1">A practical guide to methods controlling false discoveries in computational biology</a>. <em>Genome Biology</em>.</li>
+</ol>
+<hr>
+<h3 id="statistical-methods-for-preprocessing-and-normalization-of-high-throughput-data">Statistical methods for preprocessing and normalization of high-throughput data</h3>
+<p>Normalization is an essential step for the analysis of genomics high-throughput data. Quantile normalization is one of the most widely used multi-sample normalization tools for applications including genotyping arrays, RNA-Sequencing (RNA-Seq), DNA methylation, ChIP-Sequencing (ChIP-Seq) and brain imaging. However, quantile normalization relies on assumptions about the data-generation process that are not appropriate in some contexts. I developed a data-driven method to test these assumptions and guide the choice of an appropriate normalization method (1). The <a href="https://bioconductor.org/packages/release/bioc/html/quantro.html">freely available software</a> has been downloaded over 7500 times (distinct IPs) from Bioconductor since 2014 and has helped researchers test the assumptions of global normalization methods in the analysis of their own data. To address the scenario when the assumptions of quantile normalization are not appropriate, I have developed a generalization of quantile normalization, referred to as smooth quantile normalization, which allows for global differences between biological groups (2). More recently, I collaborated with researchers from the University of Maryland to correct for compositional biases found in sparse metagenomic sequencing data (3) and developed a methods to estimate the cell composition in whole blood DNA methylation samples independent of platform-technology (4). Finally, we discovered a gene-specific bias (termed the mean-correlation relationship) and a method to correct for this bias in co-expression analysis (5).</p>
+<ol>
+<li><strong>Hicks SC</strong>, Irizarry RA (2015). <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0679-0">quantro: a data-driven approach to guide the choice of an appropriate normalization method</a>. <em>Genome Biology</em>.</li>
+<li><strong>Hicks SC</strong>, Okrah K, Paulson JN, Quackenbush J, Irizarry RA, Bravo HC (2018). <a href="https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169">Smooth quantile normalization</a>. <em>Biostatistics</em>.</li>
+<li>Kumar MS, Slud EV, Okrah K, <strong>Hicks SC</strong>, Hannenhalli S, Corrada Bravo H (2018). <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5160-5">Analysis and correction of compositional bias in sparse sequencing count data</a>. <em>BMC Genomics</em>.</li>
+<li><strong>Hicks SC</strong>, Irizarry RA (2019). <a href="https://doi.org/10.1186/s13059-019-1827-8">methylCC: technology-independent estimation of cell type composition using differentially methylated regions</a>. <em>Genome Biology</em>.</li>
+<li>Wang Y, <strong>Hicks SC</strong>, Hansen KD (2020). <a href="https://www.biorxiv.org/content/10.1101/2020.02.13.944777v1">Co-expression analysis is biased by a mean-correlation relationship</a>. <em>bioRxiv</em></li>
+</ol>
+
+    </div>
+  </article>
+
+</main>
+
+<footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="https://GitHub.com/stephaniehicks/" class="footer-links-kudos" target="_blank"> <img src="../images/github-logo.png" alt="Img link to GitHub" width="22" height="22"></a>
+          </li>
+          <li>
+            <a href="mailto:shicks19@jhu.edu" class="footer-links-kudos" target="_blank"> <img src="../images/email-logo.png" alt="Img link to email" width="22" height="22"></a>
+          </li>
+          <li>
+            <a href="https://twitter.com/stephaniehicks/" class="footer-links-kudos" target="_blank"> <img src="../images/twitter-logo.png" alt="Img link to Twitter" width="22" height="22"></a>
+          </li>
+          <li>
+            <a href="../index.xml" type="application/rss+xml" target="_blank"> <img src="../images/rss-logo.png" alt="Img link to RSS" width="16" height="16"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-131643067-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+    
+    
+
+</body>
+</html>
+

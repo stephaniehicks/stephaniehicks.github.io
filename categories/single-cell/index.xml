@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>single-cell on Stephanie Hicks</title>
+    <link>http://www.stephaniehicks.com/categories/single-cell/</link>
+    <description>Recent content in single-cell on Stephanie Hicks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.stephaniehicks.com/categories/single-cell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shopping around for what single-cell conferences to attend in 2020?</title>
+      <link>http://www.stephaniehicks.com/blog/landscape-of-some-single-cell-conferences-in-2020/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/landscape-of-some-single-cell-conferences-in-2020/</guid>
+      <description>The new year is around the corner and you might be interested in figuring out what single-cell conferences to attend in 2020. A list of some single-cell conferences in 2020 came across my twitter feed the other day and I started to peruse it. If you are interested in attending of them, I thought I write up a quick blogpost to help make some comparisons between the single-cell conferences.</description>
+    </item>
+    
+    <item>
+      <title>Updates in the world of single-cell RNA-sequencing data analysis</title>
+      <link>http://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/</guid>
+      <description>In the last few weeks, there have been quite a few great pre-prints posted on bioRxiv related to the analysis of a popular type of genomics data, called single-cell RNA-sequencing (scRNA-seq). The idea with this data is that you can measure genome-wide features (such as genes or transcripts) in individual cells, in contrast to more traditional bulk RNA-sequencing experiments where for each feature, you get an average of gene expression across all the cells in the sample.</description>
+    </item>
+    
+  </channel>
+</rss>

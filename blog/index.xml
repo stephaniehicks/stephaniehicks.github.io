@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Stephanie Hicks</title>
+    <link>http://www.stephaniehicks.com/blog/</link>
+    <description>Recent content in Blogs on Stephanie Hicks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.stephaniehicks.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ASA Committee on Women in Statistics Rotating Curators</title>
+      <link>http://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/</guid>
+      <description>For 2020, I am the Chair of the Committee on Women in Statistics (COWIS) from the American Statistical Association and Lucy D&amp;rsquo;Agostino McGowan from Wake Forest University is the Vice-Chair. As a committee we meet quarterly to discuss goals that we set for ourselves and progress to date on those goals. One of our goals is to make better use of the @WomenInStat twitter handle, which is run by members of our committee.</description>
+    </item>
+    
+    <item>
+      <title>Shopping around for what single-cell conferences to attend in 2020?</title>
+      <link>http://www.stephaniehicks.com/blog/landscape-of-some-single-cell-conferences-in-2020/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/landscape-of-some-single-cell-conferences-in-2020/</guid>
+      <description>The new year is around the corner and you might be interested in figuring out what single-cell conferences to attend in 2020. A list of some single-cell conferences in 2020 came across my twitter feed the other day and I started to peruse it. If you are interested in attending of them, I thought I write up a quick blogpost to help make some comparisons between the single-cell conferences.</description>
+    </item>
+    
+    <item>
+      <title>Updates in the world of single-cell RNA-sequencing data analysis</title>
+      <link>http://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/</guid>
+      <description>In the last few weeks, there have been quite a few great pre-prints posted on bioRxiv related to the analysis of a popular type of genomics data, called single-cell RNA-sequencing (scRNA-seq). The idea with this data is that you can measure genome-wide features (such as genes or transcripts) in individual cells, in contrast to more traditional bulk RNA-sequencing experiments where for each feature, you get an average of gene expression across all the cells in the sample.</description>
+    </item>
+    
+    <item>
+      <title>Celebrating my first year at Hopkins!</title>
+      <link>http://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/</guid>
+      <description>This week I&amp;rsquo;m celebrating completing my first year on the research tenure-track at Johns Hopkins! I can&amp;rsquo;t say it has been a walk in the park &amp;mdash; many hard lessons learned &amp;mdash;, but I can say I love what I get to do everyday and feel incredibly fortunate to work here with such great colleagues and students!
+So while reflecting on this past year, I have been thinking about many great blogposts I read containing information about how to enjoy being on the tenure-track and not stress out about it, including one of favorites, The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life.</description>
+    </item>
+    
+    <item>
+      <title>New year, new blog</title>
+      <link>http://www.stephaniehicks.com/blog/new-year-new-blog/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/new-year-new-blog/</guid>
+      <description>It&amp;rsquo;s 2019 and I decided to revamp my website with Blogdown! So far, I really like it! I fell in love with Shannon Ellis&amp;rsquo;s template and humbly borrowed her template to create this website.
+For those that may follow my other blog Statistical [R]ecipes, fear not! There are still plans to keep that updated with cooking recipes that we come across, but I plan to post my scientific / academic related blogs here.</description>
+    </item>
+    
+  </channel>
+</rss>

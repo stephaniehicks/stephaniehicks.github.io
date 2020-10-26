@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>announcement on Stephanie Hicks</title>
+    <link>http://www.stephaniehicks.com/categories/announcement/</link>
+    <description>Recent content in announcement on Stephanie Hicks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.stephaniehicks.com/categories/announcement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New year, new blog</title>
+      <link>http://www.stephaniehicks.com/blog/new-year-new-blog/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/new-year-new-blog/</guid>
+      <description>It&amp;rsquo;s 2019 and I decided to revamp my website with Blogdown! So far, I really like it! I fell in love with Shannon Ellis&amp;rsquo;s template and humbly borrowed her template to create this website.
+For those that may follow my other blog Statistical [R]ecipes, fear not! There are still plans to keep that updated with cooking recipes that we come across, but I plan to post my scientific / academic related blogs here.</description>
+    </item>
+    
+  </channel>
+</rss>

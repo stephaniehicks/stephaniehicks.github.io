@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yo on Stephanie Hicks</title>
+    <link>http://www.stephaniehicks.com/</link>
+    <description>Recent content in yo on Stephanie Hicks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.stephaniehicks.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ASA Committee on Women in Statistics Rotating Curators</title>
+      <link>http://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/</guid>
+      <description>For 2020, I am the Chair of the Committee on Women in Statistics (COWIS) from the American Statistical Association and Lucy D&amp;rsquo;Agostino McGowan from Wake Forest University is the Vice-Chair. As a committee we meet quarterly to discuss goals that we set for ourselves and progress to date on those goals. One of our goals is to make better use of the @WomenInStat twitter handle, which is run by members of our committee.</description>
+    </item>
+    
+    <item>
+      <title>Shopping around for what single-cell conferences to attend in 2020?</title>
+      <link>http://www.stephaniehicks.com/blog/landscape-of-some-single-cell-conferences-in-2020/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/landscape-of-some-single-cell-conferences-in-2020/</guid>
+      <description>The new year is around the corner and you might be interested in figuring out what single-cell conferences to attend in 2020. A list of some single-cell conferences in 2020 came across my twitter feed the other day and I started to peruse it. If you are interested in attending of them, I thought I write up a quick blogpost to help make some comparisons between the single-cell conferences.</description>
+    </item>
+    
+    <item>
+      <title>Updates in the world of single-cell RNA-sequencing data analysis</title>
+      <link>http://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/</guid>
+      <description>In the last few weeks, there have been quite a few great pre-prints posted on bioRxiv related to the analysis of a popular type of genomics data, called single-cell RNA-sequencing (scRNA-seq). The idea with this data is that you can measure genome-wide features (such as genes or transcripts) in individual cells, in contrast to more traditional bulk RNA-sequencing experiments where for each feature, you get an average of gene expression across all the cells in the sample.</description>
+    </item>
+    
+    <item>
+      <title>Celebrating my first year at Hopkins!</title>
+      <link>http://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/</guid>
+      <description>This week I&amp;rsquo;m celebrating completing my first year on the research tenure-track at Johns Hopkins! I can&amp;rsquo;t say it has been a walk in the park &amp;mdash; many hard lessons learned &amp;mdash;, but I can say I love what I get to do everyday and feel incredibly fortunate to work here with such great colleagues and students!
+So while reflecting on this past year, I have been thinking about many great blogposts I read containing information about how to enjoy being on the tenure-track and not stress out about it, including one of favorites, The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life.</description>
+    </item>
+    
+    <item>
+      <title>Join us</title>
+      <link>http://www.stephaniehicks.com/join/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/join/</guid>
+      <description>For current students at Johns Hopkins If you are a current Hopkins student and are interested in working with me come by my office any time the door is open and I&amp;rsquo;ll be happy to talk about open projects. I have many new projects that I would be excited to talk to you about. In the mean time, feel free to check out the projects page for a brief summary of what&amp;rsquo;s going on in the lab!</description>
+    </item>
+    
+    <item>
+      <title>New year, new blog</title>
+      <link>http://www.stephaniehicks.com/blog/new-year-new-blog/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/new-year-new-blog/</guid>
+      <description>It&amp;rsquo;s 2019 and I decided to revamp my website with Blogdown! So far, I really like it! I fell in love with Shannon Ellis&amp;rsquo;s template and humbly borrowed her template to create this website.
+For those that may follow my other blog Statistical [R]ecipes, fear not! There are still plans to keep that updated with cooking recipes that we come across, but I plan to post my scientific / academic related blogs here.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.stephaniehicks.com/projects/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/projects/</guid>
+      <description>Analysis of genomic data from single cells Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical, computational and methodological challenges (1, 2).
+  Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, Hicks SC.</description>
+    </item>
+    
+    <item>
+      <title>Software and data packages</title>
+      <link>http://www.stephaniehicks.com/software/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/software/</guid>
+      <description>Open Case Studies data analyses  opencasestudies/ocs-police-shootings-firearm-legislation: Firearm Legislation and Fatal Police Shootings in the United States.   opencasestudies/ocs-healthexpenditure: Exploring Health Expenditure using State-level data in the United States.    Bioconductor Software  R/scry : R/Bioconductor package to implement count-based feature selection and dimension reduction algorithms to facilitate unsupervised analysis of any high-dimensional data such as single-cell RNA-seq. This package builds around the glmpca R CRAN package. (Townes et al.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://www.stephaniehicks.com/teaching/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/teaching/</guid>
+      <description>Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health  2019 | Co-instructor, Advanced Data Science I and II 2018 | Co-instructor, Advanced Data Science I and II  Department of Data Sciences, Dana-Farber Cancer Institute Department of Biostatistics, Harvard T.H. Chan School of Public Health  2016 | Co-instructor, Introduction to Data Science (HSPH - BIO 260). 2015 | Teaching Assistant, Statistical Methods for Functional Genomics, Cold Spring Harbor Laboratories.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.stephaniehicks.com/about/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/about/</guid>
+      <description>Stephanie C. Hicks I am an Assistant Professor in the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health and a Preceptor in the Department of Biochemistry and Molecular Biology PhD program. I&amp;rsquo;m also a faculty member of the Johns Hopkins Data Science Lab and co-founder of R-Ladies Baltimore.
+I received my B.S. in Mathematics from LSU and my M.A. and Ph.D. from the Department of Statistics at Rice University under the direction of Marek Kimmel and Sharon Plon (@splon).</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://www.stephaniehicks.com/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/people/</guid>
+      <description>Current Lab Members    Name Research topic Photo     Yilin Chen Undergraduate student working on statistical methods for the analysis of single-cell transcriptomics cancer data.    Nathan Dyjack Graduate student working on developing statistical methods to analyze spatial transcriptomics data.    Wenpin Hou Postdoc working on developing statistical methods for imputation, gene regulatory networks inference, and data integration with time-varying effects at single-cell resolution (Joint postdoc with Hongkai Ji).</description>
+    </item>
+    
+    <item>
+      <title>Talks and Other Events</title>
+      <link>http://www.stephaniehicks.com/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/talks/</guid>
+      <description>2021  Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on &amp;ldquo;Theoretical and Empirical Contributions to Data Analytic Practice&amp;rdquo;. Joint Statistical Meetings. 2021 Aug 7-12. Seattle, WA. USA. Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2020 Jul 15. Bar Harbor, ME. USA. Addressing Open Challenges in Data Science Education.</description>
+    </item>
+    
+  </channel>
+</rss>
