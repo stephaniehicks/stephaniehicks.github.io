@@ -83,16 +83,16 @@ For those that may follow my other blog Statistical [R]ecipes, fear not! There a
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/software/</guid>
-      <description>Open Case Studies data analyses  opencasestudies/ocs-police-shootings-firearm-legislation: Firearm Legislation and Fatal Police Shootings in the United States.   opencasestudies/ocs-healthexpenditure: Exploring Health Expenditure using State-level data in the United States.    Bioconductor Software  R/scry : R/Bioconductor package to implement count-based feature selection and dimension reduction algorithms to facilitate unsupervised analysis of any high-dimensional data such as single-cell RNA-seq. This package builds around the glmpca R CRAN package. (Townes et al.</description>
+      <description>Bioconductor Software packages  R/scry : R/Bioconductor package to implement count-based feature selection and dimension reduction algorithms to facilitate unsupervised analysis of any high-dimensional data such as single-cell RNA-seq. This package builds around the glmpca R CRAN package. (Townes et al., 2019. Genome Biology). R/spQN : R/Bioconductor package to implement spatial quantile normalization (SpQN). This method was developed to remove a mean-correlation relationship in correlation matrices built from gene expression data.</description>
     </item>
     
     <item>
-      <title>Teaching</title>
+      <title>Books, educational resources, and teaching</title>
       <link>http://www.stephaniehicks.com/teaching/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/teaching/</guid>
-      <description>Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health  2019 | Co-instructor, Advanced Data Science I and II 2018 | Co-instructor, Advanced Data Science I and II  Department of Data Sciences, Dana-Farber Cancer Institute Department of Biostatistics, Harvard T.H. Chan School of Public Health  2016 | Co-instructor, Introduction to Data Science (HSPH - BIO 260). 2015 | Teaching Assistant, Statistical Methods for Functional Genomics, Cold Spring Harbor Laboratories.</description>
+      <description>Books Genomics  Orchestrating Single-Cell Analysis in Bioconductor. Online book that teaches users how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore single-cell RNA-seq data (scRNA-seq) data. Online companion for a manuscript published in Nature Methods.  Authors: Robert Amezquita, Aaron Lun, Stephanie C. Hicks, Raphael Gottardo    Data Science  Tidyverse Skills for Data Science. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models.</description>
     </item>
     
     <item>
@@ -111,7 +111,7 @@ I received my B.S. in Mathematics from LSU and my M.A. and Ph.D. from the Depart
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/people/</guid>
-      <description>Current Lab Members    Name Research topic Photo     &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-   Yilin Chen Undergraduate student working on statistical methods for the analysis of single-cell transcriptomics cancer data.    &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-   Yongbao Zhuang ScM student is investigating the development and neurogenesis of the enteric nervous system with single-cell profiling (Joint ScM student with Subhash Kulkarni.)    &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-   Nathan Dyjack PhD student working on developing statistical methods to analyze spatial transcriptomics data.</description>
+      <description>Current Lab Members    Name Research topic Photo     &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-   Yilin Chen Undergraduate student working on statistical methods for the analysis of single-cell transcriptomics cancer data.    &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-   Yongbao Zhuang ScM student is investigating the development and neurogenesis of the enteric nervous system with single-cell profiling (Joint student with Subhash Kulkarni.)    &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-   Nathan Dyjack PhD student working on developing statistical methods to analyze spatial transcriptomics data.</description>
     </item>
     
     <item>
@@ -120,7 +120,7 @@ I received my B.S. in Mathematics from LSU and my M.A. and Ph.D. from the Depart
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/talks/</guid>
-      <description>2021  Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on &amp;ldquo;Theoretical and Empirical Contributions to Data Analytic Practice&amp;rdquo;. Joint Statistical Meetings. 2021 Aug 7-12. Seattle, WA. USA. Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. Addressing Open Challenges in Data Science Education.</description>
+      <description>2021  Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on &amp;ldquo;Theoretical and Empirical Contributions to Data Analytic Practice&amp;rdquo;. Joint Statistical Meetings. 2021 Aug 7-12. Seattle, WA. USA. Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. More (single-cell) data, more (statistical) problems. Stanford Center for Biomedical Informatics Research.</description>
     </item>
     
   </channel>
