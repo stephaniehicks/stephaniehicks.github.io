@@ -92,7 +92,7 @@ For those that may follow my other blog Statistical [R]ecipes, fear not! There a
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/teaching/</guid>
-      <description>Books Genomics  Orchestrating Single-Cell Analysis in Bioconductor. Online book that teaches users how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore single-cell RNA-seq data (scRNA-seq) data. Online companion for a manuscript published in Nature Methods.  Authors: Robert Amezquita, Aaron Lun, Stephanie C. Hicks, Raphael Gottardo    Data Science  Tidyverse Skills for Data Science. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models.</description>
+      <description>Books Genomics  Orchestrating Single-Cell Analysis in Bioconductor. Online book that teaches users how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore single-cell RNA-seq data (scRNA-seq) data. Online companion for a manuscript published in Nature Methods.  Authors: Robert Amezquita, Aaron Lun, Stephanie C. Hicks, Raphael Gottardo    Data Science  Tidyverse Skills for Data Science [Available on Leanpub]. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models.</description>
     </item>
     
     <item>
@@ -120,7 +120,7 @@ I received my B.S. in Mathematics from LSU and my M.A. and Ph.D. from the Depart
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/talks/</guid>
-      <description>2021  Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on &amp;ldquo;Theoretical and Empirical Contributions to Data Analytic Practice&amp;rdquo;. Joint Statistical Meetings. 2021 Aug 7-12. Seattle, WA. USA. Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. More (single-cell) data, more (statistical) problems. Stanford Center for Biomedical Informatics Research.</description>
+      <description>2021  Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on &amp;ldquo;Theoretical and Empirical Contributions to Data Analytic Practice&amp;rdquo;. Joint Statistical Meetings. 2021 Aug 7-12. Seattle, WA. USA. Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. Biostatistics Seminar. Department of Biomedical Data Science.</description>
     </item>
     
   </channel>
