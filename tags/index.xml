@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Stephanie Hicks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.stephaniehicks.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>faculty-life</title>
+      <link>http://www.stephaniehicks.com/tags/faculty-life/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/tags/faculty-life/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>service</title>
@@ -26,15 +35,6 @@
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/tags/single-cell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>faculty-life</title>
-      <link>http://www.stephaniehicks.com/tags/faculty-life/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.stephaniehicks.com/tags/faculty-life/</guid>
       <description></description>
     </item>
     
