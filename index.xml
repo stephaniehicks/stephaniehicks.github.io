@@ -6,10 +6,21 @@
     <description>Recent content in yo on Stephanie Hicks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.stephaniehicks.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tidyverse Skills for Data Science in R</title>
+      <link>http://www.stephaniehicks.com/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/</guid>
+      <description>I am happy to announce a project that we at the Johns Hopkins Data Science Lab have been working on for this last year!
+We developed a new 5 course Specialization on Coursera: Tidyverse Skills for Data Science in R!
+This Specialization series is intended for data scientists with some familiarity with the R programming language who are seeking to do data science using the tidyverse collection of packages. Through 5 courses, we cover importing, wrangling, visualizing, and modeling data using the powerful Tidyverse framework.</description>
+    </item>
     
     <item>
       <title>Building a brand as a scientist</title>
@@ -102,7 +113,7 @@ For those that may follow my other blog Statistical [R]ecipes, fear not! There a
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/teaching/</guid>
-      <description>Books Genomics  Orchestrating Single-Cell Analysis in Bioconductor. Online book that teaches users how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore single-cell RNA-seq data (scRNA-seq) data. Online companion for a manuscript published in Nature Methods.  Authors: Robert Amezquita, Aaron Lun, Stephanie C. Hicks, Raphael Gottardo    Data Science  Tidyverse Skills for Data Science [Available on Leanpub]. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models.</description>
+      <description>Books Genomics  Orchestrating Single-Cell Analysis in Bioconductor. Online book that teaches users how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore single-cell RNA-seq data (scRNA-seq) data. Online companion for a manuscript published in Nature Methods.  Authors: Robert Amezquita, Aaron Lun, Stephanie C. Hicks, Raphael Gottardo    Data Science  Tidyverse Skills for Data Science [Available on Leanpub] [Available via bookdown]. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models.</description>
     </item>
     
     <item>

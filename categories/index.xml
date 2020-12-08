@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Stephanie Hicks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.stephaniehicks.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>announcement</title>
+      <link>http://www.stephaniehicks.com/categories/announcement/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/categories/announcement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>faculty-life</title>
@@ -35,15 +44,6 @@
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/categories/single-cell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>announcement</title>
-      <link>http://www.stephaniehicks.com/categories/announcement/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.stephaniehicks.com/categories/announcement/</guid>
       <description></description>
     </item>
     

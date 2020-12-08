@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on Stephanie Hicks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.stephaniehicks.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tidyverse Skills for Data Science in R</title>
+      <link>http://www.stephaniehicks.com/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stephaniehicks.com/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/</guid>
+      <description>I am happy to announce a project that we at the Johns Hopkins Data Science Lab have been working on for this last year!
+We developed a new 5 course Specialization on Coursera: Tidyverse Skills for Data Science in R!
+This Specialization series is intended for data scientists with some familiarity with the R programming language who are seeking to do data science using the tidyverse collection of packages. Through 5 courses, we cover importing, wrangling, visualizing, and modeling data using the powerful Tidyverse framework.</description>
+    </item>
     
     <item>
       <title>Building a brand as a scientist</title>
