@@ -104,7 +104,7 @@ For those that may follow my other blog Statistical [R]ecipes, fear not! There a
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/software/</guid>
-      <description>Bioconductor Software packages  R/scry : R/Bioconductor package to implement count-based feature selection and dimension reduction algorithms to facilitate unsupervised analysis of any high-dimensional data such as single-cell RNA-seq. This package builds around the glmpca R CRAN package. (Townes et al., 2019. Genome Biology). R/spQN : R/Bioconductor package to implement spatial quantile normalization (SpQN). This method was developed to remove a mean-correlation relationship in correlation matrices built from gene expression data.</description>
+      <description>Bioconductor Software packages  R/SpatialExperiment : R/Bioconductor package to define a S4 class for data with spatial coordinates by extending SingleCellExperiment to include spatial experiments such as seqFISH and 10x Visium spatial transcriptomics technologies. (Righelli, Weber et al., 2021. bioRxiv). R/TreeSummarizedExperiment : R/Bioconductor package to define a S4 class for data with hierarchical structure by extending SingleCellExperiment to include hierarchical information on the rows or columns of the rectangular data. (Huang et al.</description>
     </item>
     
     <item>
@@ -141,7 +141,7 @@ I received my B.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/talks/</guid>
-      <description>2021  Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on &amp;ldquo;Theoretical and Empirical Contributions to Data Analytic Practice&amp;rdquo;. Joint Statistical Meetings. 2021 Aug 7-12. Seattle, WA. USA. Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. Scalable statistical methods and software for single-cell data science.</description>
+      <description>2021  Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on &amp;ldquo;Theoretical and Empirical Contributions to Data Analytic Practice&amp;rdquo;. Joint Statistical Meetings. 2021 Aug 7-12. Seattle, WA. USA. Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. Dynamics and Networks in Single-cell Biology Minisymposium at the Society for Mathematical Biology.</description>
     </item>
     
   </channel>
