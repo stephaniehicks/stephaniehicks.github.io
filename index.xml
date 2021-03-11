@@ -104,7 +104,7 @@ For those that may follow my other blog Statistical [R]ecipes, fear not! There a
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.stephaniehicks.com/software/</guid>
-      <description>Bioconductor Software packages  R/SpatialExperiment : R/Bioconductor package to define a S4 class for data with spatial coordinates by extending SingleCellExperiment to include spatial experiments such as seqFISH and 10x Visium spatial transcriptomics technologies. (Righelli, Weber, Crowell et al., 2021. bioRxiv). R/TreeSummarizedExperiment : R/Bioconductor package to define a S4 class for data with hierarchical structure by extending SingleCellExperiment to include hierarchical information on the rows or columns of the rectangular data.</description>
+      <description>Bioconductor Software packages  R/SpatialExperiment : R/Bioconductor package to define a S4 class for data with spatial coordinates by extending SingleCellExperiment to include spatial experiments such as seqFISH and 10x Visium spatial transcriptomics technologies. (Righelli, Weber, Crowell et al., 2021. bioRxiv). R/bluster : R/Bioconductor package to wrap common clustering algorithms in an easily extended S4 framework. Backends are implemented for hierarchical, k-means and graph-based clustering. Several utilities are also provided to compare and evaluate clustering results.</description>
     </item>
     
     <item>
