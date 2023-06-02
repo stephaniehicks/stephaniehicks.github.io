@@ -1,0 +1,95 @@
+---
+title: "Books, educational resources, and teaching"
+format:
+    html:
+        toc: true
+---
+
+## Books
+
+### Genomics 
+
+- [Orchestrating Single-Cell Analysis in Bioconductor](http://bioconductor.org/books/release/OSCA/) (OSCA). Online book that teaches users how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore single-cell RNA-seq data (scRNA-seq) data. Online companion for a [manuscript published](https://doi.org/10.1038/s41592-019-0654-x) in _Nature Methods_.
+  - Authors: Robert Amezquita, Aaron Lun, Stephanie C. Hicks, Raphael Gottardo
+- [Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor](https://lmweber.org/OSTA-book) (OSTA). Online book that teaches users a computational analysis pipeline for spatially-resolved transcriptomics data. 
+
+
+### Data Science 
+
+- [Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse) [[Available on Leanpub](https://leanpub.com/tidyverseskillsdatascience)] [[Available via bookdown](https://jhudatascience.org/tidyversecourse)]. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models. Online companion for the [Tidyverse Skills for Data Science in R Specialization](https://www.coursera.org/specializations/tidyverse-data-science-r/) on Coursera.
+  - Authors: Shannon E. Ellis, Carrie Wright, Roger D. Peng and Stephanie C. Hicks
+
+
+<br>
+
+## Massive Open Online Courses
+
+### Tidyverse Skills for Data Science in R Specialization
+
+This five course massive open online course (MOOC) [specialization](https://www.coursera.org/specializations/tidyverse-data-science-r/) series on Coursera allows learners to develop insights from data with tidy tools, such as data import, wrangle, visualize, and modeling data with the Tidyverse R packages. Instructors: Shannon E. Ellis, Carrie Wright, Roger D. Peng and Stephanie C. Hicks. 
+
+Coursera specialization: <https://www.coursera.org/specializations/tidyverse-data-science-r>
+
+1. [Introduction to the Tidyverse](https://www.coursera.org/learn/tidyverse)
+2. [Importing data in the Tidyverse](https://www.coursera.org/learn/tidyverse-importing-data)
+3. [Wrangling data in the Tidyverse](https://www.coursera.org/learn/tidyverse-data-wrangling)
+4. [Visualizing data in the Tidyverse](https://www.coursera.org/learn/tidyverse-visualize-data)
+5. [Modeling data in the Tidyverse](https://www.coursera.org/learn/tidyverse-modelling-data)
+
+
+<br>
+
+## Open Case Studies
+
+### Individual case studies 
+
+The [Open Case Studies](https://www.opencasestudies.org) (OCS) community resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. 
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DgzBSOY5Yc8" frameborder="0" allowfullscreen></iframe></p>
+
+### Educator's guide to OCS
+
+We have written an [online book to help guide educators](https://www.opencasestudies.org/OCS_Guide) on how to most effectively use the Open Case Studies (either in or outside of the classroom), various entry points to using the case studies (including an R package to enable modular use of the case studies), how to modify and adapt components of the case studies for the classroom, and how to contribute new case studies. [[Available as an online book](https://www.opencasestudies.org/OCS_Guide)]
+
+<br>
+
+## Teaching experience
+
+### Cold Spring Harbor Laboratories (CSHL)
+
+* 2023 | **Co-Instructor**, [Computational Genomics](https://meetings.cshl.edu/courses.aspx?course=c-ecg&year=23)
+* 2022 | **Co-Instructor**, [Computational Genomics](https://meetings.cshl.edu/courses.aspx?course=c-ecg&year=22) ([**Teaching materials**](https://www.stephaniehicks.com/cshlcg2022)).
+* 2022 | **Co-Instructor**, [Statistical Analysis for Genome Scale Data](https://meetings.cshl.edu/courses.aspx?course=C-data&year=22) ([**Teaching materials**](https://www.stephaniehicks.com/cshlgsd2022)).
+* 2015 | **Teaching Assistant**, [Statistical Methods for Functional Genomics](http://meetings.cshl.edu/courses.aspx?course=c-data&year=15).
+
+
+### Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
+
+* 2022 | **Instructor**, [Statistical Programming Paradigms and Workflows](https://stephaniehicks.com/jhustatprogramming2022) (140.840)
+* 2022 | **Instructor**, [Statistical Computing](https://stephaniehicks.com/jhustatcomputing2022) (140.776)
+* 2021 | **Co-instructor**, [Advanced Data Science II](https://www.stephaniehicks.com/jhuads2021) (140.712)
+* 2021 | **Instructor**, [Statistical Computing](https://stephaniehicks.com/jhustatcomputing2021) (140.776)
+* 2019 | **Co-instructor**, [Advanced Data Science I and II](https://jhu-advdatasci.github.io/2019/) (140.711, 140.712)
+* 2018 | **Co-instructor**, [Advanced Data Science I and II](https://jhu-advdatasci.github.io/2018/) (140.711, 140.712)
+
+### Department of Data Sciences, Dana-Farber Cancer Institute
+### Department of Biostatistics, Harvard T.H. Chan School of Public Health
+
+* 2016 | **Co-instructor**, Introduction to Data Science ([HSPH - BIO 260](http://datasciencelabs.github.io/)).
+* 2015 | **Contributor and Discussion Leader**, Harvard edX
+  * (1) [Statistics and R for the Life Sciences](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info) (PH525.1x)
+  * (2) [Case study: DNA methylation data analysis](https://courses.edx.org/courses/HarvardX/PH525.8x/1T2015/info) (PH525.8x)
+* 2014 | **Lead Teaching Fellow**, [Data Science (CS109)](http://cs109.github.io/2014/), Harvard University. Supervised and guided 25 teaching fellows with over 300 students in the course. All course material available on* [github](https://github.com/cs109/2014). 
+* 2014 | **Discussion Leader**, [Data Analysis for Genomics (PH525x)](http://genomicsclass.github.io/book/), Harvard edX.
+
+### Department of Statistics, Rice University 
+
+* 2010, 2011 | **Lead Teaching Assistant**, Probability in Bioinformatics and Genetics ([STAT 423, 623](http://statistics.rice.edu/feed/CoursesDisplay.aspx?CID=471)).
+* 2010 | **Lead Teaching Assistant**, Applied Stochastic Processes ([STAT 552](http://statistics.rice.edu/feed/CoursesDisplay.aspx?CID=444)).
+* 2008, 2009 | **Lab Instructor**, Introduction to Statistics for the Biosciences ([STAT 305](http://statistics.rice.edu/feed/CoursesDisplay.aspx?CID=373)).
+* 2007, 2008 | **Teaching Assistant**, Probability and Statistics ([STAT 310](http://statistics.rice.edu/feed/CoursesDisplay.aspx?CID=376)). 
+
+### Louisiana State University 
+
+* 2005 - 2007 | **Undergraduate tutor**, tutored college algebra, trigonometry and pre-calculus students in the [Roadmap 2 Redesign Program](https://www.math.lsu.edu/dept/courses/1021/Redesign)
+* 2003 - 2004 | **Undergraduate tutor**, tutored students at Scotlandville Magnet High School in algebra

@@ -1,0 +1,65 @@
+---
+title: "Software and data packages"
+format:
+    html:
+        toc: true
+---
+
+## Bioconductor 
+
+#### Software packages
+
+- [R/escheR](https://bioconductor.org/packages/escheR) | <img src="https://bioconductor.org/shields/years-in-bioc/escheR.svg"> |  Built off of ggplot2 and the Gestalt principles to visualize multi-dimensional data in the 2D space (e.g. embedding or spatial visualizations). ([Guo and Hicks, 2023. _bioRxiv_](https://doi.org/10.1101/2023.03.18.533302)).
+- [R/TREG](https://www.bioconductor.org/packages/TREG) | <img src="https://bioconductor.org/shields/years-in-bioc/TREG.svg"> | R/Bioconductor package to find Total RNA Expression Genes (TREGs) in single nucleus RNA-seq data ([Huuki-Myers et al., 2022. _bioRxiv_](https://doi.org/10.1101/2022.04.28.489923)).
+- [R/nnSVG](https://www.bioconductor.org/packages/nnSVG) | <img src="https://bioconductor.org/shields/years-in-bioc/nnSVG.svg"> | R/Bioconductor package that provides a scalable method to identify spatially variable genes (SVGs) in spatially-resolved transcriptomics data based on nearest-neighbor Gaussian processes. ([Weber et al., 2022. _Nature Communications_](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1)).
+- [R/miQC](https://www.bioconductor.org/packages/miQC) | <img src="https://bioconductor.org/shields/years-in-bioc/miQC.svg"> | R/Bioconductor package with a data-driven quality control metric to predict the low-quality scRNA-seq cells. ([Hippen et al., 2021. _PLOS Computational Biology_](https://doi.org/10.1371/journal.pcbi.1009290)). 
+- [R/SpatialExperiment](https://www.bioconductor.org/packages/SpatialExperiment) | <img src="https://bioconductor.org/shields/years-in-bioc/SpatialExperiment.svg"> | R/Bioconductor package to define a S4 class for data with spatial coordinates by extending SingleCellExperiment to include spatial experiments such as seqFISH and 10x Visium spatial transcriptomics technologies. ([Righelli, Weber, Crowell et al., 2021. _Bioinformatics_](https://doi.org/10.1093/bioinformatics/btac299)). 
+- [R/bluster](https://www.bioconductor.org/packages/bluster) | <img src="https://bioconductor.org/shields/years-in-bioc/bluster.svg"> | R/Bioconductor package to wrap common clustering algorithms in an easily extended S4 framework. Backends are implemented for hierarchical, k-means and graph-based clustering. Several utilities are also provided to compare and evaluate clustering results.
+- [R/spQN](http://bioconductor.org/packages/spqn) | <img src="https://bioconductor.org/shields/years-in-bioc/spqn.svg"> | R/Bioconductor package to implement spatial quantile normalization (SpQN). This method was developed to remove a mean-correlation relationship in correlation matrices built from gene expression data. ([Wang et al., 2020. _PLoS Computational Biology_](https://doi.org/10.1371/journal.pcbi.1009954)).
+- [R/scry](https://bioconductor.org/packages/scry) | <img src="https://bioconductor.org/shields/years-in-bioc/scry.svg"> | R/Bioconductor package to implement count-based feature selection and dimension reduction algorithms to facilitate unsupervised analysis of high-dimensional data, such as single-cell RNA-seq. This package builds around [glmpca R CRAN package](https://cran.r-project.org/web/packages/glmpca/index.html). ([Townes et al., 2019. _Genome Biology_](https://doi.org/10.1186/s13059-019-1861-6)). 
+- [R/methylCC](http://bioconductor.org/packages/methylCC) | <img src="https://bioconductor.org/shields/years-in-bioc/methylCC.svg"> | R/Bioconductor package to estimate the cell composition of whole blood in DNA methylation samples. ([Hicks and Irizarry, 2019. _Genome Biology_](https://doi.org/10.1186/s13059-019-1827-8)).
+- [R/mbkmeans](http://bioconductor.org/packages/mbkmeans) | <img src="https://bioconductor.org/shields/years-in-bioc/mbkmeans.svg"> | R/Bioconductor package implementing the mini-batch optimization for _k_-means (**mbkmeans**)clustering proposed in [Sculley (2010)](https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf) for large datasets, including scRNA-seq data. The mini batch _k_-means algorithm can be run with data stored in-memory or on-disk (e.g. HDF5 file format). ([Hicks et al., 2021. _PLoS Computational Biology_](https://doi.org/10.1371/journal.pcbi.1008625)).
+- [R/TreeSummarizedExperiment](https://www.bioconductor.org/packages/TreeSummarizedExperiment) | <img src="https://bioconductor.org/shields/years-in-bioc/TreeSummarizedExperiment.svg"> | R/Bioconductor package to define a S4 class for data with hierarchical structure by extending SingleCellExperiment to include hierarchical information on the rows or columns of the rectangular data. ([Huang et al., 2020. _F1000_](https://doi.org/10.12688/f1000research.26669.1)).
+- [R/qsmooth](http://bioconductor.org/packages/qsmooth) | <img src="https://bioconductor.org/shields/years-in-bioc/qsmooth.svg"> | R/Bioconductor package available that implements a generalization of quantile normalization, referred to as smooth quantile normalization (**qsmooth**), which is based on the assumption that the statistical distribution of each sample should be the same (or have the same distributional shape) within biological groups or conditions. ([Hicks et al., 2018. _Biostatistics_](https://doi.org/10.1093/biostatistics/kxx028)).
+- [R/quantro](http://www.bioconductor.org/packages/release/bioc/html/quantro.html) | <img src="https://bioconductor.org/shields/years-in-bioc/quantro.svg"> | R/Bioconductor package to test for global differences between groups of distributions to decide when to use quantile normalization. ([Hicks and Irizarry, 2015. _Genome Biology_](https://doi.org/10.1186/s13059-015-0679-0)).
+
+#### Data packages
+
+- [STexampleData](https://www.bioconductor.org/packages/STexampleData) | Collection of spatially resolved transcriptomics datasets in SpatialExperiment Bioconductor format, for use in examples, demonstrations, tutorials, and other purposes. 
+- [spatialLIBD](http://www.bioconductor.org/packages/spatialLIBD) | Inspect interactively spatial transcriptomics 10x Genomics Visium data in postmorteum human DLPFC tissue. ([Maynard, Collado-Torres et al., 2021. _Nature Neuroscience_](https://doi.org/10.1038/s41593-020-00787-0)). 
+- [benchmarkfdrData2019](http://bioconductor.org/packages/benchmarkfdrData2019) | Benchmarking results and data sets used in [Korthauer and Kimes et al. (2019)](https://doi.org/10.1186/s13059-019-1716-1) to compare methods for controlling the false discovery rate. A shiny app to interactively explore the data is available on the [benchmark-shiny repository](https://github.com/kdkorthauer/benchmarkfdr-shiny) on GitHub. 
+- [bodymapRat](http://bioconductor.org/packages/bodymapRat) | R data package that contains an SummarizedExperiment from the [Yu et al. (2013)](https://www.ncbi.nlm.nih.gov/pubmed/24510058) paper that performed the rat BodyMap across 11 organs and 4 developmental stage. 
+- [TENxPBMCData](http://bioconductor.org/packages/TENxPBMCData) | R data package that contains a set of SingleCellExperiment objects with single-cell RNA-sequencing data from peripheral blood mononuclear cells generated by 10X Genomics. 
+
+## CRAN 
+
+#### Software packages
+
+- [R/fasthplus](https://cran.r-project.org/web/packages/fasthplus) | Provides fast approximations for metrics of discordance or dissimilarity including (1) to evaluate the discordance between two arbitrary sets or (2) to evaluate label fitness (clustering) for a generalized dissimilarity matrix. ([Dyjack et al., 2022. _Biostatistics_](https://doi.org/10.1093/biostatistics/kxac035)).
+- [R/OCSdata](https://cran.r-project.org/web/packages/OCSdata) | Provides functions to access and download data from the [Open Case Studies](https://www.opencasestudies.org) repositories on [GitHub](https://github.com/opencasestudies). Different functions enable users to grab the data they need at different sections in the case study, as well as download the whole case study repository. 
+- [R/glmpca](https://cran.r-project.org/web/packages/glmpca/index.html) | Implements a generalized principal components analysis (GLM-PCA) for dimension reduction of non-normally distributed data such as counts or binary matrices. ([Townes et al., 2019. _Genome Biology_](https://doi.org/10.1186/s13059-019-1861-6)).
+
+## Python
+
+#### Software packages 
+
+- [Python/samui](https://github.com/chaichontat/samui) | A performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments called [Samui Browser](https://samuibrowser.com). ([Sriworarat et al., 2023. _bioRxiv_](https://doi.org/10.1101/2023.01.28.525943))
+- [Python/minicore](https://github.com/dnbaker/minicore) | Fast, generic library for constructing and clustering coresets on graphs, in metric spaces and under non-metric dissimilarity measures for count data and probability distributions. ([Baker et al., 2021. _ACM Conference on Bioinformatics_](https://pubmed.ncbi.nlm.nih.gov/34778889/)).
+
+## GitHub
+
+#### Software packages
+
+- [R/quantroSim](https://github.com/stephaniehicks/quantroSim) | Supporting data simulation R-package for the *quantro* R-package to simulate gene expression and DNA methylation data.
+- [R/explainr](https://github.com/hilaryparker/explainr) | Translates S3 objects into text using standard templates in a simple and convenient way. 
+- [postMUT](https://github.com/stephaniehicks/postMUT) | A tool implemented in Perl and R to predict the functionality of missense mutations.
+
+
+#### Data packages
+
+- [trapnell2014myoblasthuman](https://github.com/stephaniehicks/trapnell2014myoblasthuman) | R data package that contains an ExpressionSet object from Trapnell et al. (2014) that performed a time-series experiment of bulk and single cell RNA-Seq at four time points in differentiated primary human myoblasts. 
+- [patel2014gliohuman](https://github.com/willtownes/patel2014gliohuman) | R data package that contains a SummarizedExpression object from Patel et al. (2014) with single cell and bulk RNA-Seq data on five human glioblastoma tumors. 
+- [colonCancerWGBS](https://github.com/genomicsclass/colonCancerWGBS) | Cov files produced from [Bismark](http://www.bioinformatics.babraham.ac.uk/projects/bismark/) after mapping six paired tumor-normal WGBS samples from Ziller et al. (2013) PMID: 23925113. Only chr22. 
+- [myAffyData](https://github.com/stephaniehicks/mycAffyData) | AffyBatch object from an experiment using P493-6 cells expressing low or high levels of c-Myc. Data from Loven et al. (2012) Cell 151: 476-482.
+- [BackgroundExperimentYeast](https://github.com/stephaniehicks/BackgroundExperimentYeast): AffyBatch object from an experiment to measure NSB and optical noise in yeast.
+

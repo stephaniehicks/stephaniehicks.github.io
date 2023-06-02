@@ -1,0 +1,81 @@
+---
+title: "Stephanie Hicks"
+image: images/Hicks_small.jpg
+about:
+  template: trestles
+  links:
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/stephaniehicks"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/stephaniehicks"
+    - text: Email
+      url: "mailto:shicks19@jhu.edu"
+    - text: Blog
+      url: "blog.html"
+    - text: CV
+      url: "https://www.overleaf.com/read/zkhjvkdbbpvv"  
+comments: false
+---
+::: {.column-body}
+
+<font size= "5"> **Associate Professor of [Biostatistics](https://www.jhsph.edu/departments/biostatistics) at [Johns Hopkins University](https://www.jhu.edu/)** </font>
+
+Stephanie Hicks is an applied statistician working at the intersection of genomics and biomedical data science. 
+
+Her research addresses statistical and computational challenges in single-cell genomics, epigenomics, and spatial transcriptomics leading to an improved understanding of human health and disease. Specifically, she develops fast and scalable [computational methods](projects.qmd) and [open-source software](software.qmd) for biomedical data analysis.
+
+Her research philosophy is [problem-forward](https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/): she develops computational methods and software that are motivated by concrete problems, often with real-world, messy data. This philosophy permeates into her contributions to statistics and data science [education](teaching.qmd), and service to the profession including being an advocate for diversity, equity, and inclusion.
+
+She is also a co-host of the [The Corresponding Author](https://twitter.com/CorrespondAuth) podcast, member of the [Editorial Board for _Genome Biology_](https://genomebiology.biomedcentral.com/about/editorial-board), an Associate Editor for [Reproducibility](https://jasa-acs.github.io/repro-guide/) at the [_Journal of the American Statistical Association_](https://www.tandfonline.com/toc/uasa20/current), and co-founder of [R-Ladies Baltimore](https://www.meetup.com/rladies-baltimore/). 
+
+
+## JHU Affiliations
+
+- Faculty member, [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu)
+- Faculty member, [Center for Computational Biology](https://ccb.jhu.edu/people.php)
+- Faculty member, [Johns Hopkins Data Science Lab](http://jhudatascience.org)
+- Preceptor, [Department of Genetic Medicine](https://www.hopkinsmedicine.org/institute-genetic-medicine/education-training/predoctoral-human-genetics)
+- Preceptor, [Department of Biochemistry and Molecular Biology](http://www.jhu-bmb-phd.org/faculty/stephanie-hicks)
+
+
+## Educational training 
+
+Stephanie received her B.S. in [Mathematics](https://www.math.lsu.edu) from [LSU](https://www.lsu.edu) and her M.A. and Ph.D. from the [Department of Statistics](http://statistics.rice.edu) at [Rice University](http://www.rice.edu) under the direction of [Marek Kimmel](https://profiles.rice.edu/faculty/marek-kimmel) and [Sharon Plon](https://www.bcm.edu/people-search/sharon-plon-28865) ([@splon](https://twitter.com/splon)). 
+
+She completed her postdoctoral training with [Rafael Irizarry](http://rafalab.dfci.harvard.edu) ([@rafalab](https://twitter.com/rafalab)) in the [Department of Data Science](https://ds.dfci.harvard.edu/) at [Dana-Farber Cancer Institute](http://www.dana-farber.org) and [Harvard T.H. Chan School of Public Health](http://www.hsph.harvard.edu/biostatistics). 
+
+## Awards 
+
+Most recently, she was selected for the [Teaching in the Health Sciences Young Investigator Award](https://community.amstat.org/tshs/awards/younginvestigatoraward) and the [COPSS Emerging Leader Award](https://magazine.amstat.org/blog/2021/05/01/2021-copss-award-winners/) (formerly known as the COPSS Leadership Academy Award) from the American Statistical Association (ASA), arguably the statistical profession’s most prestigious award for early career leaders in Statistics and Data Science. 
+
+```{=html}
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/k-0IAFhcLSM" frameborder="0" allowfullscreen></iframe></p>
+```
+
+Github contributions last year
+```{=html}
+<center><img src="http://ghchart.rshah.org/stephaniehicks" alt="Stephanie Hicks's Github chart" /, width = "100%", height = "100%"></a></center>
+```
+
+ <br>
+
+```{=html}
+<center>
+    <a href="https://twitter.com/stephaniehicks" target="_blank"><img src="images/twitter-logo.png" alt="Img link to Email" width="35" height="35"></a>
+    
+    &nbsp; &nbsp;
+     <font color="#D3D3D3" size="5">  /  </font>
+    &nbsp; &nbsp;
+    
+    <a href="https://GitHub.com/stephaniehicks" target="_blank"><img src="images/github-logo.png" alt="Img link to GitHub" width="40" height="40"></a>
+    
+    &nbsp; &nbsp;
+    <font color="#D3D3D3" size="5">  /  </font>
+    &nbsp; &nbsp;
+
+    <a href="mailto:shicks19@jhu.edu" target="_blank"><img src="images/email-logo.png" alt="Img link to Email" width="40" height="40"></a>
+</center> 
+```
+:::

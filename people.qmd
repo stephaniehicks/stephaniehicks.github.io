@@ -1,0 +1,95 @@
+---
+title: "People"
+format:
+    html:
+        toc: true
+        toc-depth: 3
+---
+
+# Current Lab Members 
+
+### Undergraduate students
+
+| <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
+| :--- | :---- | :--- |
+| [Anirudh Nistala](https://www.linkedin.com/in/anirudh-nistala/) | Majoring in CS and Public Health and interested in genomics and data science. | <img width="200" src="images/anirudh_nistala.jpeg"> |
+
+<br>
+
+### Masters students
+
+| <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
+| :--- | :---- | :--- |
+| [Weishan Li](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) using multi-omics data to understand high-grade serous ovarian cancer with unsupervised methods. | <img width="200" src="images/weishan_li.jpg"> |
+| [Haowen Zhou](https://pixel-dream.github.io/) | MS student in [Bioinformatics](https://e-catalogue.jhu.edu/arts-sciences/advanced-academic-programs/programs/center-biotechnology-education/bioinformatics-master-science) developing scalable clustering algorithms for spatial transcriptomics data. | <img width="200" src="images/haowen_zhou.jpeg"> |
+
+
+<br>
+
+### PhD students
+
+| <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
+| :--- | :---- | :--- |
+| [Cindy Fang](https://mobile.twitter.com/findycang) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing computational methods for single-cell and spatial transcriptomics data. | <img width="200" src="images/cindy_fang.jpeg"> |
+| [Erik Nelson](https://cmm.jhmi.edu/index.php/cmm-student/erik-nelson/) | PhD student in [Cellular and Molecular Medicine](https://cmm.jhmi.edu) using single-nucleus RNA-sequencing data to understand human psychiatric disorders (Joint with [Keri Martinowich](https://twitter.com/martinowk)). | <img width="200" src="images/erik_nelson.png"> |
+| [Sowmya Parthiban](https://sowmya-parthiban.com) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing machine learning methods for spatial transcriptomics data. | <img width="200" src="images/sowmya_parthiban.png"> |
+| [Kinnary Shah](https://www.linkedin.com/in/kinnary-shah) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing statistical inference tools for spatial transcriptomics data. | <img width="200" src="images/kinnary_shah.jpg"> |
+
+<br>
+
+### Postdocs
+
+| <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
+| :--- | :---- | :--- |
+| [Boyi Guo](https://boyiguo1.github.io) | Postdoc working on developing scalable statistical learning models for high-dimensional data analysis with emphasis on –omics applications. | <img width="200" src="images/boyi_guo.png"> |
+| [Sean Maden](https://metamaden.github.io/) | Postdoc working on machine learning algorithms and open-source software for large-scale single-cell and spatial transcriptomics data. | <img width="200" src="images/sean_maden.png"> |
+| [Lukas Weber](https://lmweber.github.io) | Postdoc working on data analysis, statistical methodology, software development, and benchmarking for single-cell and spatial transcriptomics data. Awarded the [Early Career Research Symbiont Award](https://researchsymbionts.org) in 2021 and awarded a [NIH/NHGRI K99 grant](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850) in 2022. Starting in Oct 2023, Assistant Professor, BU Biostatistics. | <img width="200" src="images/lukas_weber.jpg"> |
+
+<br>
+
+# Alumni 
+
+### Postdoc Alumni
+
+- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) |  Assistant Professor, Columbia Biostatistics | [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
+
+### PhD Alumni
+
+- [Albert Kuo](https://albertkuo.me) | 2022 | Data Scientist, Amazon
+
+### ScM Alumni
+
+- [Jianing Yao](https://twitter.com/JNinnnngg) | 2023 | PhD student, Johns Hopkins
+- [Yongbao Zhuang](https://yzhuang8.com/home/) | 2022 | PhD student, Karolinska Institute
+- [Nathan Dyjack](https://ntdyjack.github.io/) | 2021 | Data Scientist, MemorialCare Health System
+
+### Rotation Alumni 
+
+- Rafael dos Santos Peixoto | 2022
+- Chaichontat Sriworarat | 2022 
+
+### Undergraduate Alumni 
+
+- Yilin Chen | 2022
+- [Cynthia Lo](https://www.linkedin.com/in/cynthia-d-lo) | 2022 
+
+### Past Research Assistants 
+
+- Michael Ontiveros
+- Kexin (Sheena) Wang 
+- Ruoxi Liu
+- Alexandra Stephens
+- Hanchao (Ted) Zhang
+- Pei-Lun (Perry) Kuo
+
+### Former Friends of the Lab (FFOL)
+
+- [Prashanthi Ravichandran](https://www.linkedin.com/in/prashanthi-ravichandran-96a363a0) | JHU
+- [Anthony Ramnauth](https://www.libd.org/team/anthony-ramnauth) | LIBD
+- [Madhavi Tippani](https://scholar.google.com/citations?user=TQGNTP8AAAAJ&hl=en) | LIBD
+- [Siqi (Alice) Chen](https://bcmb.bs.jhmi.edu/people/siqi-alice-chen) | JHU 
+- [Carrie Wright](ttps://carriewright11.github.io/) | Fred Hutchinson Cancer Center 
+
+### Visitors 
+
+- [Andrea Sottosanti](https://andreasottosanti.github.io) | 2022 | University of Padova, Italy

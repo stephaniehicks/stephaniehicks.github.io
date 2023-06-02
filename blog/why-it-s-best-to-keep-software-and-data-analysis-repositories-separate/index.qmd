@@ -1,0 +1,113 @@
+---
+title: "Why it's best to keep software and data analysis repositories separate"
+author: "Stephanie C. Hicks"
+date: "2022-02-27"
+categories: [data analysis]
+---
+
+Whenever I am wrapping up a project for work (e.g. writing up a manuscript to submit), it's often the case that the project as a whole contains both of the following: 
+
+1. A set of scripts (e.g. `.Rmd` files) that analyzes some **specific** data.
+2. A software package (e.g R package) often **generalizing** some of the functions from #1 that someone else might be able to use to help in their own data analysis.
+
+Both of these are incredibly useful for many reasons, but in different ways. 
+
+For example, in the first category, the idea is to produce set of scripts to enable **reproducibility of the specific analyses presented in the project** (e.g. peer-reviewed manuscript). Also, this is a way to provide larger details on the motivation or intentional decisions behind the choices made in the data analysis. There are a variety of reasons someone down the line, including myself 6 months or 6 years from now, might be interested in the exact code written in this project, including debugging something, wanting to build upon the work, or challenging the work. 
+
+In the second category, the idea is that I have identified a piece of code that can be **generalized into a function** that might be useful to someone else, including myself, for a future project. There are many [best practices behind developing R packages](https://r-pkgs.org/workflows101.html), but one that wasn't very clear to me at first when I starting writing my own software was: 
+
+
+> **Software and data analysis repositories are not the same and should be kept in separate places.** 
+
+# The problem? 
+
+Let me give you an example of something I've seen lately. Someone publishes a pre-print or a paper with a link to a GitHub repository to the `foobar` software package. I click on the link see the following structure: 
+
+
+
+
+```{r, echo=FALSE}
+library(listdown)
+
+file_type <- function() {
+  a = 0
+  class(a) <- "file"
+  a
+}
+dir_type <- function() {
+  a = 0
+  class(a) <- "dir"
+  a
+}
+
+`foobar project directory` <- list(
+  ".here" = file_type(),
+  "README.md" = file_type(),
+  "NAMESPACE" = file_type(),
+  "DESCRIPTION" = file_type(),
+  "LICENSE" = file_type(),
+  "foobar.Rproj" = file_type(),
+  "R/" = dir_type(),
+  "man/" = dir_type(),
+  "vignettes/" = dir_type(),
+  "preprocessing_for_paper/" = dir_type(),
+  "simulations_for_paper/" = dir_type(),
+  "real_analyses_for_paper/" = dir_type(),
+  "fig_scripts_for_paper/" = dir_type(),
+  "data_for_paper/" = dir_type()
+)
+ld_cc_dendro(`foobar project directory`)
+```
+
+The problem with this project directory is that it is mixing up both #1 and #2 above and placing everything in one directory. This places an undue burden on a potential user to have to sift through these two types of code and depending on what they are interested in using, they might have to make modifications for how the software is installed. 
+
+# How to improve? 
+
+A better way to go is to keep these two in separate directories or repositories called `foobar` and `foobar_paper`. Specifically, the scripts to reproduce the analyses should be place in one repository (e.g. called `foobar_paper` or `foorbar_project`): 
+
+```{r, echo=FALSE}
+`foobar paper analysis directory` <- list(
+  ".here" = file_type(),
+  "README.md" = file_type(),
+  "preprocessing_for_paper/" = dir_type(),
+  "simulations_for_paper/" = dir_type(),
+  "real_analyses_for_paper/" = dir_type(),
+  "fig_scripts_for_paper/" = dir_type(),
+  "data_for_paper/" = dir_type()
+)
+ld_cc_dendro(`foobar paper analysis directory`)
+```
+
+and the software that generalizes some code into a function for others to use should be placed in a different repository (e.g. called `foobar`, etc): 
+
+```{r, echo=FALSE}
+`foobar software directory` <- list(
+  ".here" = file_type(),
+  "README.md" = file_type(),
+  "NAMESPACE" = file_type(),
+  "DESCRIPTION" = file_type(),
+  "LICENSE" = file_type(),
+  "foo_package.Rproj" = file_type(),
+  "R/" = dir_type(),
+  "man/" = dir_type(),
+  "vignettes/" = dir_type()
+)
+ld_cc_dendro(`foobar software directory`)
+```
+
+This is good for a few reasons including: 
+
+1. It keeps the two separate, but equally important, concepts of **specific analysis code** vs **generalized code** in different places, with links between the two, if useful.
+2. It keeps the repositories as lightweight as possible. 
+3. Installation of the `foobar` software package is more straightforward.
+4. It enables you to potentially create new generalized functions in the future (i.e. make new software packages) that might have been originally derived from this project.
+5. (Update 2022-03-02): It makes it more likely that the `foobar` software package is reusable independently of the paper code or context (h/t [Rahul Karnik](https://twitter.com/genebrew/status/1498289144937787394)).
+
+# Alternatives
+
+(Update 2022-03-02): Konrad Rudolph made a [great point that there are alternative approaches](https://twitter.com/klmr/status/1498294352627568645) to these nested package approaches that enable organizing R code in a modular way without the ned to wrap code into a formal R package. For example, using [modules from `box`](https://klmr.me/box). The idea is you can write "modular code by treating files and folders of R code as independent (potentially nested) modules, without requiring the user to wrap reusable code into packages".
+
+# Acknowledgements
+
+Thank you to the [`listdown` R package](https://github.com/kaneplusplus/listdown) from [Michael Kane](https://ysph.yale.edu/profile/michael_kane), which automated the folder structures above. 
+
