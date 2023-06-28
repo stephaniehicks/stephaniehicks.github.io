@@ -28,4 +28,7 @@ editor: visual
 execute:
   freeze: auto
 
+resources:
+  - CNAME
+
 
