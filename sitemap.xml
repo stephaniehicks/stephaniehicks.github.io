@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/why-it-s-best-to-keep-software-and-data-analysis-repositories-separate/index.html</loc>
-    <lastmod>2023-06-19T13:29:37.673Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/index.html</loc>
-    <lastmod>2023-06-19T13:29:38.553Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/building-a-brand-as-a-scientist/index.html</loc>
-    <lastmod>2023-06-19T13:29:39.429Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/asa-women-in-statistics-rotating-curators/index.html</loc>
-    <lastmod>2023-06-19T13:29:39.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/super-women-statisticians-and-data-scientists/index.html</loc>
-    <lastmod>2023-06-19T13:29:40.429Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/index.html</loc>
-    <lastmod>2023-06-19T13:29:40.873Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/new-year-new-blog/index.html</loc>
-    <lastmod>2023-06-19T13:29:41.273Z</lastmod>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/projects.html</loc>
+    <lastmod>2023-06-28T02:27:08.230Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/index.html</loc>
-    <lastmod>2023-06-19T13:29:41.829Z</lastmod>
+    <lastmod>2023-06-28T02:27:06.862Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/join.html</loc>
-    <lastmod>2023-06-19T13:29:42.297Z</lastmod>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/index.html</loc>
+    <lastmod>2023-06-28T02:27:06.074Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/people.html</loc>
-    <lastmod>2023-06-19T13:29:42.921Z</lastmod>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/asa-women-in-statistics-rotating-curators/index.html</loc>
+    <lastmod>2023-06-28T02:27:05.374Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/index.html</loc>
-    <lastmod>2023-06-19T13:29:43.397Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/talks.html</loc>
-    <lastmod>2023-06-19T13:29:44.821Z</lastmod>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/why-it-s-best-to-keep-software-and-data-analysis-repositories-separate/index.html</loc>
+    <lastmod>2023-06-28T02:27:04.570Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/teaching.html</loc>
-    <lastmod>2023-06-19T13:29:45.429Z</lastmod>
+    <lastmod>2023-06-28T02:27:03.458Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/people.html</loc>
+    <lastmod>2023-06-28T02:27:02.398Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog.html</loc>
-    <lastmod>2023-06-19T13:29:46.421Z</lastmod>
+    <lastmod>2023-06-28T02:27:00.858Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/index.html</loc>
+    <lastmod>2023-06-28T02:26:59.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/talks.html</loc>
+    <lastmod>2023-06-28T02:27:01.930Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/software.html</loc>
-    <lastmod>2023-06-19T13:29:47.169Z</lastmod>
+    <lastmod>2023-06-28T02:27:02.958Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/projects.html</loc>
-    <lastmod>2023-06-19T13:29:48.433Z</lastmod>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/building-a-brand-as-a-scientist/index.html</loc>
+    <lastmod>2023-06-28T02:27:04.126Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/super-women-statisticians-and-data-scientists/index.html</loc>
+    <lastmod>2023-06-28T02:27:04.990Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/index.html</loc>
+    <lastmod>2023-06-28T02:27:05.750Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/blog/new-year-new-blog/index.html</loc>
+    <lastmod>2023-06-28T02:27:06.410Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/stephaniehicks/stephaniehicks.github.io/join.html</loc>
+    <lastmod>2023-06-28T02:27:07.230Z</lastmod>
   </url>
 </urlset>
