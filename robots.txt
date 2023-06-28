@@ -1,1 +1,1 @@
-Sitemap: https://github.com/stephaniehicks/stephaniehicks.github.io/sitemap.xml
+Sitemap: https://www.stephaniehicks.com/sitemap.xml
