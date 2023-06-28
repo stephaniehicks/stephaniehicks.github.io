@@ -4,13 +4,14 @@ title: "Talks"
 
 ### 2024 
 
-- [Statistical Aspects of Trustworthy Machine Learning](https://www.birs.ca/events/2024/5-day-workshops/24w5284) at Banff International Research Station. 2024 Feb 11-16. Banff, Alberta. CA.
+- **Keynote presentation** at the Workshop on Spatial and Temporal Statistical Modeling in Molecular Biology at Congressi Stefano Franscini at Monte Verità. 2024 Sept 8-13. Ascona, Switzerland.
+- Co-organizer of [Statistical Aspects of Trustworthy Machine Learning](https://www.birs.ca/events/2024/5-day-workshops/24w5284) at Banff International Research Station. 2024 Feb 11-16. Banff, Alberta. CA.
 - **Plenary talk** at Advances in Genome Biology and Technology (AGBT). 2024 Feb 5-8. Orlando, FL. USA.
 
 
 ### 2023
 
-- CSHL Winter Course on Computational Genomics Course. 2023 Nov 29-Dec 6. Cold Spring Harbor Laboratory. USA.
+- CSHL Computational Genomics Course. 2023 Nov 29-Dec 6. Cold Spring Harbor Laboratory. USA.
 - **Keynote presentation** at the Workshop on Reading, Assembling, Analyzing, and Designing Genomic Data at the AI in Health Conference. 2023 Oct 9. Houston, TX. USA.
 - Invited session on "Advanced Statistical Methods in Spatial biology". Joint Statistical Meetings. 2023 Aug 5-10. Toronto, Ontario. CA.
 - Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2023 Jul 18. Bar Harbor, ME. USA. 
