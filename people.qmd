@@ -30,6 +30,7 @@ format:
 
 | <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
 | :--- | :---- | :--- |
+| [Alyssa Columbus](https://alyssacolumbus.com/) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative) at Johns Hopkins University defining elements and principles for characterizing and evaluating data analyses. | <img width="200" src="images/alyssa_columbus.jpeg"> |
 | [Cindy Fang](https://mobile.twitter.com/findycang) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing computational methods for single-cell and spatial transcriptomics data. | <img width="200" src="images/cindy_fang.jpeg"> |
 | [Erik Nelson](https://cmm.jhmi.edu/index.php/cmm-student/erik-nelson/) | PhD student in [Cellular and Molecular Medicine](https://cmm.jhmi.edu) using single-nucleus RNA-sequencing data to understand human psychiatric disorders (Joint with [Keri Martinowich](https://twitter.com/martinowk)). | <img width="200" src="images/erik_nelson.png"> |
 | [Sowmya Parthiban](https://sowmya-parthiban.com) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing machine learning methods for spatial transcriptomics data. | <img width="200" src="images/sowmya_parthiban.png"> |
