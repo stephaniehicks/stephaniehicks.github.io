@@ -122,14 +122,14 @@ To address some of these challenges, we have developed standardized data infrast
 2. **Guo B**, Hicks SC (2023). [escheR: Unified multi-dimensional visualizations with Gestalt principles](https://doi.org/10.1101/2023.03.18.533302). _bioRxiv_.
 3. Pardo B, Spangler A, **Weber LM**, **Hicks SC**, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. [spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data](https://doi.org/10.1186/s12864-022-08601-w). _BMC Genomics_. 
 4. Tippani M, Divecha HR, Catallini JL, **Weber LM**, Spangler A, Jaffe AE, **Hicks SC**, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). [VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data](https://doi.org/10.1101/2021.08.04.452489). _bioRxiv_.
-5. **Sriworarat C**, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Maynard KR, **Hicks SC**. (2023). [Performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments](https://doi.org/10.1101/2023.01.28.525943). _bioRxiv_.
+5. **Sriworarat C**, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Maynard KR, **Hicks SC**. (2023). [Performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments](https://doi.org/10.1101/2023.01.28.525943). Accepted in _Biological Imaging_.
 
 
 #### Methods to identify spatially variable genes
 
 Feature selection to identify spatially variable genes (SVGs) is a key step during analyses of SRT data. We developed a scalable approach to identify SVGs based on nearest-neighbor Gaussian processes (GPs), which uses gene-specific estimates of length scale parameters within GP models, and scales linearly with the number of spatial locations (1).
 
-1. **Weber LM**, Saha A, Datta A, Hansen KD, **Hicks SC**. (2022). [nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1). Accepted in _Nature Communications_.
+1. **Weber LM**, Saha A, Datta A, Hansen KD, **Hicks SC**. (2023). [nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes](https://doi.org/10.1038/s41467-023-39748-z). _Nature Communications_.
 
 
 #### Spatial atlases in neuroscience
