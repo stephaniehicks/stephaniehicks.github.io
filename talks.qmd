@@ -11,6 +11,7 @@ title: "Talks"
 
 ### 2023
 
+- Invited panel at American College of Neuropsychopharmacology (ACNP) 62nd Annual Meeting. 2023 Dec 3-6. Tampa, FL. USA.
 - CSHL Computational Genomics Course. 2023 Nov 29-Dec 6. Cold Spring Harbor Laboratory. USA.
 - **Keynote presentation** at the Workshop on Reading, Assembling, Analyzing, and Designing Genomic Data at the AI in Health Conference. 2023 Oct 9. Houston, TX. USA.
 - Invited session on "Advanced Statistical Methods in Spatial biology". Joint Statistical Meetings. 2023 Aug 5-10. Toronto, Ontario. CA.

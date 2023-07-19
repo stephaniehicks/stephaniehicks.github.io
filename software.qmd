@@ -43,7 +43,7 @@ format:
 
 #### Software packages 
 
-- [Python/samui](https://github.com/chaichontat/samui) | A performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments called [Samui Browser](https://samuibrowser.com). ([Sriworarat et al., 2023. _Biological Imaging_](https://doi.org/10.1101/2023.01.28.525943))
+- [Python/samui](https://github.com/chaichontat/samui) | A performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments called [Samui Browser](https://samuibrowser.com). ([Sriworarat et al., 2023. _Biological Imaging_](https://doi.org/10.1017/S2633903X2300017X))
 - [Python/minicore](https://github.com/dnbaker/minicore) | Fast, generic library for constructing and clustering coresets on graphs, in metric spaces and under non-metric dissimilarity measures for count data and probability distributions. ([Baker et al., 2021. _ACM Conference on Bioinformatics_](https://pubmed.ncbi.nlm.nih.gov/34778889/)).
 
 ## GitHub
