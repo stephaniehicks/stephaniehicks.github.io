@@ -27,6 +27,7 @@ Normalization is an essential step for the analysis of genomics high-throughput 
 3.	Kumar MS, Slud EV, Okrah K, **Hicks SC**, Hannenhalli S, Corrada Bravo H (2018). [Analysis and correction of compositional bias in sparse sequencing count data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5160-5). _BMC Genomics_. 
 4. Wang Y, **Hicks SC**, Hansen KD (2022). [Addressing the mean-correlation relationship in co-expression analysis](https://doi.org/10.1371/journal.pcbi.1009954). _PLOS Computational Biology_.
 
+
 #### Statistical methods for deconvolution bulk tissue samples 
 
 Bulk tissue samples are often profiled due to their ease of access and low cost to sequence. A major challenge in the analysis of bulk tissue samples is they are typically made up of heterogenous cell types, for example whole blood or brain tissue. This intra-sample cellular heterogeneity is a source of variation than can sometimes be confounded with an outcome or phenotype of interest. If unaccounted for, false positives ensue. Previously, I developed statistical methods to estimate the cell type proportions in whole blood DNAm samples (1). Currently, I am developing [cellular deconvolution methods for human brain RNA-seq data](https://reporter.nih.gov/search/qPVsXfCAiEWzTUirO5-Ppg/project-details/10138028#similar-Projects) (R01MH13183). One major source of variation in brain issue is how the cell sizes and cell abundance varies across cell types, which can lead to inaccurate estimates of cell type proportions in bulk RNA-seq (2). I recently developed a data-driven method to estimate the RNA abundance from cell types in heterogeneous tissues using sc/snRNA-seq and smFISH (3). 
@@ -36,6 +37,14 @@ Bulk tissue samples are often profiled due to their ease of access and low cost 
 2. Maden SK, Kwon SH, Huuki-Myers LA, Collado-Torres L, **Hicks SC**,  Maynard KR. (2023). [Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets](https://arxiv.org/abs/2305.06501). _arXiv_.
 
 3. Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2022). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1101/2022.04.28.489923). _bioRxiv_.
+
+
+### Methods to identify differences between groups in high-throughput data
+
+Identifying differences between biological groups or conditions in high-throughput data is a standard data analysis task. Recent effors have focused on identify differences between genes, but also transcripts. For example, differential transcript usage (DTU) has been shown to be important between cells, tissues, and biological systems. We developed a computational tool to quantify heterogeneity in transcript usage within a population of bulk RNA-seq samples and identifies predominant subgroups along with their distinctive sets of DTU events (1).
+
+1. Erdogdu B, Varabyou A, **Hicks SC**, Salzberg SL, Pertea M. (2023). [Detecting differential transcript usage in complex diseases with SPIT](https://doi.org/10.1101/2023.07.10.548289). _bioRxiv_.
+
 
 
 ## Benchmarking open-source software for genomics data 
@@ -88,7 +97,7 @@ Computational methods and open-source software to store, access, and analyze sin
 Another important question is how to identify differences between biological groups or conditions in single-cell data. For example, these count-based models, such as Poisson or negative binomial, can be generalized using the Tweedie family of distributions, which we used to develop a statistical method to identify differentially expressed genes (1). Similarly, we have developed methods for differential pseudotime analysis (gene expression or cell abundance) with multiple samples per group using B-splines (2).
 
 1. Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A, **Hicks SC**. (2021). [Differential expression of single-cell RNA-seq data using Tweedie models](http://doi.org/10.1002/sim.9430). _Statistics in Medicine_.
-2. **Hou W**, Ji Z, Chen Z, Wherry EJ, **Hicks SC**, Ji H. (2021). [A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples](https://doi.org/10.1101/2021.07.10.451910). _bioRxiv_.
+2. **Hou W**, Ji Z, Chen Z, Wherry EJ, **Hicks SC**, Ji H. (2021). [A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples](https://doi.org/10.1101/2021.07.10.451910). Accepted in _Nature Communications_.
 
 
 #### High-grade serous ovarian cancer subtypes with single-cell profiling

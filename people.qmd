@@ -8,13 +8,6 @@ format:
 
 # Current Lab Members 
 
-### Undergraduate students
-
-| <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
-| :--- | :---- | :--- |
-| [Anirudh Nistala](https://www.linkedin.com/in/anirudh-nistala/) | Majoring in CS and Public Health and interested in genomics and data science. | <img width="200" src="images/anirudh_nistala.jpeg"> |
-
-<br>
 
 ### Masters students
 
@@ -44,7 +37,7 @@ format:
 | :--- | :---- | :--- |
 | [Boyi Guo](https://boyiguo1.github.io) | Postdoc working on developing scalable statistical learning models for high-dimensional data analysis with emphasis on –omics applications. | <img width="200" src="images/boyi_guo.png"> |
 | [Sean Maden](https://metamaden.github.io/) | Postdoc working on machine learning algorithms and open-source software for large-scale single-cell and spatial transcriptomics data. | <img width="200" src="images/sean_maden.png"> |
-| [Lukas Weber](https://lmweber.github.io) | Postdoc working on data analysis, statistical methodology, software development, and benchmarking for single-cell and spatial transcriptomics data. Awarded the [Early Career Research Symbiont Award](https://researchsymbionts.org) in 2021 and awarded a [NIH/NHGRI K99 grant](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850) in 2022. Starting in Oct 2023, Assistant Professor, BU Biostatistics. | <img width="200" src="images/lukas_weber.jpg"> |
+| [Michael Totty](https://www.linkedin.com/in/mictott/) | Postdoc leading single-nucleus RNA-sequencing and spatially-resolved transcriptomic projects to understand human psychiatric disorders. | <img width="200" src="images/michael_totty.png"> |
 
 <br>
 
@@ -52,7 +45,8 @@ format:
 
 ### Postdoc Alumni
 
-- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) |  Assistant Professor, Columbia Biostatistics | [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
+- [Lukas Weber](https://lmweber.github.io) | Assistant Professor, Boston University, Biostatistics | [NIH/NHGRI K99/R00 grant](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850)
+- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) |  Assistant Professor, Columbia, Biostatistics | [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
 
 ### PhD Alumni
 

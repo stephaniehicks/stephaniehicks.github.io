@@ -48,7 +48,7 @@ She completed her postdoctoral training with [Rafael Irizarry](http://rafalab.df
 
 ## Awards 
 
-Most recently, she was selected for the [Teaching in the Health Sciences Young Investigator Award](https://community.amstat.org/tshs/awards/younginvestigatoraward) and the [COPSS Emerging Leader Award](https://magazine.amstat.org/blog/2021/05/01/2021-copss-award-winners/) (formerly known as the COPSS Leadership Academy Award) from the American Statistical Association (ASA), arguably the statistical profession’s most prestigious award for early career leaders in Statistics and Data Science. 
+She was selected for the [Teaching in the Health Sciences Young Investigator Award](https://community.amstat.org/tshs/awards/younginvestigatoraward) and the [COPSS Emerging Leader Award](https://magazine.amstat.org/blog/2021/05/01/2021-copss-award-winners/) (formerly known as the COPSS Leadership Academy Award) from the American Statistical Association (ASA), arguably the statistical profession’s most prestigious award for early career leaders in Statistics and Data Science. Most recently, she was awarded the [Myrto Lefkopoulou Distinguished Lectureship](https://www.hsph.harvard.edu/biostatistics/myrto-award) in 2023 from the Harvard T. H. Chan School of Public Health.
 
 ```{=html}
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/k-0IAFhcLSM" frameborder="0" allowfullscreen></iframe></p>
