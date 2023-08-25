@@ -4,8 +4,11 @@ title: "Talks"
 
 ### 2024 
 
-- Department of Biostatistics. Unviersity of Washington. 2024 Apr 25. Seattle, WA. USA. 
+
 - **Keynote presentation** at the Workshop on Spatial and Temporal Statistical Modeling in Molecular Biology at Congressi Stefano Franscini at Monte Verità. 2024 Sept 8-13. Ascona, Switzerland.
+- Department of Biostatistics, Epidemiology and Informatics. Perelman School of Medicine at the University of Pennsylvania. 2024 May 7. Philadelphia, PA. USA. 
+- Department of Biostatistics. Unviersity of Washington. 2024 Apr 25. Seattle, WA. USA. 
+- Invited session on "Statistical methods for population scale single cell RNA-seq data and spatial transcriptomics". ENAR Conference. 2024 Mar 10-13. Baltimore, MD. USA. 
 - Co-organizer of [Statistical Aspects of Trustworthy Machine Learning](https://www.birs.ca/events/2024/5-day-workshops/24w5284) at Banff International Research Station. 2024 Feb 11-16. Banff, Alberta. CA.
 - **Plenary talk** at Advances in Genome Biology and Technology (AGBT). 2024 Feb 5-8. Orlando, FL. USA.
 
@@ -14,7 +17,9 @@ title: "Talks"
 
 - Invited panel at American College of Neuropsychopharmacology (ACNP) 62nd Annual Meeting. 2023 Dec 3-6. Tampa, FL. USA.
 - CSHL Computational Genomics Course. 2023 Nov 29-Dec 6. Cold Spring Harbor Laboratory. USA.
+- Department of Statistical Sciences. Wake Forest University. 2023 Oct 17. Winston-Salem, NC. USA
 - **Keynote presentation** at the Workshop on Reading, Assembling, Analyzing, and Designing Genomic Data at the AI in Health Conference. 2023 Oct 9. Houston, TX. USA.
+- Myrto Lefkopoulou Distinguished Lecturership. Harvard T. H. Chan School of Public Health. 2023 Sept 21. Boston, MA. USA. 
 - Mathematical Institute for Data Science (MINDS) / Center for Imaging Science (CIS). Johns Hopkins University. 2023 Sept 12. Baltimore, MD. USA. 
 - Invited session on "Advanced Statistical Methods in Spatial biology". Joint Statistical Meetings. 2023 Aug 5-10. Toronto, Ontario. CA.
 - Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2023 Jul 18. Bar Harbor, ME. USA. 
@@ -24,12 +29,12 @@ title: "Talks"
 - Translational Data Science Integrated Research Center. Fred Hutch. 2023 May 4. Seattle, WA. USA.
 - Department of Biomedical Engineering. Johns Hopkins University. 2023 Apr 20. Baltimore, MD. USA.
 - Department of Biostatistics. Vanderbilt University. 2023 Mar 29. Nashville, TN. USA.
-- Scalable identification of spatially variable genes using nearest-neighbor Gaussian processes. Invited session on "Decomposing Admixed Genomics Data: Cell-type-aware Analysis Methodology Advances". ENAR Conference. 2023 Mar 19-22. Nashville, TN. USA. 
+- Invited session on "Decomposing Admixed Genomics Data: Cell-type-aware Analysis Methodology Advances". ENAR Conference. 2023 Mar 19-22. Nashville, TN. USA. 
 - Moderator at the 'Single Cells, Single Cells, Single All the Way' session. American Association for the Advancement of Science (AAAS) Annual Meeting. 2023 Mar 2-5. Washington D.C. USA.
 - JHU Biostatistics PhD Visitors Weekend. 2023 Feb 17. Baltimore, MD. USA.
 - Genetics, Bioinformatics and Systems Biology Colloquium. UCSD Bioinformatics and Systems Biology (BISB) Graduate Program. 2023 Feb 16. San Diego, CA. USA. 
-- Scalable statistical methods and software for single-cell and spatial data science. Center for Bioinformatics and Computational Biology (CBCB).  University of Maryland. 2023 Feb 2. College Park, MD. USA.
-- Reproducibility standards for machine learning in the life sciences. Institute for Data Science and Artificial Intelligence. Department of Mathematics. University of Exeter. 2023 Feb 1. Exeter, South West England, United Kingdom.
+- Center for Bioinformatics and Computational Biology (CBCB).  University of Maryland. 2023 Feb 2. College Park, MD. USA.
+- Institute for Data Science and Artificial Intelligence. Department of Mathematics. University of Exeter. 2023 Feb 1. Exeter, South West England, United Kingdom.
 - Boston R/Bioconductor for Genomics. 2023 Jan 27. Boston, MA. USA. 
 
 ### 2022
