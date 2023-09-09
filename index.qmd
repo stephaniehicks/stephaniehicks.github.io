@@ -20,7 +20,7 @@ comments: false
 ---
 ::: {.column-body}
 
-<font size= "5"> **Associate Professor of [Biostatistics](https://www.jhsph.edu/departments/biostatistics) at [Johns Hopkins University](https://www.jhu.edu/)** </font>
+<font size= "5"> **Associate Professor of [Biomedical Engineering](https://www.bme.jhu.edu/) and [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at [Johns Hopkins University](https://www.jhu.edu/)** </font>
 
 Stephanie Hicks is an applied statistician working at the intersection of genomics and biomedical data science. 
 
@@ -33,6 +33,8 @@ She is also a co-host of the [The Corresponding Author](https://twitter.com/Corr
 
 ## JHU Affiliations
 
+- Associate Professor, [Biomedical Engineering](https://www.bme.jhu.edu/) 
+- Associate Professor, [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics)
 - Faculty member, [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu)
 - Faculty member, [Center for Computational Biology](https://ccb.jhu.edu/people.php)
 - Faculty member, [Johns Hopkins Data Science Lab](http://jhudatascience.org)

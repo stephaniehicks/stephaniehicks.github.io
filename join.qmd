@@ -11,7 +11,7 @@ If our projects don't seem that interesting to you, I'm also happy to help intro
 
 ### For prospective students at Johns Hopkins
 
-**Please note**: If you are interested in working in my group at Hopkins for your PhD, you must be admitted to a graduate program at JHU [Biostatistics](http://www.jhsph.edu/departments/biostatistics/).
+**Please note**: If you are interested in working in my group at Hopkins for your PhD, you must be admitted to a graduate program at JHU [Biomedical Engineering](https://www.bme.jhu.edu/) or [Biostatistics](http://www.jhsph.edu/departments/biostatistics/).
 
 I am excited to work with students in any department at JHU. I am not on the admissions committee so I do not have any say over whether you will get admitted. But if you want to do a PhD at Hopkins Biostat and you have written a cool R package and put it on Github or done an awesome data analysis and posted it on the web, then I want to hear from you. Send me an email with your CV attached, a link to your project, and a one liner about the coolest research project you can think of that relates to anything me or any of my colleagues do. However, please keep in mind I am not on the admission committee and I have no say over who gets admitted to the department, but once you are admitted I'd love to talk more!
 
