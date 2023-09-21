@@ -38,7 +38,7 @@ format:
 | :--- | :---- | :--- |
 | [Boyi Guo](https://boyiguo1.github.io) | Postdoc working on developing scalable statistical learning models for high-dimensional data analysis with emphasis on –omics applications. | <img width="200" src="images/boyi_guo.png"> |
 | [Sean Maden](https://metamaden.github.io/) | Postdoc working on machine learning algorithms and open-source software for large-scale single-cell and spatial transcriptomics data. | <img width="200" src="images/sean_maden.png"> |
-| [Michael Totty](https://www.linkedin.com/in/mictott/) | Postdoc leading single-nucleus RNA-sequencing and spatially-resolved transcriptomic projects to understand human psychiatric disorders. [NIH/NHMH F32 awardee]()| <img width="200" src="images/michael_totty.png"> |
+| [Michael Totty](https://www.linkedin.com/in/mictott/) | Postdoc leading single-nucleus RNA-sequencing and spatially-resolved transcriptomic projects to understand human psychiatric disorders. [NIH/NHMH F32 awardee](). | <img width="200" src="images/michael_totty.png"> |
 
 <br>
 
