@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.stephaniehicks.com/teaching.html</loc>
-    <lastmod>2023-09-09T01:27:25.816Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog.html</loc>
-    <lastmod>2023-09-09T01:27:24.932Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/index.html</loc>
-    <lastmod>2023-09-09T01:27:23.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/index.html</loc>
-    <lastmod>2023-09-09T01:27:22.888Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/index.html</loc>
-    <lastmod>2023-09-09T01:27:21.760Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/index.html</loc>
-    <lastmod>2023-09-09T01:27:20.884Z</lastmod>
+    <loc>https://www.stephaniehicks.com/people.html</loc>
+    <lastmod>2023-09-21T03:28:20.238Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/software.html</loc>
-    <lastmod>2023-09-09T01:27:20.004Z</lastmod>
+    <lastmod>2023-09-21T03:28:18.326Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/talks.html</loc>
-    <lastmod>2023-09-09T01:27:18.972Z</lastmod>
+    <lastmod>2023-09-21T03:28:16.642Z</lastmod>
   </url>
   <url>
-    <loc>https://www.stephaniehicks.com/projects.html</loc>
-    <lastmod>2023-09-09T01:27:16.380Z</lastmod>
+    <loc>https://www.stephaniehicks.com/teaching.html</loc>
+    <lastmod>2023-09-21T03:28:14.745Z</lastmod>
   </url>
   <url>
-    <loc>https://www.stephaniehicks.com/index.html</loc>
-    <lastmod>2023-09-09T01:27:19.396Z</lastmod>
+    <loc>https://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/index.html</loc>
+    <lastmod>2023-09-21T03:28:13.561Z</lastmod>
   </url>
   <url>
-    <loc>https://www.stephaniehicks.com/blog/why-it-s-best-to-keep-software-and-data-analysis-repositories-separate/index.html</loc>
-    <lastmod>2023-09-09T01:27:20.488Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/index.html</loc>
-    <lastmod>2023-09-09T01:27:21.296Z</lastmod>
+    <loc>https://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/index.html</loc>
+    <lastmod>2023-09-21T03:28:12.165Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/blog/super-women-statisticians-and-data-scientists/index.html</loc>
-    <lastmod>2023-09-09T01:27:22.164Z</lastmod>
+    <lastmod>2023-09-21T03:28:11.161Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/blog/new-year-new-blog/index.html</loc>
-    <lastmod>2023-09-09T01:27:23.208Z</lastmod>
+    <lastmod>2023-09-21T03:28:10.145Z</lastmod>
   </url>
   <url>
-    <loc>https://www.stephaniehicks.com/people.html</loc>
-    <lastmod>2023-09-09T01:27:24.072Z</lastmod>
+    <loc>https://www.stephaniehicks.com/index.html</loc>
+    <lastmod>2023-09-21T03:28:09.317Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/index.html</loc>
+    <lastmod>2023-09-21T03:28:10.653Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/index.html</loc>
+    <lastmod>2023-09-21T03:28:11.721Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/index.html</loc>
+    <lastmod>2023-09-21T03:28:13.073Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/why-it-s-best-to-keep-software-and-data-analysis-repositories-separate/index.html</loc>
+    <lastmod>2023-09-21T03:28:14.117Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/join.html</loc>
-    <lastmod>2023-09-09T01:27:25.308Z</lastmod>
+    <lastmod>2023-09-21T03:28:15.202Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog.html</loc>
+    <lastmod>2023-09-21T03:28:17.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/projects.html</loc>
+    <lastmod>2023-09-21T03:28:19.654Z</lastmod>
   </url>
 </urlset>
