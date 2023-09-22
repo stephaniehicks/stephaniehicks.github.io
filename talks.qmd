@@ -19,9 +19,7 @@ title: "Talks"
 - CSHL Computational Genomics Course. 2023 Nov 29-Dec 6. Cold Spring Harbor Laboratory. USA.
 - Department of Statistical Sciences. Wake Forest University. 2023 Oct 17. Winston-Salem, NC. USA
 - **Keynote presentation** at the Workshop on Reading, Assembling, Analyzing, and Designing Genomic Data at the AI in Health Conference. 2023 Oct 9. Houston, TX. USA.
-- [Problem-forward statistics 
-and data science to improve 
-human health](https://docs.google.com/presentation/d/1aA88BFWQEKHfLVzIXGq1NmcDzSaqyzCCnHjzJrQEf6Q/edit?usp=sharing). Myrto Lefkopoulou Distinguished Lecturership. Harvard T. H. Chan School of Public Health. 2023 Sept 21. Boston, MA. USA. 
+- Myrto Lefkopoulou Distinguished Lecturership. Harvard T. H. Chan School of Public Health. 2023 Sept 21. Boston, MA. USA. 
 - Mathematical Institute for Data Science (MINDS) / Center for Imaging Science (CIS). Johns Hopkins University. 2023 Sept 12. Baltimore, MD. USA. 
 - Invited session on "Advanced Statistical Methods in Spatial biology". Joint Statistical Meetings. 2023 Aug 5-10. Toronto, Ontario. CA.
 - Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2023 Jul 18. Bar Harbor, ME. USA. 
