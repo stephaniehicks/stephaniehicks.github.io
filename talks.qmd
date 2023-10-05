@@ -1,11 +1,16 @@
 ---
 title: "Talks"
+format:
+    html:
+        toc: true
+        toc-depth: 3
 ---
 
 ### 2024 
 
 
 - **Keynote presentation** at the Workshop on Spatial and Temporal Statistical Modeling in Molecular Biology at Congressi Stefano Franscini at Monte Verità. 2024 Sept 8-13. Ascona, Switzerland.
+- Boston University Bioinformatics Student-Organized Symposium. 2024 June 5. Boston, MA. USA.
 - Department of Biostatistics, Epidemiology and Informatics. Perelman School of Medicine at the University of Pennsylvania. 2024 May 7. Philadelphia, PA. USA. 
 - Department of Biostatistics. Unviersity of Washington. 2024 Apr 25. Seattle, WA. USA. 
 - Invited session on "Statistical methods for population scale single cell RNA-seq data and spatial transcriptomics". ENAR Conference. 2024 Mar 10-13. Baltimore, MD. USA. 
@@ -21,6 +26,9 @@ title: "Talks"
 - Department of Statistical Sciences. Wake Forest University. 2023 Oct 17. Winston-Salem, NC. USA
 - **Keynote presentation** at the Workshop on Reading, Assembling, Analyzing, and Designing Genomic Data at the AI in Health Conference. 2023 Oct 9. Houston, TX. USA.
 - Myrto Lefkopoulou Distinguished Lecturership. Harvard T. H. Chan School of Public Health. 2023 Sept 21. Boston, MA. USA. 
+
+<p align="center"><img src="images/stephanie_myrto.png" alt="2023 Mytro Award" style="width:50%"></p>
+
 - Mathematical Institute for Data Science (MINDS) / Center for Imaging Science (CIS). Johns Hopkins University. 2023 Sept 12. Baltimore, MD. USA. 
 - Invited session on "Advanced Statistical Methods in Spatial biology". Joint Statistical Meetings. 2023 Aug 5-10. Toronto, Ontario. CA.
 - Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2023 Jul 18. Bar Harbor, ME. USA. 
