@@ -36,7 +36,7 @@ Bulk tissue samples are often profiled due to their ease of access and low cost 
 
 2. Maden SK, Kwon SH, Huuki-Myers LA, Collado-Torres L, **Hicks SC**,  Maynard KR. (2023). [Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets](https://arxiv.org/abs/2305.06501). _arXiv_.
 
-3. Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2022). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1101/2022.04.28.489923). _bioRxiv_.
+3. Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2022). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1101/2022.04.28.489923). Accepted in _Genome Biology_.
 
 
 ### Methods to identify differences between groups in high-throughput data
@@ -105,7 +105,7 @@ Another important question is how to identify differences between biological gro
 The goal of this project is to identify the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell gene expression data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. Towards this goal, we demonstrated that genetic demultiplexing from single-cell cancer samples can be used for better experimental design and increase cost savings (1). Most recently, we performed a systematic benchmark of algorithms for bulk deconvolution for HGSOC tumors (2) and showed how applyings these algorithms in the context of high-grade serous ovarian cancer  reveals compositional differences in subtypes.  
 
 1. **Weber LM**, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, **Hicks SC**. (2020). [Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design](https://doi.org/10.1093/gigascience/giab062). _GigaScience_.
-2. Hippen AA, Omran DK, **Weber LM**, Jung E, Drapkin R, Doherty JA, **Hicks SC**, Greene CS. (2022). [Performance of computational algorithms to deconvolve heterogeneous bulk tumor tissue depends on experimental factors](https://doi.org/10.1101/2022.12.04.519045). _bioRxiv_.
+2. Hippen AA, Omran DK, **Weber LM**, Jung E, Drapkin R, Doherty JA, **Hicks SC**, Greene CS. (2022). [Performance of computational algorithms to deconvolve heterogeneous bulk tumor tissue depends on experimental factors](https://doi.org/10.1101/2022.12.04.519045). Accepted in _Genome Biology_.
 3. Hippen AA, Davidson NR, Barnard ME, **Weber LM**, Gertz J, Doherty JA, **Hicks SC**, Greene CS. (2023). [Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes](https://doi.org/10.1101/2023.06.14.544991). _bioRxiv_.
 
 
@@ -130,7 +130,7 @@ To address some of these challenges, we have developed standardized data infrast
 1. Righelli D, **Weber LM**, Crowell HL, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, **Hicks SC**, Risso D (2021). [SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor](https://doi.org/10.1093/bioinformatics/btac299). _Bioinformatics_. 
 2. **Guo B**, Hicks SC (2023). [escheR: Unified multi-dimensional visualizations with Gestalt principles](https://doi.org/10.1101/2023.03.18.533302). _bioRxiv_.
 3. Pardo B, Spangler A, **Weber LM**, **Hicks SC**, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. [spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data](https://doi.org/10.1186/s12864-022-08601-w). _BMC Genomics_. 
-4. Tippani M, Divecha HR, Catallini JL, **Weber LM**, Spangler A, Jaffe AE, **Hicks SC**, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). [VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data](https://doi.org/10.1101/2021.08.04.452489). _bioRxiv_.
+4. Tippani M, Divecha HR, Catallini JL, **Weber LM**, Spangler A, Jaffe AE, **Hicks SC**, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). [VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data](https://doi.org/10.1101/2021.08.04.452489). Accepted in _Biological Imaging_.
 5. **Sriworarat C**, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Maynard KR, **Hicks SC**. (2023). [Performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments](https://doi.org/10.1017/S2633903X2300017X). _Biological Imaging_.
 
 
@@ -147,7 +147,7 @@ We have created transcriptome-wide spatial atlases using the 10x Genomics Visium
 
 1. Maynard KR, Collado-Torres L, **Weber LM**, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2021). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1038/s41593-020-00787-0). _Nature Neuroscience_. 
 2. Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, **Guo B**, Grant-Peters M, Divecha HR, Tippani M, **Sriworarat C**, Nguyen AB, **Ravichandran P**, Tran MT, Seyedian A, PsychENCODE Consortium, Hyde TM, Kleinman JE, Battle A, Page SC,  Ryten M, **Hicks SC**, Martinowich K, Collado-Torres L, Maynard KR. (2023). [Integrated single cell and unsupervised spatial transcriptomic analysis defines molecular anatomy of the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2023.02.15.528722). _bioRxiv_. 
-3. Kwon SH, **Parthiban S**, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, **Hicks SC**, Martinowich K, Maynard KR, Collado-Torres L. (2023). [Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex](https://doi.org/10.1101/2023.04.20.537710). _bioRxiv_.
+3. Kwon SH, **Parthiban S**, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, **Hicks SC**, Martinowich K, Maynard KR, Collado-Torres L. (2023). [Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex](https://doi.org/10.1101/2023.04.20.537710). Accepted in _GEN Biotechnology_.
 4. **Weber LM**, Divecha HR, Tran MN, Kwon SH, Spangler A, Montgomery KD, Tippani M, Bharadwaj R, Kleinman JE, Page SC, Hyde TM, Collado-Torres L, Maynard KR, Martinowich K, **Hicks SC**. 2023. [The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics](https://doi.org/10.7554/eLife.84628.1). _eLife_.
 
 
