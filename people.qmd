@@ -9,7 +9,7 @@ format:
 # Current Lab Members 
 
 
-### Masters students
+## Masters students
 
 | <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
 | :--- | :---- | :--- |
@@ -19,7 +19,7 @@ format:
 
 <br>
 
-### PhD students
+## PhD students
 
 | <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
 | :--- | :---- | :--- |
@@ -32,7 +32,7 @@ format:
 
 <br>
 
-### Postdocs
+## Postdocs
 
 | <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
 | :--- | :---- | :--- |
@@ -44,32 +44,32 @@ format:
 
 # Alumni 
 
-### Postdoc Alumni
+## Postdoc Alumni
 
 - [Lukas Weber](https://lmweber.github.io) | Assistant Professor, Boston University, Biostatistics | [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850)
 - [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) |  Assistant Professor, Columbia, Biostatistics | [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
 
-### PhD Alumni
+## PhD Alumni
 
 - [Albert Kuo](https://albertkuo.me) | 2022 | Data Scientist, Amazon
 
-### ScM Alumni
+## ScM Alumni
 
 - [Jianing Yao](https://twitter.com/JNinnnngg) | 2023 | PhD student, Johns Hopkins
 - [Yongbao Zhuang](https://yzhuang8.com/home/) | 2022 | PhD student, Karolinska Institute
 - [Nathan Dyjack](https://ntdyjack.github.io/) | 2021 | Data Scientist, MemorialCare Health System
 
-### Rotation Alumni 
+## Rotation Alumni 
 
 - Rafael dos Santos Peixoto | 2022
 - Chaichontat Sriworarat | 2022 
 
-### Undergraduate Alumni 
+## Undergraduate Alumni 
 
 - Yilin Chen | 2022
 - [Cynthia Lo](https://www.linkedin.com/in/cynthia-d-lo) | 2022 
 
-### Past Research Assistants 
+## Past Research Assistants 
 
 - Michael Ontiveros
 - Kexin (Sheena) Wang 
@@ -78,14 +78,14 @@ format:
 - Hanchao (Ted) Zhang
 - Pei-Lun (Perry) Kuo
 
-### Former Friends of the Lab (FFOL)
+## Former Friends of the Lab (FFOL)
 
 - [Prashanthi Ravichandran](https://www.linkedin.com/in/prashanthi-ravichandran-96a363a0) | JHU
-- [Anthony Ramnauth](https://www.libd.org/team/anthony-ramnauth) | LIBD
-- [Madhavi Tippani](https://scholar.google.com/citations?user=TQGNTP8AAAAJ&hl=en) | LIBD
+- [Anthony Ramnauth](https://www.libd.org/team/anthony-ramnauth) | JHU, Lieber Institute for Brain Development
+- [Madhavi Tippani](https://scholar.google.com/citations?user=TQGNTP8AAAAJ&hl=en) | Lieber Institute for Brain Development
 - [Siqi (Alice) Chen](https://bcmb.bs.jhmi.edu/people/siqi-alice-chen) | JHU 
 - [Carrie Wright](ttps://carriewright11.github.io/) | Fred Hutchinson Cancer Center 
 
-### Visitors 
+## Visitors 
 
 - [Andrea Sottosanti](https://andreasottosanti.github.io) | 2022 | University of Padova, Italy
