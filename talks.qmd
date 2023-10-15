@@ -6,7 +6,8 @@ format:
         toc-depth: 3
 ---
 
-### 2024 
+
+## 2024 
 
 
 - **Keynote presentation** at the Workshop on Spatial and Temporal Statistical Modeling in Molecular Biology at Congressi Stefano Franscini at Monte Verità. 2024 Sept 8-13. Ascona, Switzerland.
@@ -20,7 +21,7 @@ format:
 - Department of Biostatistics. University of Pittsburgh. 2024 Jan 25. Pittsburgh, PA. USA. 
 
 
-### 2023
+## 2023
 
 - Invited panel at American College of Neuropsychopharmacology (ACNP) 62nd Annual Meeting. 2023 Dec 3-6. Tampa, FL. USA.
 - CSHL Computational Genomics Course. 2023 Nov 29-Dec 6. Cold Spring Harbor Laboratory. USA.
@@ -47,7 +48,7 @@ format:
 - Institute for Data Science and Artificial Intelligence. Department of Mathematics. University of Exeter. 2023 Feb 1. Exeter, South West England, United Kingdom.
 - Boston R/Bioconductor for Genomics. 2023 Jan 27. Boston, MA. USA. 
 
-### 2022
+## 2022
 
 - CSHL Winter Course on Computational Genomics Course. 2022 Nov 30-Dec 12. Cold Spring Harbor Laboratory. USA.
 - [Biological Data Sciences](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=22). 2022 Nov 9-12. Cold Spring Harbor Laboratory. USA.
@@ -69,7 +70,7 @@ format:
 - Department of Biostatistics. Virginia Commonwealth University. 2022 Feb 4. Richmond, VA. USA.
 - [Department of Mathematics & Statistics. McMaster University](https://www.math.mcmaster.ca/news-events/events/g-1-0fqnlmh4j70c0ruepkgssq7rb8_202201282030.html). 2022 Jan 28. Hamilton, Ontario, Canada.
 
-### 2021
+## 2021
 
 - Department of Biostatistics. University of Michigan. 2021 Dec 9. Ann Arbor, MI. USA. 
 - AI & Health Data Issues panel discussion at the [Stanford AI + Health Online Conference](https://pheedloop.com/aihealth/site/home/). Institute for Human-Centered Artificial Intelligence at Stanford University and the Stanford Center for Continuing Medical Education (Stanford CME). 2021 Dec 8-9.
@@ -90,8 +91,9 @@ format:
 - [Scalable statistical methods and software for single-cell data science](https://docs.google.com/presentation/d/1pwYvydQAfQd8V5p2Hxlc8iyWzJ_lUBpo91eL34KeGO0/edit?usp=sharing). National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2021 Jan 28.
 - [Scalable statistical methods and software for single-cell data science](https://docs.google.com/presentation/d/1gYQobVpbc4idyXzhcxkxoWD3aqR7-Kz5oW3FM69PwFA/edit?usp=sharing). Department of Bioinformatics and Biostatistics. University of Louisville. 2021 Jan 15. Louisville, KY. USA.
 
+# Earlier years
 
-### 2020
+## 2020
 
 - [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit). 2020 Dec 9. Baltimore, MD. USA.
 
@@ -136,7 +138,7 @@ Watch a pre-conference interview here:
 
 
 
-### 2019
+## 2019
 
 - [NormJam](https://normjam.github.io): A normalization workshop and jamboree for scRNA-seq data. 2019 Nov 19-20. New York City, NY. USA.
 - [Data Science Leadership Summit](https://sites.google.com/msdse.org/datascienceleadership2019). 2019 Nov 7-9. Santa Fe, NM. USA. 
@@ -153,7 +155,7 @@ Watch a pre-conference interview here:
 - [National Human Genome Research Institute’s Genome to Phenotype Strategic Planning Meeting](https://www.genome.gov/27572552/from-genome-to-phenotype--genomic-variation-identification-association-and-function-in-human-health-and-disease/). 2019 Jan 22-24. Rockville, MD, USA
 - [Estimating cell type composition in whole blood using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation). Department of Statistics, Oregon State University. 2019 Jan 14. Corvallis, OR. USA.
 
-### 2018 
+## 2018 
 
 - [Orchestrating Single-Cell RNA-sequencing Analysis with Bioconductor](https://speakerdeck.com/stephaniehicks/orchestrating-single-cell-rna-sequencing-analysis-with-bioconductor). 
     - **Keynote presentation** at [Bioconductor Asia](https://bioconductor.github.io/BiocAsia/) on 2018 Nov 29 at the University of Melbourne, Melbourne, Australia. 
@@ -172,7 +174,7 @@ Department of Biostatistics, The University of Alabama at Birmingham. 2018 Nov 2
 - [Technology-independent estimation of cell type composition using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation). Office of Biostatistics Research at NHLBI/NIH. 2018 Apr 24. Bethesda, MD. USA.
 
 
-### 2017
+## 2017
 
 - Missing Data and Technical Variability in Single-Cell RNA-Sequencing Experiments. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2017/). 2017 Jul 29-Aug 3. Baltimore, MD, USA.
 - Estimating cell type composition in whole blood using differentially methylated regions. [Bioconductor conference](http://bioconductor.org/help/course-materials/2017/BioC2017/). 2017 Jul 26-28. Boston, MA, USA.
@@ -180,7 +182,7 @@ Department of Biostatistics, The University of Alabama at Birmingham. 2018 Nov 2
 - Setting the Stage for Reproducibility and Replicability in Science. Brandeis University. 2017 Mar 22. Waltham, MA, USA.
 
 
-### 2016
+## 2016
 
 - [On the widespread and critical impact of systemic bias and batch effects in single-cell RNA-seq data](https://speakerdeck.com/stephaniehicks/towards-progress-in-batch-effects-and-biases-in-single-cell-rna-seq-data). [Presented](http://hsci.harvard.edu/event/widespread-and-critical-impact-systemic-bias-and-batch-effects-single-cell-rna-seq-data?delta=0) at the [Boston Single-Cell Network Meeting](http://www.singlecellnetwork.org) in March 2016 (Boston, MA, USA), [presented](https://www.amstat.org/meetings/jsm/2016/onlineprogram/MainSearchResults.cfm) at the Joint Statistical Meetings Aug 2016 (Chicago, IL, USA), and [presented](https://coursesandconferences.wellcomegenomecampus.org/events/item.aspx?e=596) at the Single-Cell Genomics Conference Sept 2016 (Hinxton, UK). 
 - [Batch effects and technical biases in scRNA-Seq data](https://github.com/hms-dbmi/scw/tree/master/scw2016/tutorials/batcheffects). [HSCI Single-Cell Workshop](http://hsci.harvard.edu/event/save-date-single-cell-analysis-workshop). 2016 Nov 29-30. Harvard Medical School, Boston, MA, USA.
@@ -190,7 +192,7 @@ Department of Biostatistics, The University of Alabama at Birmingham. 2018 Nov 2
 - On the widespread and critical impact of systemic bias and batch effects in single-cell RNA-seq data. [Boston Single-Cell Network Meeting](http://hsci.harvard.edu/event/widespread-and-critical-impact-systemic-bias-and-batch-effects-single-cell-rna-seq-data?delta=0). 2016 Mar 15. Boston, MA, USA.
 
 
-### 2015 
+## 2015 
 
 - On the widespread and critical impact of batch effects and systematic bias in single-cell RNA-Seq data (Selected for a Stellar Abstract Award). [PQG Conference: Single-cell Genomics: Technology, Analysis, and Applications](https://www.hsph.harvard.edu/2015-pqg-conference/). 2015 Nov 5-6. Boston, MA, USA.
 - [Mozilla Open Science Leadership Summit](https://www.mozillascience.org/open-science-summit-2015). Invited to work with community leaders furthering open practice and open science through creating community events, tools for collaboration and learning resources.
@@ -198,18 +200,18 @@ Department of Biostatistics, The University of Alabama at Birmingham. 2018 Nov 2
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3EVtJPz4kCI" frameborder="0" allowfullscreen></iframe></p>
 
 
-### 2014 
+## 2014 
 
 - Normalization of DNA methylation and Gene Expression Data in the Context of Global Variation. Bioinformatics Meeting, Division of Immunology, Harvard Medical School. 2014 Sept 18. Boston, MA, USA.
 - quantro: When should you use quantile normalization?. Flashlight talk at the [Bioconductor Conference](https://www.bioconductor.org/help/course-materials/2014/BioC2014/). 2014 Jul 30-Aug 1. Boston, MA, USA.
 - [ROpenSci Unconference](http://unconf.ropensci.org). Invited to work with over 40 R enthusiasts from industry, academia, non-profits and government on projects supporting open data, open science and data visualization in R. Contributed to R-packages including [explainr](https://github.com/hilaryparker/explainr) and [catsplainr](https://github.com/hilaryparker/catsplainr).
 
 
-### 2011 
+## 2011 
 
 - Modeling Discovery Of Functional SNPs From Genome Scale Data. JSM 2011. Miami, FL, USA.
 
-### 2010 
+## 2010 
 
 - Prediction of Missense Mutation Functionality Depends on both the Algorithm and Sequence Alignment Employed. Human Genome Variation Society's Exploring the Functional Consequences of Genomic Variation Meeting. Washington, D.C., USA.
 
