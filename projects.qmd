@@ -35,7 +35,7 @@ Bulk tissue samples are often profiled due to their ease of access and low cost 
 
 2. Maden SK, Kwon SH, Huuki-Myers LA, Collado-Torres L, **Hicks SC**,  Maynard KR. (2023). [Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets](https://arxiv.org/abs/2305.06501). _arXiv_.
 
-3. Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2022). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1101/2022.04.28.489923). Accepted in _Genome Biology_.
+3. Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2022). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1186/s13059-023-03066-w). _Genome Biology_.
 
 
 ## Methods to identify differences between groups
