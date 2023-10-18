@@ -174,7 +174,7 @@ To address this, I built the [Open Case Studies](https://www.opencasestudies.org
 
 
 
-## Theory of data analysis
+## Analytic Design Theory
 
 The data science revolution has led to an increased interest in the practice of data analysis. While much has been written about _statistical thinking_, a complementary form of thinking that appears in the practice of data analysis is _design thinking_ -- the problem-solving process to understand the people for whom a product is being designed. There can be significant or subtle differences in how a data analyst (or producer of a data analysis) constructs, creates, or designs a data analysis, including differences in the choice of methods, tooling, and workflow. These choices can affect the data analysis products themselves and the experience of the consumer of the data analysis. Therefore, the role of a producer can be thought of as designing the data analysis with a set of design principles (1,2). Our work leads to several insights: it suggests a formal mechanism to describe and evaluate (3) data analyses based on the design principles for data analysis, and a framework for diagnosing data analytic problems in the classroom (4). 
 
