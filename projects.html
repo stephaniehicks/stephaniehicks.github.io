@@ -136,13 +136,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#reproducible-research" id="toc-reproducible-research" class="nav-link active" data-scroll-target="#reproducible-research">Reproducible research</a></li>
-  <li><a href="#analysis-of-high-throughput-biological-data" id="toc-analysis-of-high-throughput-biological-data" class="nav-link" data-scroll-target="#analysis-of-high-throughput-biological-data">Analysis of high-throughput biological data</a>
+  <li><a href="#high-throughput-biological-data" id="toc-high-throughput-biological-data" class="nav-link" data-scroll-target="#high-throughput-biological-data">High-throughput biological data</a>
   <ul class="collapse">
   <li><a href="#methods-for-normalizing-and-removing-biases" id="toc-methods-for-normalizing-and-removing-biases" class="nav-link" data-scroll-target="#methods-for-normalizing-and-removing-biases">Methods for normalizing and removing biases</a></li>
   <li><a href="#methods-for-deconvolution-bulk-tissue-samples" id="toc-methods-for-deconvolution-bulk-tissue-samples" class="nav-link" data-scroll-target="#methods-for-deconvolution-bulk-tissue-samples">Methods for deconvolution bulk tissue samples</a></li>
   <li><a href="#methods-to-identify-differences-between-groups" id="toc-methods-to-identify-differences-between-groups" class="nav-link" data-scroll-target="#methods-to-identify-differences-between-groups">Methods to identify differences between groups</a></li>
   </ul></li>
-  <li><a href="#analysis-of-genomic-data-from-single-cells" id="toc-analysis-of-genomic-data-from-single-cells" class="nav-link" data-scroll-target="#analysis-of-genomic-data-from-single-cells">Analysis of genomic data from single cells</a>
+  <li><a href="#genomics-data-from-single-cells" id="toc-genomics-data-from-single-cells" class="nav-link" data-scroll-target="#genomics-data-from-single-cells">Genomics data from single cells</a>
   <ul class="collapse">
   <li><a href="#methods-to-identify-and-remove-systematic-errors-and-biases" id="toc-methods-to-identify-and-remove-systematic-errors-and-biases" class="nav-link" data-scroll-target="#methods-to-identify-and-remove-systematic-errors-and-biases">Methods to identify and remove systematic errors and biases</a></li>
   <li><a href="#methods-for-distance-metrics-and-unsupervised-analyses" id="toc-methods-for-distance-metrics-and-unsupervised-analyses" class="nav-link" data-scroll-target="#methods-for-distance-metrics-and-unsupervised-analyses">Methods for distance metrics and unsupervised analyses</a></li>
@@ -153,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#neuroscience" id="toc-neuroscience" class="nav-link" data-scroll-target="#neuroscience">Neuroscience</a></li>
   </ul></li>
   </ul></li>
-  <li><a href="#analysis-of-genomic-data-with-spatial-resolution" id="toc-analysis-of-genomic-data-with-spatial-resolution" class="nav-link" data-scroll-target="#analysis-of-genomic-data-with-spatial-resolution">Analysis of genomic data with spatial resolution</a>
+  <li><a href="#genomics-data-with-spatial-resolution" id="toc-genomics-data-with-spatial-resolution" class="nav-link" data-scroll-target="#genomics-data-with-spatial-resolution">Genomics data with spatial resolution</a>
   <ul class="collapse">
   <li><a href="#data-storage-and-data-visualization" id="toc-data-storage-and-data-visualization" class="nav-link" data-scroll-target="#data-storage-and-data-visualization">Data storage and data visualization</a></li>
   <li><a href="#methods-to-identify-spatially-variable-genes" id="toc-methods-to-identify-spatially-variable-genes" class="nav-link" data-scroll-target="#methods-to-identify-spatially-variable-genes">Methods to identify spatially variable genes</a></li>
@@ -199,8 +199,8 @@ ul.task-list li input[type="checkbox"] {
 <li>Peng RD, <strong>Hicks SC</strong>. (2021). <a href="https://doi.org/10.1146/annurev-publhealth-012420-105110">Reproducible Research: A Retrospective</a>. <em>Annual Review of Public Health</em>.</li>
 </ol>
 </section>
-<section id="analysis-of-high-throughput-biological-data" class="level1">
-<h1>Analysis of high-throughput biological data</h1>
+<section id="high-throughput-biological-data" class="level1">
+<h1>High-throughput biological data</h1>
 <section id="methods-for-normalizing-and-removing-biases" class="level2">
 <h2 class="anchored" data-anchor-id="methods-for-normalizing-and-removing-biases">Methods for normalizing and removing biases</h2>
 <p>Normalization is an essential step for the analysis of genomics high-throughput data. Quantile normalization is one of the most widely used multi-sample normalization tools for applications including genotyping arrays, RNA-Sequencing (RNA-Seq), DNA methylation (DNAm), ChIP-Sequencing (ChIP-Seq) and brain imaging. However, quantile normalization relies on assumptions about the data-generation process that are not appropriate in some contexts. To address this, I developed two statistical methods and open-source software for normalizing high-throughput data (1, 2). More recently, I have developed methods and software for correcting and removing compositional biases found in metagenomic data (3), and co-expression analysis of correlated genes (4).</p>
@@ -228,8 +228,8 @@ ul.task-list li input[type="checkbox"] {
 </ol>
 </section>
 </section>
-<section id="analysis-of-genomic-data-from-single-cells" class="level1">
-<h1>Analysis of genomic data from single cells</h1>
+<section id="genomics-data-from-single-cells" class="level1">
+<h1>Genomics data from single cells</h1>
 <p>Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical and computational challenges (1, 2).</p>
 <ol type="1">
 <li><p>Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, <strong>Hicks SC</strong>. (2020). <a href="https://doi.org/10.1038/s41592-019-0654-x">Orchestrating Single-Cell Analysis with Bioconductor</a>. <em>Nature Methods</em>.</p></li>
@@ -284,8 +284,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </section>
 </section>
-<section id="analysis-of-genomic-data-with-spatial-resolution" class="level1">
-<h1>Analysis of genomic data with spatial resolution</h1>
+<section id="genomics-data-with-spatial-resolution" class="level1">
+<h1>Genomics data with spatial resolution</h1>
 <p>Spatially-resolved transcriptomics (SRT), the <a href="https://doi.org/10.1038/s41592-020-01042-x">Nature Methods 2020 Method of the Year</a>, is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. These technologies have created an unprecedented opportunity to investigate important biological questions that can only be answered in a spatial context. However, these technologies also brings new statistical, computational and methodological challenges.</p>
 <section id="data-storage-and-data-visualization" class="level2">
 <h2 class="anchored" data-anchor-id="data-storage-and-data-visualization">Data storage and data visualization</h2>
