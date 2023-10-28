@@ -15,7 +15,7 @@ I have contributed to developing reproducibility standards for machine learning 
 2.  Peng RD, **Hicks SC**. (2021). [Reproducible Research: A Retrospective](https://doi.org/10.1146/annurev-publhealth-012420-105110). _Annual Review of Public Health_.
 
 
-# Analysis of high-throughput biological data
+# High-throughput biological data
 
 ## Methods for normalizing and removing biases
 
@@ -46,7 +46,7 @@ Identifying differences between biological groups or conditions in high-throughp
 
 
 
-# Analysis of genomic data from single cells
+# Genomics data from single cells
 
 Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical and computational challenges (1, 2). 
 
@@ -103,7 +103,7 @@ Single-nucleus RNA-sequencing (snRNA-seq) has become the preferred experimental 
 
 
 
-# Analysis of genomic data with spatial resolution
+# Genomics data with spatial resolution
 
 Spatially-resolved transcriptomics (SRT), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x), is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. These technologies have created an unprecedented opportunity to investigate important biological questions that can only be answered in a spatial context. However, these technologies also brings new statistical, computational and methodological challenges. 
 
