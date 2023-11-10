@@ -80,7 +80,7 @@ Computational methods and open-source software to store, access, and analyze sin
 Another important question is how to identify differences between biological groups or conditions in single-cell data. For example, these count-based models, such as Poisson or negative binomial, can be generalized using the Tweedie family of distributions, which we used to develop a statistical method to identify differentially expressed genes (1). Similarly, we have developed methods for differential pseudotime analysis (gene expression or cell abundance) with multiple samples per group using B-splines (2).
 
 1. Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A, **Hicks SC**. (2021). [Differential expression of single-cell RNA-seq data using Tweedie models](http://doi.org/10.1002/sim.9430). _Statistics in Medicine_.
-2. **Hou W**, Ji Z, Chen Z, Wherry EJ, **Hicks SC**, Ji H. (2021). [A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples](https://doi.org/10.1101/2021.07.10.451910). Accepted in _Nature Communications_.
+2. **Hou W**, Ji Z, Chen Z, Wherry EJ, **Hicks SC**, Ji H. (2021). [A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples](https://doi.org/10.1038/s41467-023-42841-y). _Nature Communications_.
 
 
 ## Single cell applications
