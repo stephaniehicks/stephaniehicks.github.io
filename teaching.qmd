@@ -57,7 +57,7 @@ We have written an [online book to help guide educators](https://www.opencasestu
 
 ### Cold Spring Harbor Laboratories (CSHL)
 
-* 2023 | **Co-Instructor**, [Computational Genomics](https://meetings.cshl.edu/courses.aspx?course=c-ecg&year=23)
+* 2023 | **Co-Instructor**, [Computational Genomics](https://meetings.cshl.edu/courses.aspx?course=c-ecg&year=23) ([**Teaching materials**](https://www.stephaniehicks.com/cshlcg2023)).
 * 2022 | **Co-Instructor**, [Computational Genomics](https://meetings.cshl.edu/courses.aspx?course=c-ecg&year=22) ([**Teaching materials**](https://www.stephaniehicks.com/cshlcg2022)).
 * 2022 | **Co-Instructor**, [Statistical Analysis for Genome Scale Data](https://meetings.cshl.edu/courses.aspx?course=C-data&year=22) ([**Teaching materials**](https://www.stephaniehicks.com/cshlgsd2022)).
 * 2015 | **Teaching Assistant**, [Statistical Methods for Functional Genomics](http://meetings.cshl.edu/courses.aspx?course=c-data&year=15).
