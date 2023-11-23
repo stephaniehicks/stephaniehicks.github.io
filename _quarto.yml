@@ -15,9 +15,9 @@ website:
       - blog.qmd
       - join.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/stephaniehicks
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/stephaniehicks
 format:
   html:
     theme: flatly
