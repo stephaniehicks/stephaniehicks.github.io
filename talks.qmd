@@ -9,7 +9,7 @@ format:
 
 ## 2024 
 
-
+- Nebraska Center for the Prevention of Obesity Diseases through Dietary Molecules. University of Nebraska-Lincoln. 2024 Sept 25. Lincoln, NE. USA.
 - **Keynote presentation** at the Workshop on Spatial and Temporal Statistical Modeling in Molecular Biology at Congressi Stefano Franscini at Monte Verità. 2024 Sept 8-13. Ascona, Switzerland.
 - Invited session on "Building Better Data Analyses: Theory, Methods, and Lessons Learned". Joint Statistical Meetings. 2024 Aug 3-8. Portland, OR. USA.
 - Boston University Bioinformatics Student-Organized Symposium. 2024 June 5. Boston, MA. USA.
