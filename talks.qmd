@@ -23,7 +23,7 @@ format:
 
 ## 2023
 
-- Invited panel at American College of Neuropsychopharmacology (ACNP) 62nd Annual Meeting. 2023 Dec 3-6. Tampa, FL. USA.
+- [Gene expression landscape of the human locus coeruleus with single-nucleus and spatially-resolved transcriptomics](https://docs.google.com/presentation/d/1-HIwAnolV0gn9lmMgqsA3YuuflHwXENIEDcpmDDNbr0/edit?usp=sharing). Invited panel at American College of Neuropsychopharmacology (ACNP) 62nd Annual Meeting. 2023 Dec 3-6. Tampa, FL. USA.
 - CSHL Computational Genomics Course. 2023 Nov 29-Dec 6. Cold Spring Harbor Laboratory. USA.
 - Department of Statistical Sciences. Wake Forest University. 2023 Oct 17. Winston-Salem, NC. USA
 - **Keynote presentation** at the Workshop on Reading, Assembling, Analyzing, and Designing Genomic Data at the AI in Health Conference. 2023 Oct 9. Houston, TX. USA.
