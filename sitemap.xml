@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.stephaniehicks.com/join.html</loc>
-    <lastmod>2023-12-03T13:02:01.912Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/software.html</loc>
-    <lastmod>2023-12-03T13:02:00.720Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/index.html</loc>
-    <lastmod>2023-12-03T13:01:59.608Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/index.html</loc>
-    <lastmod>2023-12-03T13:01:58.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/new-year-new-blog/index.html</loc>
-    <lastmod>2023-12-03T13:01:58.068Z</lastmod>
+    <loc>https://www.stephaniehicks.com/people.html</loc>
+    <lastmod>2023-12-08T21:19:55.713Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/blog/super-women-statisticians-and-data-scientists/index.html</loc>
-    <lastmod>2023-12-03T13:01:57.412Z</lastmod>
+    <lastmod>2023-12-08T21:19:54.949Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/index.html</loc>
-    <lastmod>2023-12-03T13:01:56.800Z</lastmod>
+    <lastmod>2023-12-08T21:19:54.061Z</lastmod>
   </url>
   <url>
-    <loc>https://www.stephaniehicks.com/teaching.html</loc>
-    <lastmod>2023-12-03T13:01:55.448Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/people.html</loc>
-    <lastmod>2023-12-03T13:01:54.744Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/talks.html</loc>
-    <lastmod>2023-12-03T13:01:56.404Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/index.html</loc>
-    <lastmod>2023-12-03T13:01:57.084Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/why-it-s-best-to-keep-software-and-data-analysis-repositories-separate/index.html</loc>
-    <lastmod>2023-12-03T13:01:57.788Z</lastmod>
+    <loc>https://www.stephaniehicks.com/blog/new-year-new-blog/index.html</loc>
+    <lastmod>2023-12-08T21:19:53.385Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/index.html</loc>
-    <lastmod>2023-12-03T13:01:58.404Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/index.html</loc>
-    <lastmod>2023-12-03T13:01:59.280Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog.html</loc>
-    <lastmod>2023-12-03T13:02:00.252Z</lastmod>
+    <lastmod>2023-12-08T21:19:52.845Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/projects.html</loc>
-    <lastmod>2023-12-03T13:02:01.616Z</lastmod>
+    <lastmod>2023-12-08T21:19:52.021Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/index.html</loc>
+    <lastmod>2023-12-08T21:19:50.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/talks.html</loc>
+    <lastmod>2023-12-08T21:19:50.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog.html</loc>
+    <lastmod>2023-12-08T21:19:48.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/join.html</loc>
+    <lastmod>2023-12-08T21:19:50.433Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/teaching.html</loc>
+    <lastmod>2023-12-08T21:19:51.165Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/software.html</loc>
+    <lastmod>2023-12-08T21:19:52.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/index.html</loc>
+    <lastmod>2023-12-08T21:19:53.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/index.html</loc>
+    <lastmod>2023-12-08T21:19:53.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/index.html</loc>
+    <lastmod>2023-12-08T21:19:54.613Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/why-it-s-best-to-keep-software-and-data-analysis-repositories-separate/index.html</loc>
+    <lastmod>2023-12-08T21:19:55.317Z</lastmod>
   </url>
 </urlset>
