@@ -71,7 +71,7 @@ Computational methods and open-source software to store, access, and analyze sin
 
 1. **Hicks SC**, Liu R, Ni Y, Purdom E, Risso D. (2020). [mbkmeans: fast clustering for single cell data using mini-batch _k_-means](https://doi.org/10.1371/journal.pcbi.1008625). _PLOS Computational Biology_.
 2. Baker DN, **Dyjack N**, Braverman V, **Hicks SC**, Langmead B. (2021). [minicore: Fast scRNA-seq clustering with various distance measures](https://doi.org/10.1145/3459930.3469523). _ACM Conference on Bioinformatics, Computational Biology and Biomedicine_.
-3. **Dyjack N**, Baker DN, Braverman V, Langmead B, **Hicks SC**. (2022). [A scalable and unbiased discordance metric with _H+_](https://doi.org/10.1093/biostatistics/kxac035). _Biostatistics_.
+3. **Dyjack N**, Baker DN, Braverman V, Langmead B, **Hicks SC**. (2023). [A scalable and unbiased discordance metric with _H+_](https://doi.org/10.1093/biostatistics/kxac035). _Biostatistics_.
 4. Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Guangchuang Y, **Hicks SC**, Robinson MD. (2020). [TreeSummarizedExperiment: a S4 class for data with hierarchical structure](https://doi.org/10.12688/f1000research.26669.1). _F1000Research_.
 
 
