@@ -1,6 +1,6 @@
 ---
 title: "Stephanie Hicks"
-image: images/Hicks_small.jpg
+image: images/stephanie_hicks.jpeg
 about:
   template: trestles
   links:
