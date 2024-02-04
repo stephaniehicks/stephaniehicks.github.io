@@ -120,11 +120,12 @@ To address some of these challenges, we have developed standardized data infrast
 5. **Sriworarat C**, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Maynard KR, **Hicks SC**. (2023). [Performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments](https://doi.org/10.1017/S2633903X2300017X). _Biological Imaging_.
 
 
-## Methods to identify spatially variable genes
+## Methods for downstream analyses
 
-Feature selection to identify spatially variable genes (SVGs) is a key step during analyses of SRT data. We developed a scalable approach to identify SVGs based on nearest-neighbor Gaussian processes (GPs), which uses gene-specific estimates of length scale parameters within GP models, and scales linearly with the number of spatial locations (1).
+Feature selection to identify spatially variable genes (SVGs) is a key step during analyses of SRT data. We developed a scalable approach to identify SVGs based on nearest-neighbor Gaussian processes (GPs), which uses gene-specific estimates of length scale parameters within GP models, and scales linearly with the number of spatial locations (1). We have also developed spatial clustering algorithms for multi-omics data (2). 
 
 1. **Weber LM**, Saha A, Datta A, Hansen KD, **Hicks SC**. (2023). [nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes](https://doi.org/10.1038/s41467-023-39748-z). _Nature Communications_.
+2. **Yao J**, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2024). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). _bioRxiv_.
 
 
 ## Spatial atlases
