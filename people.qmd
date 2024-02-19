@@ -8,19 +8,11 @@ format:
 
 # Current Lab Members 
 
-## Rotation students 
-
-| <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
-| :--- | :---- | :--- |
-| [Caleb Hallinan](https://calebhallinan.github.io/) | PhD student in [BME](https://www.bme.jhu.edu/) developing analytic workflows and software tools for spatial transcriptomics data. | <img width="200" src="images/caleb_hallinan.jpeg"> |
-
 ## Masters students
 
 | <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
 | :--- | :---- | :--- |
 | [Weishan Li](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) using multi-omics data to understand high-grade serous ovarian cancer with unsupervised methods. | <img width="200" src="images/weishan_li.jpg"> |
-
-
 
 <br>
 
@@ -61,19 +53,20 @@ format:
 ## Masters Alumni
 
 - [Haowen Zhou](https://pixel-dream.github.io/) | 2023 | 
-- [Jianing Yao](https://twitter.com/JNinnnngg) | 2023 | PhD student, Johns Hopkins
-- [Yongbao Zhuang](https://yzhuang8.com/home/) | 2022 | PhD student, Karolinska Institute
-- [Nathan Dyjack](https://ntdyjack.github.io/) | 2021 | Data Scientist, MemorialCare Health System
+- [Jianing Yao](https://twitter.com/JNinnnngg) | 2023 | Next: PhD student, Johns Hopkins
+- [Yongbao Zhuang](https://yzhuang8.com/home/) | 2022 | Next: PhD student, Karolinska Institute
+- [Nathan Dyjack](https://ntdyjack.github.io/) | 2021 | Next: Data Scientist, MemorialCare Health System
 
 ## Rotation Alumni 
 
+- Caleb Hallinan | 2024
 - Rafael dos Santos Peixoto | 2022
 - Chaichontat Sriworarat | 2022 
 
 ## Undergraduate Alumni 
 
 - Yilin Chen | 2022
-- [Cynthia Lo](https://www.linkedin.com/in/cynthia-d-lo) | 2022 
+- Cynthia Lo | 2022 
 
 ## Past Research Assistants 
 
