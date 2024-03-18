@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -189,6 +189,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Nebraska Center for the Prevention of Obesity Diseases through Dietary Molecules. University of Nebraska-Lincoln. 2024 Sept 25. Lincoln, NE. USA.</li>
 <li><strong>Keynote presentation</strong> at the Workshop on Spatial and Temporal Statistical Modeling in Molecular Biology at Congressi Stefano Franscini at Monte Verità. 2024 Sept 8-13. Ascona, Switzerland.</li>
 <li>Invited session on “Building Better Data Analyses: Theory, Methods, and Lessons Learned”. Joint Statistical Meetings. 2024 Aug 3-8. Portland, OR. USA.</li>
+<li><strong>Keynote presentation</strong> at R/Medicine 2024. 2024 Jun 13.</li>
 <li>Boston University Bioinformatics Student-Organized Symposium. 2024 June 5. Boston, MA. USA.</li>
 <li>Department of Biostatistics, Epidemiology and Informatics. Perelman School of Medicine at the University of Pennsylvania. 2024 May 7. Philadelphia, PA. USA.</li>
 <li>Invited session on “Spatial mapping of tissues at single cell resolution: statistical models and computational paradigms”. STATGEN Conference. 2024 1-3 May. Pittsburgh, PA. USA.</li>
@@ -517,6 +518,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/www\.stephaniehicks\.com");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -551,7 +570,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
