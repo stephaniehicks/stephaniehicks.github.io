@@ -29,15 +29,17 @@ Normalization is an essential step for the analysis of genomics high-throughput 
 
 ## Methods for deconvolution bulk tissue samples 
 
-Bulk tissue samples are often profiled due to their ease of access and low cost to sequence. A major challenge in the analysis of bulk tissue samples is they are typically made up of heterogenous cell types, for example whole blood or brain tissue. This intra-sample cellular heterogeneity is a source of variation than can sometimes be confounded with an outcome or phenotype of interest. If unaccounted for, false positives ensue. We have not only benchmarked deconovlution methods (1), but also developed statistical methods to estimate the cell type proportions in whole blood DNAm samples (2) and human brain RNA-seq samples, leading more more accurate estimates of cell composition after adjusting for differences in cell sizes (3,4).
+Bulk tissue samples are often profiled due to their ease of access and low cost to sequence. A major challenge in the analysis of bulk tissue samples is they are typically made up of heterogenous cell types, for example whole blood or brain tissue. This intra-sample cellular heterogeneity is a source of variation than can sometimes be confounded with an outcome or phenotype of interest. If unaccounted for, false positives ensue. We have not only benchmarked deconovlution methods (1), but also developed statistical methods to estimate the cell type proportions in whole blood DNAm samples (2) and human brain RNA-seq samples (3), leading more more accurate estimates of cell composition after adjusting for differences in cell sizes (4,5).
 
 1. Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Maden SK, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR, Collado-Torres L. (2024). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1101/2024.02.09.579665). _bioRxiv_. 
 
 2. 	**Hicks SC**, Irizarry RA. (2019). [methylCC: technology-independent estimation of cell type composition using differentially methylated regions](https://doi.org/10.1186/s13059-019-1827-8). _Genome Biology_.
 
-3. Maden SK, Kwon SH, Huuki-Myers LA, Collado-Torres L, **Hicks SC**,  Maynard KR. (2023). [Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets](https://doi.org/10.1186/s13059-023-03123-4). _Genome Biology_.
+3. Maden SK, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2024). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1101/2024.04.04.588105). _bioRxiv_.
 
-4. Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2022). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1186/s13059-023-03066-w). _Genome Biology_.
+4. Maden SK, Kwon SH, Huuki-Myers LA, Collado-Torres L, **Hicks SC**,  Maynard KR. (2023). [Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets](https://doi.org/10.1186/s13059-023-03123-4). _Genome Biology_.
+
+5. Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2022). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1186/s13059-023-03066-w). _Genome Biology_.
 
 
 ## Methods to identify differences between groups
