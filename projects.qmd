@@ -31,13 +31,13 @@ Normalization is an essential step for the analysis of genomics high-throughput 
 
 Bulk tissue samples are often profiled due to their ease of access and low cost to sequence. A major challenge in the analysis of bulk tissue samples is they are typically made up of heterogenous cell types, for example whole blood or brain tissue. This intra-sample cellular heterogeneity is a source of variation than can sometimes be confounded with an outcome or phenotype of interest. If unaccounted for, false positives ensue. We have not only benchmarked deconovlution methods (1), but also developed statistical methods to estimate the cell type proportions in whole blood DNAm samples (2) and human brain RNA-seq samples (3), leading more more accurate estimates of cell composition after adjusting for differences in cell sizes (4,5).
 
-1. Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Maden SK, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR, Collado-Torres L. (2024). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1101/2024.02.09.579665). _bioRxiv_. 
+1. Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, **Maden SK**, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR, Collado-Torres L. (2024). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1101/2024.02.09.579665). _bioRxiv_. 
 
 2. 	**Hicks SC**, Irizarry RA. (2019). [methylCC: technology-independent estimation of cell type composition using differentially methylated regions](https://doi.org/10.1186/s13059-019-1827-8). _Genome Biology_.
 
-3. Maden SK, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2024). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1101/2024.04.04.588105). _bioRxiv_.
+3. **Maden SK**, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2024). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1101/2024.04.04.588105). _bioRxiv_.
 
-4. Maden SK, Kwon SH, Huuki-Myers LA, Collado-Torres L, **Hicks SC**,  Maynard KR. (2023). [Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets](https://doi.org/10.1186/s13059-023-03123-4). _Genome Biology_.
+4. **Maden SK**, Kwon SH, Huuki-Myers LA, Collado-Torres L, **Hicks SC**,  Maynard KR. (2023). [Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets](https://doi.org/10.1186/s13059-023-03123-4). _Genome Biology_.
 
 5. Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2022). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1186/s13059-023-03066-w). _Genome Biology_.
 
@@ -100,11 +100,13 @@ The goal of this project is to identify the biological basis of subtypes of high
 
 ### Neuroscience
 
-Single-nucleus RNA-sequencing (snRNA-seq) has become the preferred experimental technology, compared to scRNA-seq, to profile gene expression in frozen cells or cells that are hard to dissociate, such as brain tissue. Previous studies have shown that snRNA-seq offers substantial advantages over scRNA-seq, including reduced dissociation bias and the ability to capture rare cell types in these tissues including pan regions of the brain (1). For example, we recently used snRNA-seq to explore activity-regulated gene expression across cell types of the mouse hippocampus (2) and the effect of sleep deprivation in the mouse frontal cortex (3). 
+Single-nucleus RNA-sequencing (snRNA-seq) has become the preferred experimental technology, compared to scRNA-seq, to profile gene expression in frozen cells or cells that are hard to dissociate, such as brain tissue. Previous studies have shown that snRNA-seq offers substantial advantages over scRNA-seq, including reduced dissociation bias and the ability to capture rare cell types in these tissues including lateral septum (1) and pan regions of the brain (2). For example, we recently used snRNA-seq to explore activity-regulated gene expression across cell types of the mouse hippocampus (3) and the effect of sleep deprivation in the mouse frontal cortex (4). 
 
-1. Tran MN, Maynard KR, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, **Hicks SC**, Kleinman JE, Hyde TM, Martinowich K, Jaffe A. (2020). [Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain](https://doi.org/10.1016/j.neuron.2021.09.001). _Neuron_.
-2. **Nelson ED**, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, **Hicks SC**, Martinowich K. (2022). [Activity-regulated gene expression across cell types of the mouse hippocampus](https://doi.org/10.1002/hipo.23548). _Hippocampus_.
-3. Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, **Hicks SC**, Risso D, Peixoto L. (2023). [A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex.](https://doi.org/10.1101/2023.11.28.569011). _bioRxiv_.
+1. Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, **Hicks SC**, Page SC, Martinowich K. (2024). [Transcriptomic characterization of human lateral septum neurons reveals conserved and divergent marker genes across species](https://doi.org/10.1101/2024.04.22.590602). _bioRxiv_.
+2. Tran MN, Maynard KR, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, **Hicks SC**, Kleinman JE, Hyde TM, Martinowich K, Jaffe A. (2020). [Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain](https://doi.org/10.1016/j.neuron.2021.09.001). _Neuron_.
+3. **Nelson ED**, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, **Hicks SC**, Martinowich K. (2022). [Activity-regulated gene expression across cell types of the mouse hippocampus](https://doi.org/10.1002/hipo.23548). _Hippocampus_.
+4. Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, **Hicks SC**, Risso D, Peixoto L. (2023). [A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex.](https://doi.org/10.1101/2023.11.28.569011). _bioRxiv_.
+
 
 
 
