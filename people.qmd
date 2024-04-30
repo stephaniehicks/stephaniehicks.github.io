@@ -8,13 +8,6 @@ format:
 
 # Current Lab Members 
 
-## Masters students
-
-| <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
-| :--- | :---- | :--- |
-| [Weishan Li](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) using multi-omics data to understand high-grade serous ovarian cancer with unsupervised methods. | <img width="200" src="images/weishan_li.jpg"> |
-
-<br>
 
 ## PhD students
 
@@ -35,6 +28,7 @@ format:
 | :--- | :---- | :--- |
 | [Boyi Guo](https://boyiguo1.github.io) | Postdoc working on developing scalable statistical learning models for high-dimensional data analysis with emphasis on –omics applications. | <img width="200" src="images/boyi_guo.png"> |
 | [Sean Maden](https://metamaden.github.io/) | Postdoc working on machine learning algorithms and open-source software for bulk and single-cell data. | <img width="200" src="images/sean_maden.png"> |
+| Jacqueline R. Thompson | Postdoc leading spatially-resolved transcriptomic projects to understand mental health disorders. | <img width="200" src="images/jacqueline-thompson.jpeg"> | 
 | [Michael Totty](https://www.linkedin.com/in/mictott/) | Postdoc leading single-nucleus RNA-sequencing and spatially-resolved transcriptomic projects to understand human psychiatric disorders. [NIH/NHMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104). | <img width="200" src="images/michael_totty.png"> |
 
 <br>
@@ -52,7 +46,8 @@ format:
 
 ## Masters Alumni
 
-- [Haowen Zhou](https://pixel-dream.github.io/) | 2023 | 
+- Weishan Li | 2024 | Next: PhD student, University of Colorado
+- [Haowen Zhou](https://pixel-dream.github.io/) | 2023 
 - [Jianing Yao](https://twitter.com/JNinnnngg) | 2023 | Next: PhD student, Johns Hopkins
 - [Yongbao Zhuang](https://yzhuang8.com/home/) | 2022 | Next: PhD student, Karolinska Institute
 - [Nathan Dyjack](https://ntdyjack.github.io/) | 2021 | Next: Data Scientist, MemorialCare Health System
