@@ -42,12 +42,12 @@ format:
 
 ## PhD Alumni
 
-- [Albert Kuo](https://albertkuo.me) | 2022 | Data Scientist, Amazon
+- [Albert Kuo](https://albertkuo.me) | 2022 | Next: Data Scientist, Amazon
 
 ## Masters Alumni
 
 - Weishan Li | 2024 | Next: PhD student, University of Colorado
-- [Haowen Zhou](https://pixel-dream.github.io/) | 2023 
+- [Haowen Zhou](https://pixel-dream.github.io/) | 2023 | Next: PhD student, UC San Diego
 - [Jianing Yao](https://twitter.com/JNinnnngg) | 2023 | Next: PhD student, Johns Hopkins
 - [Yongbao Zhuang](https://yzhuang8.com/home/) | 2022 | Next: PhD student, Karolinska Institute
 - [Nathan Dyjack](https://ntdyjack.github.io/) | 2021 | Next: Data Scientist, MemorialCare Health System
@@ -78,7 +78,7 @@ format:
 - [Anthony Ramnauth](https://www.libd.org/team/anthony-ramnauth) | JHU, Lieber Institute for Brain Development
 - [Madhavi Tippani](https://scholar.google.com/citations?user=TQGNTP8AAAAJ&hl=en) | Lieber Institute for Brain Development
 - [Siqi (Alice) Chen](https://bcmb.bs.jhmi.edu/people/siqi-alice-chen) | JHU 
-- [Carrie Wright](ttps://carriewright11.github.io/) | Fred Hutchinson Cancer Center 
+- [Carrie Wright](https://carriewright11.github.io/) | Fred Hutchinson Cancer Center 
 
 ## Visitors 
 
