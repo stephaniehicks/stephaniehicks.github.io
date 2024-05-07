@@ -24,7 +24,7 @@ Here are the minimum things I look for in a postdoc:
 * Written at least 1 first author paper 
 * Written at least 1 open source software package
 * [Problem forward philosophy](https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/)
-* Has read about our research and [projects](projects.qmd)
+* Has read about our research and [projects](publications.qmd)
 * Has at least one idea they want to work on unrelated to their dissertation
 
 If you are a PhD student who is interested in applying for postdoctoral funding through NSF, NIH, or another funding source and want to work with me, send me an email with the above information and I will be happy to help you with your application. 
