@@ -15,7 +15,7 @@ format:
 | :--- | :---- | :--- |
 | [Alyssa Columbus](https://alyssacolumbus.com/) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative) at Johns Hopkins University defining elements and principles for characterizing and evaluating data analyses. | <img width="200" src="images/alyssa_columbus.jpeg"> |
 | [Cindy Fang](https://mobile.twitter.com/findycang) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing computational methods for single-cell and spatial transcriptomics data. | <img width="200" src="images/cindy_fang.jpeg"> |
-| [Erik Nelson](https://cmm.jhmi.edu/index.php/cmm-student/erik-nelson/) | PhD student in [Cellular and Molecular Medicine](https://cmm.jhmi.edu) using single-nucleus RNA-sequencing data to understand human psychiatric disorders (Joint with [Keri Martinowich](https://twitter.com/martinowk)). | <img width="200" src="images/erik_nelson.png"> |
+| [Erik Nelson](https://www.linkedin.com/in/erik-david-nelson) | PhD student in [Cellular and Molecular Medicine](https://cmm.jhmi.edu) using single-nucleus RNA-sequencing data to understand human psychiatric disorders (Joint with [Keri Martinowich](https://twitter.com/martinowk)). | <img width="200" src="images/erik_nelson.png"> |
 | [Sowmya Parthiban](https://sowmya-parthiban.com) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing machine learning methods for spatial transcriptomics data. | <img width="200" src="images/sowmya_parthiban.png"> |
 | [Kinnary Shah](https://www.linkedin.com/in/kinnary-shah) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing statistical inference tools for spatial transcriptomics data. | <img width="200" src="images/kinnary_shah.jpg"> |
 | [Jianing Yao](https://twitter.com/JNinnnngg) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing scalable clustering methods and software for spatial omics data. | <img width="200" src="/./images/jianing_yao.jpeg"> |
@@ -28,7 +28,7 @@ format:
 | :--- | :---- | :--- |
 | [Boyi Guo](https://boyiguo1.github.io) | Postdoc working on developing scalable statistical learning models for high-dimensional data analysis with emphasis on –omics applications. | <img width="200" src="images/boyi_guo.png"> |
 | [Sean Maden](https://metamaden.github.io/) | Postdoc working on machine learning algorithms and open-source software for bulk and single-cell data. | <img width="200" src="images/sean_maden.png"> |
-| Jacqueline R. Thompson | Postdoc leading spatially-resolved transcriptomic projects to understand mental health disorders. | <img width="200" src="images/jacqueline-thompson.jpeg"> | 
+| [Jacqueline R. Thompson](https://scholar.google.com/citations?hl=en&user=PhomahsAAAAJ) | Postdoc leading spatially-resolved transcriptomic projects to understand mental health disorders. | <img width="200" src="images/jacqueline-thompson.jpeg"> | 
 | [Michael Totty](https://www.linkedin.com/in/mictott/) | Postdoc leading single-nucleus RNA-sequencing and spatially-resolved transcriptomic projects to understand human psychiatric disorders. [NIH/NHMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104). | <img width="200" src="images/michael_totty.png"> |
 
 <br>
@@ -38,7 +38,7 @@ format:
 ## Postdoc Alumni
 
 - [Lukas Weber](https://lmweber.github.io) | Assistant Professor, Boston University, Biostatistics | [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850)
-- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) |  Assistant Professor, Columbia, Biostatistics | [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
+- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) | Assistant Professor, Columbia, Biostatistics | [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
 
 ## PhD Alumni
 
