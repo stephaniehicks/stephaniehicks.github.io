@@ -1,0 +1,149 @@
+---
+title: "Publications"
+format:
+    html:
+        toc: true
+        toc-depth: 3
+---
+
+The following are a selected set of publications. To see a list with all of papers from Stephanie Hicks, you can visit [Google Scholar](https://scholar.google.com/citations?user=4T4qnL4AAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0002-7858-0231). 
+
+## Preprints
+
+**Yao J**, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2024). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). _bioRxiv_.
+
+**Nelson ED**, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, **Hicks SC**. (2024). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). _bioRxiv_.
+
+Ramnauth AD, Tippani M, Divecha HR, Papariello AR, Miller RA, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K, **Hicks SC**, Page SC. 2023. [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1101/2023.11.20.567883). _bioRxiv_.
+
+Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, **Hicks SC**, Page SC, Martinowich K. (2024). [Transcriptomic characterization of human lateral septum neurons reveals conserved and divergent marker genes across species](https://doi.org/10.1101/2024.04.22.590602). _bioRxiv_.
+
+Ivich A, Davidson NR, Grieshober L, **Li W**, **Hicks SC**, Doherty JA, Greene CS. (2024). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). _bioRxiv_. 
+
+Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). _arXiv_.
+
+Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, **Hicks SC**, Risso D, Peixoto L. (2023). [A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex.](https://doi.org/10.1101/2023.11.28.569011). _bioRxiv_.
+
+Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, **Maden SK**, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR, Collado-Torres L. (2024). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1101/2024.02.09.579665). _bioRxiv_. 
+
+**Maden SK**, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2024). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1101/2024.04.04.588105). _bioRxiv_.
+
+Hippen AA, Davidson NR, Barnard ME, **Weber LM**, Gertz J, Doherty JA, **Hicks SC**, Greene CS. (2023). [Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes](https://doi.org/10.1101/2023.06.14.544991). _bioRxiv_.
+
+D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Evaluating the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616). _arXiv_.
+
+Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, **Hicks SC** (2023). [Open Case Studies: Statistics and Data Science Education through Real-World Applications](https://arxiv.org/abs/2301.05298). _arXiv_.
+
+**Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). _arXiv_.
+
+
+## 2024 
+
+Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M,  Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, **Hicks SC**, Nolan GP, Davis KL, Papenfuss AT, Love M, Mangiola S. (2023). [The tidyomics ecosystem: Enhancing omic data analyses](https://doi.org/10.1101/2023.09.10.557072). _Nature Methods_.
+
+Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, **Guo B**, Grant-Peters M, Divecha HR, Tippani M, **Sriworarat C**, Nguyen AB, **Ravichandran P**, Tran MT, Seyedian A, PsychENCODE Consortium, Hyde TM, Kleinman JE, Battle A, Page SC,  Ryten M, **Hicks SC**, Martinowich K, Collado-Torres L, Maynard KR. (2023). [Integrated single cell and unsupervised spatial transcriptomic analysis defines molecular anatomy of the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2023.02.15.528722). _Science_. 
+
+**Weber LM**, Divecha HR, Tran MN, Kwon SH, Spangler A, Montgomery KD, Tippani M, Bharadwaj R, Kleinman JE, Page SC, Hyde TM, Collado-Torres L, Maynard KR, Martinowich K, **Hicks SC**. 2024. [The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics](https://elifesciences.org/articles/84628). _eLife_.
+
+Erdogdu B, Varabyou A, **Hicks SC**, Salzberg SL, Pertea M. (2024). [Detecting differential transcript usage in complex diseases with SPIT](https://pubmed.ncbi.nlm.nih.gov/38508189/). _Cell Reports Methods_.
+
+## 2023
+
+**Weber LM**, Saha A, Datta A, Hansen KD, **Hicks SC**. (2023). [nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes](https://doi.org/10.1038/s41467-023-39748-z). _Nature Communications_.
+
+**Guo B**, Huuki-Myers LA, Grant-Peters M, Collado-Torres L, **Hicks SC**. (2023). [escheR: Unified multi-dimensional visualizations with Gestalt principles](https://doi.org/10.1093/bioadv/vbad179). _Bioinformatics Advances_.
+
+**Sriworarat C**, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Maynard KR, **Hicks SC**. (2023). [Performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments](https://doi.org/10.1017/S2633903X2300017X). _Biological Imaging_.
+
+Tippani M, Divecha HR, Catallini JL, **Weber LM**, Spangler A, Jaffe AE, **Hicks SC**, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2023). [VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data](https://doi.org/10.1017/S2633903X23000235). _Biological Imaging_.
+
+Kwon SH, **Parthiban S**, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, **Hicks SC**, Martinowich K, Maynard KR, Collado-Torres L. (2023). [Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex](https://doi.org/10.1089/genbio.2023.0019). _GEN Biotechnology_.
+
+**Maden SK**, Kwon SH, Huuki-Myers LA, Collado-Torres L, **Hicks SC**,  Maynard KR. (2023). [Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets](https://doi.org/10.1186/s13059-023-03123-4). _Genome Biology_.
+
+**Hou W**, Ji Z, Chen Z, Wherry EJ, **Hicks SC**, Ji H. (2023). [A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples](https://doi.org/10.1038/s41467-023-42841-y). _Nature Communications_.
+
+Hippen AA, Omran DK, **Weber LM**, Jung E, Drapkin R, Doherty JA, **Hicks SC**, Greene CS. (2023). [Performance of computational algorithms to deconvolve heterogeneous bulk tumor tissue depends on experimental factors](https://doi.org/10.1186/s13059-023-03077-7). _Genome Biology_.
+
+**Kuo A**, Hansen KD, **Hicks SC**. (2023). [Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data](https://doi.org/10.1093/biostatistics/kxad010). _Biostatistcs_. 
+
+**Nelson ED**, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, **Hicks SC**, Martinowich K. (2023). [Activity-regulated gene expression across cell types of the mouse hippocampus](https://doi.org/10.1002/hipo.23548). _Hippocampus_.
+
+**Dyjack N**, Baker DN, Braverman V, Langmead B, **Hicks SC**. (2023). [A scalable and unbiased discordance metric with H+](https://pubmed.ncbi.nlm.nih.gov/36063544/). _Biostatistics_. 
+
+Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2023). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1186/s13059-023-03066-w). _Genome Biology_.
+
+
+## 2022
+
+Righelli D, **Weber LM**, Crowell HL, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, **Hicks SC**, Risso D (2022). [SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor](https://doi.org/10.1093/bioinformatics/btac299). _Bioinformatics_. 
+
+Wang Y, **Hicks SC**, Hansen KD (2022). [Addressing the mean-correlation relationship in co-expression analysis](https://doi.org/10.1371/journal.pcbi.1009954). _PLOS Computational Biology_.
+
+
+D'Agostino McGowan L, Peng RD, **Hicks SC**. (2022). [Design Principles for Data Analysis](https://doi.org/10.1080/10618600.2022.2104290). _Journal of Computational and Graphical Statistics_.
+
+Pardo B, Spangler A, **Weber LM**, **Hicks SC**, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. (2022). [spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data](https://doi.org/10.1186/s12864-022-08601-w). _BMC Genomics_. 
+
+Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A, **Hicks SC**. (2022). [Differential expression of single-cell RNA-seq data using Tweedie models](http://doi.org/10.1002/sim.9430). _Statistics in Medicine_.
+
+## 2021
+
+Heil BJ, Hoffman MM, Markowetz F, Lee S-I, Greene CS, **Hicks SC**. (2021). [Reproducibility standards for machine learning in the life sciences](https://doi.org/10.1038/s41592-021-01256-7). _Nature Methods_.
+
+Maynard KR, Collado-Torres L, **Weber LM**, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2021). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1038/s41593-020-00787-0). _Nature Neuroscience_. 
+
+**Hippen AA**, Falco MM, **Weber LM**, Erkan EP, Zhang K, Dohert JA, Vähärautio A, Greene CS, **Hicks SC**. (2021). [miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data](https://doi.org/10.1371/journal.pcbi.1009290). _PLOS Computational Biology_. 
+
+Baker DN, **Dyjack N**, Braverman V, **Hicks SC**, Langmead B. (2021). [minicore: Fast scRNA-seq clustering with various distance measures](https://doi.org/10.1145/3459930.3469523). _ACM Conference on Bioinformatics, Computational Biology and Biomedicine_.
+
+**Weber LM**, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, **Hicks SC**. (2021). [Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design](https://doi.org/10.1093/gigascience/giab062). _GigaScience_.
+
+Tran MN, Maynard KR, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, **Hicks SC**, Kleinman JE, Hyde TM, Martinowich K, Jaffe A. (2021). [Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain](https://doi.org/10.1016/j.neuron.2021.09.001). _Neuron_.
+
+Peng RD, Chen A, Bridgeford E, Leek JT, and **Hicks SC**. (2021). [Diagnosing Data Analytic Problems in the Classroom](https://doi.org/10.1080/26939169.2021.1971586).  _Journal of Statistics and Data Science Education_.
+
+Peng RD, **Hicks SC**. (2021). [Reproducible Research: A Retrospective](https://doi.org/10.1146/annurev-publhealth-012420-105110). _Annual Review of Public Health_.
+
+
+**Hicks SC**, Liu R, Ni Y, Purdom E, Risso D. (2021). [mbkmeans: fast clustering for single cell data using mini-batch _k_-means](https://doi.org/10.1371/journal.pcbi.1008625). _PLOS Computational Biology_.
+
+
+
+## 2020
+
+Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2020). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1038/s41592-019-0654-x). _Nature Methods_.
+
+Lahnemann D, Koester J, Szczurek E, McCarthy D, **Hicks S** _et al_. (2020). [Eleven grand challenges in single-cell data science](https://pubmed.ncbi.nlm.nih.gov/32033589/). _Genome Biology_. 
+
+**Hou W**, Ji J, Ji H, **Hicks SC** (2020). [A systematic evaluation of single-cell RNA-sequencing imputation methods](https://doi.org/10.1186/s13059-020-02132-x). _Genome Biology_.
+
+Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Guangchuang Y, **Hicks SC**, Robinson MD. (2020). [TreeSummarizedExperiment: a S4 class for data with hierarchical structure](https://doi.org/10.12688/f1000research.26669.1). _F1000Research_.
+
+## 2019
+
+
+Townes FW, **Hicks SC**, Aryee MJ, Irizarry RA (2019). [Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model](https://doi.org/10.1186/s13059-019-1861-6). _Genome Biology_. 
+
+**Hicks SC**, Irizarry RA. (2019). [methylCC: technology-independent estimation of cell type composition using differentially methylated regions](https://doi.org/10.1186/s13059-019-1827-8). _Genome Biology_.
+
+Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, **Hicks SC** (2019). [A practical guide to methods controlling false discoveries in computational biology](https://doi.org/10.1186/s13059-019-1716-1). _Genome Biology_. 
+
+
+## Earlier years
+
+**Hicks SC**, Townes FW, Teng M, Irizarry RA (2018). [Missing data and technical variability in single-cell RNA-sequencing experiments](https://academic.oup.com/biostatistics/article/19/4/562/4599254). _Biostatistics_. 
+
+**Hicks SC**, Okrah K, Paulson JN, Quackenbush J, Irizarry RA, Bravo HC (2018). [Smooth quantile normalization](https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169). _Biostatistics_.
+
+Kumar MS, Slud EV, Okrah K, **Hicks SC**, Hannenhalli S, Corrada Bravo H (2018). [Analysis and correction of compositional bias in sparse sequencing count data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5160-5). _BMC Genomics_. 
+
+**Hicks SC**, Irizarry RA (2018). [A Guide to Teaching Data Science](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1356747?journalCode=utas20). _The American Statistician_. 
+
+**Hicks SC** (2017). [Greater Data Science Ahead](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1385472). _Journal of Computational Graphical Statistics_. 
+
+**Hicks SC**, Irizarry RA (2015). [quantro: a data-driven approach to guide the choice of an appropriate normalization method](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0679-0). _Genome Biology_.
+
+Cheung HC, San Lucas FA, **Hicks S**, Chang K, Bertuch AA, Ribes-Zamora A. (2012). [An S/T-Q cluster domain census unveils new putative targets under Tel1/Mec1 control](https://pubmed.ncbi.nlm.nih.gov/23176708/). _BMC Genomics_.
+
+**Hicks S**, Wheeler DE, Plon SE, Kimmel M. (2011). [Prediction of Missense Mutation Functionality Depends on both the Algorithm and Sequence Alignment Employed](https://pubmed.ncbi.nlm.nih.gov/21480434/). _Human Mutation_.

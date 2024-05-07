@@ -6,6 +6,8 @@ format:
         toc-depth: 3
 ---
 
+
+
 # Reproducible research
 
 With the advent of large-scale and high-throughput data collection coupled with the creation and implementation of complex statistical algorithms for data analysis, the reproducibility of modern data analyses, meaning the ability of independent analysts to recreate the results claimed by the original authors using the original data and analysis techniques, has become an important topic of discussion.

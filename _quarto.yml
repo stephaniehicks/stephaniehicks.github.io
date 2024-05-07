@@ -6,7 +6,7 @@ website:
   navbar:
     right:
       - people.qmd
-      - projects.qmd
+      - publications.qmd
       - href: software.qmd
         text: Software
       - href: teaching.qmd
