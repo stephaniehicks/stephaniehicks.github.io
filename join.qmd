@@ -2,7 +2,6 @@
 title: "Join us"
 ---
 
-
 ### Prospective PhD students
 
 Prospective PhD students are encouraged to apply directly to JHU through one of the many excellent programs at Hopkins, including: 
@@ -18,7 +17,7 @@ I am open to working with PhD, masters, and undergraduate students from departme
 
 ### Prospective postdocs
 
-I am always open to recruiting postdocs to join the lab. Opportunities are available to develop and lead diverse projects, including statistical genomics, biomedical data science, machine learning, including areas of single-cell or spatial transcriptomics. Email me with a current CV, including publications and research experience, and a brief statement of interests. Diverse expertise will be considered, from machine learning methods to genomics and bioinformatics.
+I am always open to recruiting postdocs to join the lab. Opportunities are available to develop and lead diverse projects, including statistical genomics, biomedical data science, machine learning / AI, transfer learning in application of single-cell or spatial transcriptomics. Email me with a current CV, including publications and research experience, and a brief statement of interests. Diverse expertise will be considered, from machine learning methods to genomics and bioinformatics.
 
 Here are the minimum things I look for in a postdoc:
 
