@@ -1,200 +1,84 @@
 ---
-title: "Projects"
+title: "Research Themes"
 format:
     html:
         toc: true
         toc-depth: 3
 ---
 
-
-
 # Reproducible research
 
-With the advent of large-scale and high-throughput data collection coupled with the creation and implementation of complex statistical algorithms for data analysis, the reproducibility of modern data analyses, meaning the ability of independent analysts to recreate the results claimed by the original authors using the original data and analysis techniques, has become an important topic of discussion.
-I have contributed to developing reproducibility standards for machine learning in the life sciences (1), and also in public health (2). Furthermore, I am also an [Associate Editor for Reproducibility](https://jasa-acs.github.io/repro-guide/) at the [Journal of the American Statistical Association](https://www.tandfonline.com/toc/uasa20/current) (JASA) where I helped launch the [JASA Reproducibility Award](https://jasa-acs.github.io/repro-award). 
+With the advent of large-scale and high-throughput data collection coupled with the creation and implementation of complex statistical algorithms for data analysis, the reproducibility of modern data analyses, meaning the ability of independent analysts to recreate the results claimed by the original authors using the original data and analysis techniques, has become an important topic of discussion. We contribute to developing reproducibility standards and best practices for the life sciences and in public health. 
 
-1. Heil BJ, Hoffman MM, Markowetz F, Lee S-I, Greene CS, **Hicks SC**. (2021). [Reproducibility standards for machine learning in the life sciences](https://doi.org/10.1038/s41592-021-01256-7). _Nature Methods_.
-2.  Peng RD, **Hicks SC**. (2021). [Reproducible Research: A Retrospective](https://doi.org/10.1146/annurev-publhealth-012420-105110). _Annual Review of Public Health_.
+# Single cell data science
 
+Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical and computational challenges. 
 
-# High-throughput biological data
+To address these challenges, we have developed statstical and machine learning methods to:
 
-## Methods for normalizing and removing biases
+- Store, access, visualize, and analyze scRNA-seq data
+- Identify and to remove systematic errors and biases in scRNA-seq data 
+- Identify features and perform dimensionality reduction for count-based data 
+- Perform fast and memory-efficient unsupervised clustering scalable to millions of cells
+- Identify differences between biological groups or conditions using count-based models either at the gene and isoform level
+- Estimate the cell composition in heterogenous tissues using bulk RNA-sequencing
 
-Normalization is an essential step for the analysis of genomics high-throughput data. Quantile normalization is one of the most widely used multi-sample normalization tools for applications including genotyping arrays, RNA-Sequencing (RNA-Seq), DNA methylation (DNAm), ChIP-Sequencing (ChIP-Seq) and brain imaging. However, quantile normalization relies on assumptions about the data-generation process that are not appropriate in some contexts. To address this, I developed two statistical methods and open-source software for normalizing high-throughput data (1, 2). More recently, I have developed methods and software for correcting and removing compositional biases found in metagenomic data (3), and co-expression analysis of correlated genes (4). 
+We have also written [books](http://bioconductor.org/books/release/OSCA/) to teach users how to make use of cutting-edge computational tools to process, analyze, visualize, and explore scRNA-seq data.
 
-1.	**Hicks SC**, Irizarry RA (2015). [quantro: a data-driven approach to guide the choice of an appropriate normalization method](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0679-0). _Genome Biology_.
-2.	**Hicks SC**, Okrah K, Paulson JN, Quackenbush J, Irizarry RA, Bravo HC (2018). [Smooth quantile normalization](https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169). _Biostatistics_.
-3.	Kumar MS, Slud EV, Okrah K, **Hicks SC**, Hannenhalli S, Corrada Bravo H (2018). [Analysis and correction of compositional bias in sparse sequencing count data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5160-5). _BMC Genomics_. 
-4. Wang Y, **Hicks SC**, Hansen KD (2022). [Addressing the mean-correlation relationship in co-expression analysis](https://doi.org/10.1371/journal.pcbi.1009954). _PLOS Computational Biology_.
 
+# Spatial omics data science
 
-## Methods for deconvolution bulk tissue samples 
+Spatially-resolved transcriptomics (SRT), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x), is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. The experimental technologies to generate these data are fast moving, but have generated lots of open questions and opportunities. 
 
-Bulk tissue samples are often profiled due to their ease of access and low cost to sequence. A major challenge in the analysis of bulk tissue samples is they are typically made up of heterogenous cell types, for example whole blood or brain tissue. This intra-sample cellular heterogeneity is a source of variation than can sometimes be confounded with an outcome or phenotype of interest. If unaccounted for, false positives ensue. We have not only benchmarked deconovlution methods (1), but also developed statistical methods to estimate the cell type proportions in whole blood DNAm samples (2) and human brain RNA-seq samples (3), leading more more accurate estimates of cell composition after adjusting for differences in cell sizes (4,5).
+In this space, we have developed statstical and machine learning methods to:
 
-1. Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, **Maden SK**, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR, Collado-Torres L. (2024). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1101/2024.02.09.579665). _bioRxiv_. 
+- Store, access, visualize, and analyze spatial transcriptomics data leveraging exiting infrastracture borrowed from geomaps and geospatial file formats
+- Perform spatially-aware quality control to reduce the noise in downstream analyses
+- Identify spatially variable genes leveraging fast and scalable spatial statistics models
+- Remove the mean variance relationship in spatial transcriptomics data
+- Predict spatial domains for multi-modal spatial omics data using ML/AI approaches
 
-2. 	**Hicks SC**, Irizarry RA. (2019). [methylCC: technology-independent estimation of cell type composition using differentially methylated regions](https://doi.org/10.1186/s13059-019-1827-8). _Genome Biology_.
+# Open-source software
 
-3. **Maden SK**, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2024). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1101/2024.04.04.588105). _bioRxiv_.
+In addition to developing statistical methods, we care deeply about implementing our computational methods in [open-source software](software.qmd). Bioconductor is an open-source, open-development software project in the R programming language for the analysis and comprehension of high-throughput genomics and molecular biology data. We contribute open-source software to CRAN and to [Bioconductor](https://bioconductor.org/), which helps make our computational methods broadly accessible to the research community. 
 
-4. **Maden SK**, Kwon SH, Huuki-Myers LA, Collado-Torres L, **Hicks SC**,  Maynard KR. (2023). [Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets](https://doi.org/10.1186/s13059-023-03123-4). _Genome Biology_.
+Benchmarking and evaluting open-source software packages for their accuracy, usability and reproducibility is also important to us. We have led systematic benchmark comparsions of: 
 
-5. Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, **Hicks SC**,  Maynard KR, Collado-Torres L. (2022). [Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types](https://doi.org/10.1186/s13059-023-03066-w). _Genome Biology_.
-
-
-## Methods to identify differences between groups
-
-Identifying differences between biological groups or conditions in high-throughput data is a standard data analysis task. Recent effors have focused on identify differences between genes, but also transcripts. For example, differential transcript usage (DTU) has been shown to be important between cells, tissues, and biological systems. We developed a computational tool to quantify heterogeneity in transcript usage within a population of bulk RNA-seq samples and identifies predominant subgroups along with their distinctive sets of DTU events (1).
-
-1. Erdogdu B, Varabyou A, **Hicks SC**, Salzberg SL, Pertea M. (2023). [Detecting differential transcript usage in complex diseases with SPIT](https://doi.org/10.1101/2023.07.10.548289). _bioRxiv_.
-
-
-
-# Genomics data from single cells
-
-Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical and computational challenges (1, 2). 
-
-1. Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2020). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1038/s41592-019-0654-x). _Nature Methods_.
-
-2. Lähnemann D, Koester J, Szczurek E, McCarthy D, **Hicks S**, Robinson MD, Vallejos C, Beerenwinkel N, et al. (2020). [Eleven grand challenges in single-cell data science](https://doi.org/10.1186/s13059-020-1926-6). _Genome Biology_. 
-
-
-## Methods to identify and remove systematic errors and biases
-
-I was one of the first to demonstrate that systematic errors can explain a substantial percentage of observed cell-to-cell expression variability scRNA-seq, which in turn can lead to false discoveries, for example, when using unsupervised learning methods (1). To address this, we developed a fast, scalable statistical framework for feature selection and dimensionality reduction using generalized principal component analysis (GLM-PCA) for scRNA-seq data, which permits the identification of low-dimensional representations of cells measured with unique molecular identifiers (UMI) count data using a multinomial model (2). More recently, we developed a probabilistic model to identify low-quality cells in scRNA-seq data (3). Finally, we have evaluated probability distributions to accurately model single-nucleus RNA-sequencing (snRNA-seq) data and showed how snRNA-seq has a gene length bias present in both exonic and intronic reads (4).
-
-1.	**Hicks SC**, Townes FW, Teng M, Irizarry RA (2018). [Missing data and technical variability in single-cell RNA-sequencing experiments](https://academic.oup.com/biostatistics/article/19/4/562/4599254). _Biostatistics_. 
-2.	Townes FW, **Hicks SC**, Aryee MJ, Irizarry RA (2019). [Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model](https://doi.org/10.1186/s13059-019-1861-6). _Genome Biology_. 
-3. **Hippen AA**, Falco MM, **Weber LM**, Erkan EP, Zhang K, Dohert JA, Vähärautio A, Greene CS, **Hicks SC**. (2021). [miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data](https://doi.org/10.1371/journal.pcbi.1009290). _PLOS Computational Biology_. 
-4. **Kuo A**, Hansen KD, **Hicks SC**. (2023). [Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data](https://doi.org/10.1093/biostatistics/kxad010). _Biostatistcs_. 
-
-
-## Methods for distance metrics and unsupervised analyses
-
-Computational methods and open-source software to store, access, and analyze single-cell data are essential. Most importantly, they need to be fast, scalable, and memory efficient. For example, the _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq data. However, with increasing sizes of single-cell data, new methods are needed that are fast, scalable and memory-efficient. To address this, we implemented the mini-batch optimization for _k_-means clustering proposed in [Sculley (2010)](https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf) for large single cell sequencing data (1), including fast and memory-efficient k-means++ center finding with distance measures designed for count data and probability distributions (2). The mini-batch _k_-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format). In addition, we have developed fast and scalable discordance metrics to use as a performance metric to evaluate the predicted labels for a general dissimilarity measure (e.g. Euclidean distance) (3). Finally, we have also implemented scalable data infrastructure to store and access single-cell data that can be explored with hierarchical structures (e.g. cell types) (4). 
-
-1. **Hicks SC**, Liu R, Ni Y, Purdom E, Risso D. (2020). [mbkmeans: fast clustering for single cell data using mini-batch _k_-means](https://doi.org/10.1371/journal.pcbi.1008625). _PLOS Computational Biology_.
-2. Baker DN, **Dyjack N**, Braverman V, **Hicks SC**, Langmead B. (2021). [minicore: Fast scRNA-seq clustering with various distance measures](https://doi.org/10.1145/3459930.3469523). _ACM Conference on Bioinformatics, Computational Biology and Biomedicine_.
-3. **Dyjack N**, Baker DN, Braverman V, Langmead B, **Hicks SC**. (2023). [A scalable and unbiased discordance metric with _H+_](https://doi.org/10.1093/biostatistics/kxac035). _Biostatistics_.
-4. Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Guangchuang Y, **Hicks SC**, Robinson MD. (2020). [TreeSummarizedExperiment: a S4 class for data with hierarchical structure](https://doi.org/10.12688/f1000research.26669.1). _F1000Research_.
-
-
-## Methods to identify differences between groups
-
-Another important question is how to identify differences between biological groups or conditions in single-cell data. For example, these count-based models, such as Poisson or negative binomial, can be generalized using the Tweedie family of distributions, which we used to develop a statistical method to identify differentially expressed genes (1). Similarly, we have developed methods for differential pseudotime analysis (gene expression or cell abundance) with multiple samples per group using B-splines (2).
-
-1. Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A, **Hicks SC**. (2021). [Differential expression of single-cell RNA-seq data using Tweedie models](http://doi.org/10.1002/sim.9430). _Statistics in Medicine_.
-2. **Hou W**, Ji Z, Chen Z, Wherry EJ, **Hicks SC**, Ji H. (2021). [A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples](https://doi.org/10.1038/s41467-023-42841-y). _Nature Communications_.
-
-
-## Single cell applications
-
-### High-grade serous ovarian cancer 
-
-The goal of this project is to identify the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell gene expression data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. Towards this goal, we demonstrated that genetic demultiplexing from single-cell cancer samples can be used for better experimental design and increase cost savings (1). Most recently, we performed a systematic benchmark of algorithms for bulk deconvolution for HGSOC tumors (2) and showed how applyings these algorithms in the context of high-grade serous ovarian cancer  reveals compositional differences in subtypes.  
-
-1. **Weber LM**, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, **Hicks SC**. (2020). [Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design](https://doi.org/10.1093/gigascience/giab062). _GigaScience_.
-2. Hippen AA, Omran DK, **Weber LM**, Jung E, Drapkin R, Doherty JA, **Hicks SC**, Greene CS. (2023). [Performance of computational algorithms to deconvolve heterogeneous bulk tumor tissue depends on experimental factors](https://doi.org/10.1186/s13059-023-03077-7). _Genome Biology_.
-3. Hippen AA, Davidson NR, Barnard ME, **Weber LM**, Gertz J, Doherty JA, **Hicks SC**, Greene CS. (2023). [Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes](https://doi.org/10.1101/2023.06.14.544991). _bioRxiv_.
-4.  Ivich A, Davidson NR, Grieshober L, **Li W**, **Hicks SC**, Doherty JA, Greene CS. (2024). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). _bioRxiv_. 
-
-
-### Neuroscience
-
-Single-nucleus RNA-sequencing (snRNA-seq) has become the preferred experimental technology, compared to scRNA-seq, to profile gene expression in frozen cells or cells that are hard to dissociate, such as brain tissue. Previous studies have shown that snRNA-seq offers substantial advantages over scRNA-seq, including reduced dissociation bias and the ability to capture rare cell types in these tissues including lateral septum (1) and pan regions of the brain (2). For example, we recently used snRNA-seq to explore activity-regulated gene expression across cell types of the mouse hippocampus (3) and the effect of sleep deprivation in the mouse frontal cortex (4). 
-
-1. Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, **Hicks SC**, Page SC, Martinowich K. (2024). [Transcriptomic characterization of human lateral septum neurons reveals conserved and divergent marker genes across species](https://doi.org/10.1101/2024.04.22.590602). _bioRxiv_.
-2. Tran MN, Maynard KR, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, **Hicks SC**, Kleinman JE, Hyde TM, Martinowich K, Jaffe A. (2020). [Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain](https://doi.org/10.1016/j.neuron.2021.09.001). _Neuron_.
-3. **Nelson ED**, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, **Hicks SC**, Martinowich K. (2022). [Activity-regulated gene expression across cell types of the mouse hippocampus](https://doi.org/10.1002/hipo.23548). _Hippocampus_.
-4. Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, **Hicks SC**, Risso D, Peixoto L. (2023). [A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex.](https://doi.org/10.1101/2023.11.28.569011). _bioRxiv_.
-
-
-
-
-# Genomics data with spatial resolution
-
-Spatially-resolved transcriptomics (SRT), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x), is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. These technologies have created an unprecedented opportunity to investigate important biological questions that can only be answered in a spatial context. However, these technologies also brings new statistical, computational and methodological challenges. 
-
-## Data storage and data visualization
-
-To address some of these challenges, we have developed standardized data infrastructure to storage SRT data within the Bioconductor framework (1) along with tools to statistially visualize multi-dimensional data in a 2D space, including embedding visualizations or spatial visualizations (2). Other tools include interactively visualizing SRT data (3-4). Most recently, we developed a performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments called [Samui Browser](https://samuibrowser.com), which leverages GeoTIFF file formats and [OpenLayers](https://openlayers.org) for geomaps (5).
-
-
-1. Righelli D, **Weber LM**, Crowell HL, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, **Hicks SC**, Risso D (2021). [SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor](https://doi.org/10.1093/bioinformatics/btac299). _Bioinformatics_. 
-2. **Guo B**, Huuki-Myers LA, Grant-Peters M, Collado-Torres L, **Hicks SC**. (2023). [escheR: Unified multi-dimensional visualizations with Gestalt principles](https://doi.org/10.1093/bioadv/vbad179). _Bioinformatics Advances_.
-3. Pardo B, Spangler A, **Weber LM**, **Hicks SC**, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. [spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data](https://doi.org/10.1186/s12864-022-08601-w). _BMC Genomics_. 
-4. Tippani M, Divecha HR, Catallini JL, **Weber LM**, Spangler A, Jaffe AE, **Hicks SC**, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). [VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data](https://doi.org/10.1017/S2633903X23000235). _Biological Imaging_.
-5. **Sriworarat C**, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Maynard KR, **Hicks SC**. (2023). [Performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments](https://doi.org/10.1017/S2633903X2300017X). _Biological Imaging_.
-
-
-## Methods for downstream analyses
-
-Feature selection to identify spatially variable genes (SVGs) is a key step during analyses of SRT data. We developed a scalable approach to identify SVGs based on nearest-neighbor Gaussian processes (GPs), which uses gene-specific estimates of length scale parameters within GP models, and scales linearly with the number of spatial locations (1). We have also developed spatial clustering algorithms for multi-omics data (2). 
-
-1. **Weber LM**, Saha A, Datta A, Hansen KD, **Hicks SC**. (2023). [nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes](https://doi.org/10.1038/s41467-023-39748-z). _Nature Communications_.
-2. **Yao J**, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2024). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). _bioRxiv_.
-
-
-## Spatial atlases
-
-### Neuroscience
-
-We have created transcriptome-wide spatial atlases using the 10x Genomics Visium platform using postmorteum human brain regions, including dorsolateral prefrontal cortex (1,2), inferior temporal cortex (3), locus coeruleus (4), and hippocampus (5-6). This is highly relevant to public health because these technologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. 
-
-1. Maynard KR, Collado-Torres L, **Weber LM**, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2021). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1038/s41593-020-00787-0). _Nature Neuroscience_. 
-2. Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, **Guo B**, Grant-Peters M, Divecha HR, Tippani M, **Sriworarat C**, Nguyen AB, **Ravichandran P**, Tran MT, Seyedian A, PsychENCODE Consortium, Hyde TM, Kleinman JE, Battle A, Page SC,  Ryten M, **Hicks SC**, Martinowich K, Collado-Torres L, Maynard KR. (2023). [Integrated single cell and unsupervised spatial transcriptomic analysis defines molecular anatomy of the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2023.02.15.528722). _bioRxiv_. 
-3. Kwon SH, **Parthiban S**, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, **Hicks SC**, Martinowich K, Maynard KR, Collado-Torres L. (2023). [Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex](https://doi.org/10.1089/genbio.2023.0019). _GEN Biotechnology_.
-4. **Weber LM**, Divecha HR, Tran MN, Kwon SH, Spangler A, Montgomery KD, Tippani M, Bharadwaj R, Kleinman JE, Page SC, Hyde TM, Collado-Torres L, Maynard KR, Martinowich K, **Hicks SC**. 2024. [The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics](https://elifesciences.org/articles/84628). _eLife_.
-5. **Nelson ED**, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, **Hicks SC**. (2024). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). _bioRxiv_.
-6. Ramnauth AD, Tippani M, Divecha HR, Papariello AR, Miller RA, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K, **Hicks SC**, Page SC. 2023. [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1101/2023.11.20.567883). _bioRxiv_.
-
-# Benchmarking open-source software for genomics 
-
-In addition to developing statistical methods, I am strongly invested in implementing methods in open-source software for the analysis of genomics data leading to improved reproducibility and understanding of biological data. Bioconductor is an open-source, open-development software project in the R programming language for the analysis and comprehension of high-throughput genomics and molecular biology data. As one of the leaders of the Bioconductor project, I have not only contributed software for the analysis of single-cell RNA-sequencing (scRNA-seq) data, but also I have led a team of investigators to address a growing need of how to approach single-cell genomic data in a comprehensible way published in _Nature Methods_ (1), which included creating a freely available, [**42-chapter online book**](http://bioconductor.org/books/release/OSCA/) of single-cell methods and tools for prospective users and was highlighted in a _Nature Biotechnology_ [**editorial**](https://www.nature.com/articles/s41587-020-0449-8) in 2020. More recently, I have contributed to the [tidyomics ecosystem](https://github.com/tidyomics) bridging the tidyverse and omics data analysis in the R programming language (2). 
-
-1. Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2020). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1038/s41592-019-0654-x). _Nature Methods_.
-2. Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M,  Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, **Hicks SC**, Nolan GP, Davis KL, Papenfuss AT, Love M, Mangiola S. (2023). [The tidyomics ecosystem: Enhancing omic data analyses](https://doi.org/10.1101/2023.09.10.557072). _bioRxiv_.
-
-
-In addition, I evaluate open-source software packages for their accuracy, usability and reproducibility. For example, in high-throughput studies, hundreds to millions of hypotheses are typically tested. Statistical methods that control the false discovery rate (FDR) have emerged as popular and powerful tools for error rate control. While classic FDR methods use only _p_-values as input, more modern FDR methods have been shown to increase power by incorporating complementary information as "informative covariates" to prioritize, weight, and group hypotheses. To address this, we investigated the accuracy, applicability, and ease of use of two classic and six modern FDR-controlling methods by performing a systematic benchmark comparison using simulation studies as well as six case studies in computational biology (2). 
-
-2. Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, **Hicks SC** (2019). [A practical guide to methods controlling false discoveries in computational biology](https://doi.org/10.1186/s13059-019-1716-1). _Genome Biology_. 
-
-Most recently, we performed a benchmark comparison of 18 scRNA-seq imputation methods across multiple experimental protocols and datasets (3).
-
-3. **Hou W**, Ji J, Ji H, **Hicks SC** (2020). [A systematic evaluation of single-cell RNA-sequencing imputation methods](https://doi.org/10.1186/s13059-020-02132-x). _Genome Biology_.
-
+- Computational methods that control the false discovery rate (FDR) 
+- Computational methods for scRNA-seq imputation
 
 
 # Data science education
 
-An increase in demand for statistics and data science education has led to changes in curriculum, specifically an increase in computing. While this has led to more applied courses, students still struggle with effectively deriving knowledge from data and solving real-world problems. In 1999, Deborah Nolan and Terry Speed argued the solution was to teach courses through in-depth case studies derived from interesting scientific questions with nontrivial solutions that leave room for different analyses of the data. This innovative framework teaches the student to make important connections between the scientific question, data and statistical concepts that only come from hands-on experience analyzing data (1-2). 
-
-1. **Hicks SC**, Irizarry RA (2018). [A Guide to Teaching Data Science](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1356747?journalCode=utas20). _The American Statistician_. 
-2. **Hicks SC** (2017). [Greater Data Science Ahead](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1385472). _Journal of Computational Graphical Statistics_. 
+An increase in demand for statistics and data science education has led to changes in curriculum, specifically an increase in computing. While this has led to more applied courses, students still struggle with effectively deriving knowledge from data and solving real-world problems. In 1999, Deborah Nolan and Terry Speed argued the solution was to teach courses through in-depth case studies derived from interesting scientific questions with nontrivial solutions that leave room for different analyses of the data. This innovative framework teaches the student to make important connections between the scientific question, data and statistical concepts that only come from hands-on experience analyzing data. 
 
 ## Open Case Studies 
 
-To address this, I built the [Open Case Studies](https://www.opencasestudies.org) (OCS) (1) data science educational resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. This project was selected as a High-Impact Project in 2019-2020 by the Bloomberg American Health Initiative and Bloomberg Philanthropies (2). A list of available cases studies are listed in the [teaching](../teaching/index.html) section.
-
-1. Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, **Hicks SC** (2023). [Open Case Studies: Statistics and Data Science Education through Real-World Applications](https://arxiv.org/abs/2301.05298). _arXiv_.
-2. <https://americanhealth.jhu.edu/open-case-studies>
+To address this, we built the [Open Case Studies](https://www.opencasestudies.org) (OCS) data science educational resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. This project was selected as a [High-Impact Project](https://americanhealth.jhu.edu/open-case-studies) in 2019-2020 by the Bloomberg American Health Initiative and Bloomberg Philanthropies. 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DgzBSOY5Yc8" frameborder="0" allowfullscreen></iframe></p>
-
 
 
 ## Analytic Design Theory
 
 The data science revolution has led to an increased interest in the practice of data analysis. While much has been written about _statistical thinking_, a complementary form of thinking that appears in the practice of data analysis is _design thinking_ -- the problem-solving process to understand the people for whom a product is being designed. 
 
-[Analytic Design Theory](https://analyticdesigntheory.org/) is the study of how data analyses are conducted in the real world taking into account both the perspectives of both the analyst and the stakeholder or consumer of the analysis. Aspects of this include characterizing variation between analyses (1,2), developing measures of quality, success, and usability (3,4), modeling the analytic process (5), and considering what makes data analyses more or less trustworthy. Analytic design theory is driven by the need to scale the training of data analysis and to continuously improve the quality of analyses.
+[Analytic Design Theory](https://analyticdesigntheory.org/) is the study of how data analyses are conducted in the real world taking into account both the perspectives of both the analyst and the stakeholder or consumer of the analysis. Aspects of this include characterizing variation between analyses, developing measures of quality, success, and usability, modeling the analytic process, and considering what makes data analyses more or less trustworthy. Analytic design theory is driven by the need to scale the training of data analysis and to continuously improve the quality of analyses.
 
-1. D'Agostino McGowan L, Peng RD, **Hicks SC**. (2022). [Design Principles for Data Analysis](https://doi.org/10.1080/10618600.2022.2104290). _Journal of Computational and Graphical Statistics_.
-2. **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). _arXiv_.
-3. D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Evaluating the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616). _arXiv_.
-4. Peng RD, Chen A, Bridgeford E, Leek JT, and **Hicks SC**. (2021). [Diagnosing Data Analytic Problems in the Classroom](https://doi.org/10.1080/26939169.2021.1971586).  _Journal of Statistics and Data Science Education_.
-5. Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). _arXiv_.
 
+
+# Applications
+
+## Neuroscience
+
+We have several active and ongoing collaborations in this space. 
+
+- We collaborate with the [Peixoto lab](https://labs.wsu.edu/peixoto-lab/home/dr-lucia-peixoto/) and [Risso lab](https://drisso.github.io/) to investigate how gene expression changes with sleep and cognitative impairements within Autism Spectrum Disorders. 
+
+- We collaborate with the [Zack lab](https://scholar.google.com/citations?user=frmlZdAAAAAJ&hl=en) and the [Timp lab](https://scholar.google.com/citations?user=wTEx9N8AAAAJ&hl=en) to generate and analyze long-read RNA-sequencing to investigate gene expression in retinal ganglion cells, the cells whose death in glaucoma leads to visual loss and potentially blindness. 
+
+- We collaborate with researchers at the [Lieber Institute for Brain Development](https://www.libd.org), in particular the labs of [Keri Martinowich](https://www.libd.org/team/keri-martinowich-phd/), [Kristen Maynard](https://www.libd.org/team/kristen-maynard-phd/), and [Stephanie Page](https://www.libd.org/team/stephanie-cerceo-page-phd/), on a variety of projects leveraging scRNA-seq and spatial transcriptomics technologies. We use these technologies to profilie postmorteum human tissue at a single-cell and/or spatial resolution to better understand the molecular mechanisms of neuropsychiatric, neurodevelopmental, and neurodegenerative disorders in the human brain. 
+
+## Ovarian cancer 
+
+We collaborate with [Greene lab](https://greenelab.com/members/casey-greene.html) and [Doherty lab](https://uofuhealth.utah.edu/huntsman/labs/doherty) studying biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk RNA-seq, scRNA-seq, and spatial transcriptomics data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. 

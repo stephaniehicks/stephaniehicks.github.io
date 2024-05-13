@@ -5,6 +5,8 @@ website:
   title: "Stephanie C. Hicks, PhD"
   navbar:
     right:
+      - href: projects.qmd
+        text: Research themes
       - people.qmd
       - publications.qmd
       - href: software.qmd
@@ -12,7 +14,6 @@ website:
       - href: teaching.qmd
         text: Teaching
       - talks.qmd
-      - blog.qmd
       - join.qmd
       - icon: github
         href: https://github.com/stephaniehicks
