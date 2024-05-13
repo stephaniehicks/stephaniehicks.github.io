@@ -6,8 +6,7 @@ format:
         toc-depth: 3
 ---
 
-# Current Lab Members 
-
+# Current  
 
 ## PhD students
 
@@ -16,9 +15,9 @@ format:
 | [Alyssa Columbus](https://alyssacolumbus.com/) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative) at Johns Hopkins University defining elements and principles for characterizing and evaluating data analyses. | <img width="200" src="images/alyssa_columbus.jpeg"> |
 | [Cindy Fang](https://mobile.twitter.com/findycang) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing computational methods for single-cell and spatial transcriptomics data. | <img width="200" src="images/cindy_fang.jpeg"> |
 | [Erik Nelson](https://www.linkedin.com/in/erik-david-nelson) | PhD student in [Cellular and Molecular Medicine](https://cmm.jhmi.edu) using single-nucleus RNA-sequencing data to understand human psychiatric disorders (Joint with [Keri Martinowich](https://twitter.com/martinowk)). | <img width="200" src="images/erik_nelson.png"> |
-| [Sowmya Parthiban](https://sowmya-parthiban.com) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing machine learning methods for spatial transcriptomics data. | <img width="200" src="images/sowmya_parthiban.png"> |
+| [Sowmya Parthiban](https://sowmya-parthiban.com) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing computational methods and software for long-read RNA-sequencing. | <img width="200" src="images/sowmya_parthiban.png"> |
 | [Kinnary Shah](https://www.linkedin.com/in/kinnary-shah) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing statistical inference tools for spatial transcriptomics data. | <img width="200" src="images/kinnary_shah.jpg"> |
-| [Jianing Yao](https://twitter.com/JNinnnngg) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing scalable clustering methods and software for spatial omics data. | <img width="200" src="/./images/jianing_yao.jpeg"> |
+| [Jianing Yao](https://www.linkedin.com/in/jianing-yao-15156211b/) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing scalable clustering methods and software for spatial omics data. | <img width="200" src="/./images/jianing_yao.jpeg"> |
 
 <br>
 
@@ -46,9 +45,9 @@ format:
 
 ## Masters Alumni
 
-- Weishan Li | 2024 | Next: PhD student, University of Colorado
+- [Weishan Li](https://www.linkedin.com/in/weishan-li-b57950307/) | 2024 | Next: PhD student, University of Colorado
 - [Haowen Zhou](https://pixel-dream.github.io/) | 2023 | Next: PhD student, UC San Diego
-- [Jianing Yao](https://twitter.com/JNinnnngg) | 2023 | Next: PhD student, Johns Hopkins
+- [Jianing Yao](https://www.linkedin.com/in/jianing-yao-15156211b/) | 2023 | Next: PhD student, Johns Hopkins
 - [Yongbao Zhuang](https://yzhuang8.com/home/) | 2022 | Next: PhD student, Karolinska Institute
 - [Nathan Dyjack](https://ntdyjack.github.io/) | 2021 | Next: Data Scientist, MemorialCare Health System
 
