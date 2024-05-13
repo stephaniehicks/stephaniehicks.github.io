@@ -9,6 +9,8 @@ format:
 
 #### Software packages
 
+- [R/SpotSweeper](https://bioconductor.org/packages/SpotSweeper) | <img src="https://bioconductor.org/shields/years-in-bioc/SpotSweeper.svg"> |  R/Bioconductor package that provides spatially-aware quality control metrics for spatial transcriptomics data.
+- [R/spoon](https://bioconductor.org/packages/spoon) | <img src="https://bioconductor.org/shields/years-in-bioc/spoon.svg"> |  R/Bioconductor package that addresses the mean-variance relationship in spatially resolved transcriptomics data.
 - [R/escheR](https://bioconductor.org/packages/escheR) | <img src="https://bioconductor.org/shields/years-in-bioc/escheR.svg"> |  Built off of ggplot2 and the Gestalt principles to visualize multi-dimensional data in the 2D space (e.g. embedding or spatial visualizations). ([Guo et al., 2023. _Bioinformatics Advances_](https://doi.org/10.1093/bioadv/vbad179)).
 - [R/TREG](https://www.bioconductor.org/packages/TREG) | <img src="https://bioconductor.org/shields/years-in-bioc/TREG.svg"> | R/Bioconductor package to find Total RNA Expression Genes (TREGs) in single nucleus RNA-seq data ([Huuki-Myers et al., 2023. _Genome Biology_](https://doi.org/10.1186/s13059-023-03066-w)).
 - [R/nnSVG](https://www.bioconductor.org/packages/nnSVG) | <img src="https://bioconductor.org/shields/years-in-bioc/nnSVG.svg"> | R/Bioconductor package that provides a scalable method to identify spatially variable genes (SVGs) in spatially-resolved transcriptomics data based on nearest-neighbor Gaussian processes. ([Weber et al., 2023. _Nature Communications_](https://doi.org/10.1038/s41467-023-39748-z)).
