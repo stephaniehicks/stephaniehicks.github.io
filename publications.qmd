@@ -10,9 +10,11 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+**Totty MS**, **Hicks SC**, **Guo B**. (2024). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). _bioRxiv_. 
+
 **Yao J**, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2024). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). _bioRxiv_.
 
-**Nelson ED**, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, **Hicks SC**. (2024). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). _bioRxiv_.
+**Nelson ED**, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, **Yao J**, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, **Hicks SC**. (2024). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). _bioRxiv_.
 
 Ramnauth AD, Tippani M, Divecha HR, Papariello AR, Miller RA, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K, **Hicks SC**, Page SC. 2023. [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1101/2023.11.20.567883). _bioRxiv_.
 
@@ -39,7 +41,7 @@ Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, **Hicks S
 
 ## 2024 
 
-Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M,  Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, **Hicks SC**, Nolan GP, Davis KL, Papenfuss AT, Love M, Mangiola S. (2023). [The tidyomics ecosystem: Enhancing omic data analyses](https://doi.org/10.1101/2023.09.10.557072). _Nature Methods_.
+Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M,  Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, **Hicks SC**, Nolan GP, Davis KL, Papenfuss AT, Love M, Mangiola S. (2024). [The tidyomics ecosystem: Enhancing omic data analyses](https://doi.org/10.1101/2023.09.10.557072). _Nature Methods_.
 
 Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, **Guo B**, Grant-Peters M, Divecha HR, Tippani M, **Sriworarat C**, Nguyen AB, **Ravichandran P**, Tran MT, Seyedian A, PsychENCODE Consortium, Hyde TM, Kleinman JE, Battle A, Page SC,  Ryten M, **Hicks SC**, Martinowich K, Collado-Torres L, Maynard KR. (2023). [Integrated single cell and unsupervised spatial transcriptomic analysis defines molecular anatomy of the human dorsolateral prefrontal cortex](https://www.science.org/doi/10.1126/science.adh1938). _Science_. 
 
