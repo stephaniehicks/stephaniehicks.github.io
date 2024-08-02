@@ -8,6 +8,14 @@ format:
 
 # Current  
 
+### ScM students
+
+| <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
+| :--- | :---- | :--- |
+| [Christine Hou](https://www.linkedin.com/in/christine-yiru-hou-086439221/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing APIs and computational methods for spatial omics data. | <img width="200" src="images/christine_hou.png"> |
+| [Shu Luan](https://www.linkedin.com/in/shu-luan-a60a391a0/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing deep learning algorithms for spatial omics data. Jointly mentored with Brian Caffo. | <img width="200" src="images/shu_luan.jpeg"> |
+<br>
+
 ## PhD students
 
 | <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
