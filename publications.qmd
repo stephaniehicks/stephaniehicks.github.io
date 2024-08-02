@@ -10,6 +10,8 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+**Guo B**, Ling W, Kwon SH, Panwar P, Ghazanfar S, Martinowich K, **Hicks SC**. [Integrating spatially-resolved transcriptomics data across tissues and individuals: challenges and opportunities](https://arxiv.org/abs/2408.00367). _arXiv_.
+
 **Totty MS**, **Hicks SC**, **Guo B**. (2024). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). _bioRxiv_. 
 
 **Yao J**, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2024). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). _bioRxiv_.
