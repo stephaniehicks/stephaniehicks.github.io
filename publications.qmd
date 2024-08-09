@@ -26,8 +26,6 @@ Ivich A, Davidson NR, Grieshober L, **Li W**, **Hicks SC**, Doherty JA, Greene C
 
 Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). _arXiv_.
 
-Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, **Hicks SC**, Risso D, Peixoto L. (2023). [A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex.](https://doi.org/10.1101/2023.11.28.569011). _bioRxiv_.
-
 Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, **Maden SK**, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR, Collado-Torres L. (2024). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1101/2024.02.09.579665). _bioRxiv_. 
 
 **Maden SK**, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2024). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1101/2024.04.04.588105). _bioRxiv_.
@@ -36,12 +34,14 @@ Hippen AA, Davidson NR, Barnard ME, **Weber LM**, Gertz J, Doherty JA, **Hicks S
 
 D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Evaluating the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616). _arXiv_.
 
-Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, **Hicks SC** (2023). [Open Case Studies: Statistics and Data Science Education through Real-World Applications](https://arxiv.org/abs/2301.05298). _arXiv_.
-
 **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). _arXiv_.
 
 
 ## 2024 
+
+Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, **Hicks SC** (2024). [Open Case Studies: Statistics and Data Science Education through Real-World Applications](https://arxiv.org/abs/2301.05298). Accepted in _Journal of Statistics and Data Science Education_.
+
+Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, **Hicks SC**, Risso D, Peixoto L. (2024). [A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex.](https://doi.org/10.1101/2023.11.28.569011). Accepted in _iScience_.
 
 Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M,  Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, **Hicks SC**, Nolan GP, Davis KL, Papenfuss AT, Love M, Mangiola S. (2024). [The tidyomics ecosystem: Enhancing omic data analyses](https://doi.org/10.1038/s41592-024-02299-2). _Nature Methods_.
 
