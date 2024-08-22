@@ -39,7 +39,7 @@ D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Evaluating the Alignment o
 
 ## 2024 
 
-Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, **Hicks SC** (2024). [Open Case Studies: Statistics and Data Science Education through Real-World Applications](https://arxiv.org/abs/2301.05298). Accepted in _Journal of Statistics and Data Science Education_.
+Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, **Hicks SC** (2024). [Open Case Studies: Statistics and Data Science Education through Real-World Applications](https://doi.org/10.1080/26939169.2024.2394541). _Journal of Statistics and Data Science Education_.
 
 Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, **Hicks SC**, Risso D, Peixoto L. (2024). [A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex.](https://doi.org/10.1101/2023.11.28.569011). Accepted in _iScience_.
 
