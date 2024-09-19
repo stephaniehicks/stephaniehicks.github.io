@@ -2,6 +2,12 @@
 title: "Join us"
 ---
 
+### We are hiring!  
+
+```{=html}
+<embed src="resources/2024-hicks-postdoc.pdf" width="850px" height="1100px" />
+```
+
 ### Prospective PhD students
 
 Prospective PhD students are encouraged to apply directly to JHU through one of the many excellent programs at Hopkins, including: 

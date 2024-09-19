@@ -53,6 +53,8 @@ Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, **Guo B**, Grant-
 
 Erdogdu B, Varabyou A, **Hicks SC**, Salzberg SL, Pertea M. (2024). [Detecting differential transcript usage in complex diseases with SPIT](https://pubmed.ncbi.nlm.nih.gov/38508189/). _Cell Reports Methods_.
 
+**Kuo A**, Hansen KD, **Hicks SC**. (2024). [Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data](https://doi.org/10.1093/biostatistics/kxad010). _Biostatistcs_. 
+
 ## 2023
 
 **Weber LM**, Saha A, Datta A, Hansen KD, **Hicks SC**. (2023). [nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes](https://doi.org/10.1038/s41467-023-39748-z). _Nature Communications_.
@@ -70,8 +72,6 @@ Kwon SH, **Parthiban S**, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams 
 **Hou W**, Ji Z, Chen Z, Wherry EJ, **Hicks SC**, Ji H. (2023). [A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples](https://doi.org/10.1038/s41467-023-42841-y). _Nature Communications_.
 
 Hippen AA, Omran DK, **Weber LM**, Jung E, Drapkin R, Doherty JA, **Hicks SC**, Greene CS. (2023). [Performance of computational algorithms to deconvolve heterogeneous bulk tumor tissue depends on experimental factors](https://doi.org/10.1186/s13059-023-03077-7). _Genome Biology_.
-
-**Kuo A**, Hansen KD, **Hicks SC**. (2023). [Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data](https://doi.org/10.1093/biostatistics/kxad010). _Biostatistcs_. 
 
 **Nelson ED**, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, **Hicks SC**, Martinowich K. (2023). [Activity-regulated gene expression across cell types of the mouse hippocampus](https://doi.org/10.1002/hipo.23548). _Hippocampus_.
 

@@ -14,7 +14,7 @@ With the advent of large-scale and high-throughput data collection coupled with 
 
 Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical and computational challenges. 
 
-To address these challenges, we have developed statstical and machine learning methods to:
+To address these challenges, we have developed statistical and machine learning methods to:
 
 - Store, access, visualize, and analyze scRNA-seq data
 - Identify and to remove systematic errors and biases in scRNA-seq data 
@@ -30,9 +30,9 @@ We have also written [books](http://bioconductor.org/books/release/OSCA/) to tea
 
 Spatially-resolved transcriptomics (SRT), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x), is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. The experimental technologies to generate these data are fast moving, but have generated lots of open questions and opportunities. 
 
-In this space, we have developed statstical and machine learning methods to:
+In this space, we have developed statistical and machine learning methods to:
 
-- Store, access, visualize, and analyze spatial transcriptomics data leveraging exiting infrastracture borrowed from geomaps and geospatial file formats
+- Store, access, visualize, and analyze spatial transcriptomics data leveraging existing infrastructure borrowed from geomaps and geospatial file formats
 - Perform spatially-aware quality control to reduce the noise in downstream analyses
 - Identify spatially variable genes leveraging fast and scalable spatial statistics models
 - Remove the mean variance relationship in spatial transcriptomics data
