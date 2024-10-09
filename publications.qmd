@@ -10,7 +10,9 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
-Hou C, Ghazanfar S, Marini F, Morgan M, Hicks SC. (2024). [HuBMAPR: an R Client for the HuBMAP Data Portal](https://doi.org/10.1101/2024.09.26.615227). _bioRxiv_.
+**Zhou H**, Panwar P, **Guo B**, **Hallinan C**, Ghazanfar S, **Hicks SC**. (2024). [Spatial mutual nearest neighbors for spatial transcriptomics data](https://doi.org/10.1101/2024.10.08.615307). _bioRxiv_.
+
+**Hou C**, Ghazanfar S, Marini F, Morgan M, **Hicks SC**. (2024). [HuBMAPR: an R Client for the HuBMAP Data Portal](https://doi.org/10.1101/2024.09.26.615227). _bioRxiv_.
 
 Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM,  Medina E, **Hicks SC**, Singletary K, Peixoto L. (2024). [Transcriptional Dynamics of Sleep Deprivation and Subsequent Recovery Sleep in the Male Mouse Cortex](https://doi.org/10.1101/2024.08.20.607983). _bioRxiv_.
 
@@ -18,7 +20,7 @@ Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM,  Medina E, **Hicks SC**,
 
 **Totty MS**, **Hicks SC**, **Guo B**. (2024). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). _bioRxiv_. 
 
-Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L, Palla G, Lewis W, Dimitrov D, Vinyard ME, Magruder DS, Andersson A, Dann E, Qin Q, Otto DJ, Klein M, Botvinnik OB, Deconinck L, Waldrant K, **The Open Problems Jamboree Members**, Bloom JM, Pisco AO, Saez-Rodriguez J, Wulsin D, Pinello L, Saeys Y, Theis FJ, Krishnaswamy S. (2024). [Defining and benchmarking open problems in single-cell analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11030530). _bioRxiv_.
+Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L, Palla G, Lewis W, Dimitrov D, Vinyard ME, Magruder DS, Andersson A, Dann E, Qin Q, Otto DJ, Klein M, Botvinnik OB, Deconinck L, Waldrant K, **The Open Problems Jamboree Members**, Bloom JM, Pisco AO, Saez-Rodriguez J, Wulsin D, Pinello L, Saeys Y, Theis FJ, Krishnaswamy S. (2024). [Defining and benchmarking open problems in single-cell analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11030530). _Research Square_.
 
 **Yao J**, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2024). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). _bioRxiv_.
 
