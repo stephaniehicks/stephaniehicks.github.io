@@ -17,7 +17,8 @@ format:
 ## 2024 
 
 - Biological Data Science. 2024 Nov 13-16. Cold Spring Harbor Laboratory. USA.
-- [talk](https://docs.google.com/presentation/d/1JhB32ALhMKoMompjsfp-WCTvJT4zM9fhwU-IJ8yelR0/edit?usp=sharing). **Inaugural Visiting Professor Seminar Series (nominated and selected by HMS student body)**. Department of Biomedical Informatics. Harvard Medical School. 2024 Oct 3. Boston, MA. USA. 
+- **Inaugural Visiting Professor Seminar Series (nominated and selected by HMS student body)**. Department of Biomedical Informatics. Harvard Medical School. 2024 Oct 3. Boston, MA. USA.
+- Kavli NDI. Johns Hopkins University. 2024 Oct 2. Baltimore, MD. USA. 
 - Nebraska Center for the Prevention of Obesity Diseases through Dietary Molecules. University of Nebraska-Lincoln. 2024 Sept 25. Lincoln, NE. USA.
 - **Keynote presentation** at the Workshop on Spatial and Temporal Statistical Modeling in Molecular Biology at Congressi Stefano Franscini at Monte Verità. 2024 Sept 8-13. Ascona, Switzerland.
 - Invited session on "Building Better Data Analyses: Theory, Methods, and Lessons Learned". Joint Statistical Meetings. 2024 Aug 3-8. Portland, OR. USA.
