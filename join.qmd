@@ -4,9 +4,7 @@ title: "Join us"
 
 ### We are hiring!  
 
-```{=html}
-<embed src="resources/2024-hicks-postdoc.pdf" width="850px" height="1100px" />
-```
+I am seeking to hire a postdoctoral fellow in biomedical data science to join the research group at Johns Hopkins. For more information, please see [the job advertisement here](https://docs.google.com/document/d/15HshZTui-SGmoFUtEWJcwOWVCa4CzES76J3z3RFlIHA/edit?usp=sharing). 
 
 ### Prospective PhD students
 
