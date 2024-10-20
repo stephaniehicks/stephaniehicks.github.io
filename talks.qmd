@@ -16,7 +16,6 @@ format:
 
 ## 2024 
 
-- Biological Data Science. 2024 Nov 13-16. Cold Spring Harbor Laboratory. USA.
 - **Inaugural Visiting Professor Seminar Series (nominated and selected by HMS student body)**. Department of Biomedical Informatics. Harvard Medical School. 2024 Oct 3. Boston, MA. USA.
 - Kavli NDI. Johns Hopkins University. 2024 Oct 2. Baltimore, MD. USA. 
 - Nebraska Center for the Prevention of Obesity Diseases through Dietary Molecules. University of Nebraska-Lincoln. 2024 Sept 25. Lincoln, NE. USA.
