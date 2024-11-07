@@ -10,6 +10,10 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+**Shah K**, **Guo B**, **Hicks SC**. (2024). [Addressing the mean-variance relationship in spatially resolved transcriptomics data with _spoon_](https://www.biorxiv.org/content/10.1101/2024.11.04.621867v1). _bioRxiv_. 
+
+Wang, A, **Hicks SC**, Geman D, Younes L. (2024). [GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection](https://doi.org/10.1101/2024.10.30.621151). _bioRxiv_.  
+
 **Totty MS**, Cervera-Juanes R, Bach SV, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K, **Hicks SC**, Costa VD. (2024). [Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates](https://doi.org/10.1101/2024.10.18.618721). _bioRxiv_.
  
 **Zhou H**, Panwar P, **Guo B**, **Hallinan C**, Ghazanfar S, **Hicks SC**. (2024). [Spatial mutual nearest neighbors for spatial transcriptomics data](https://doi.org/10.1101/2024.10.08.615307). _bioRxiv_.
