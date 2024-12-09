@@ -10,6 +10,8 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD, Maynard KR. (2024). [Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus](https://doi.org/10.1101/2024.12.07.627362) _bioRxiv_. 
+
 **Shah K**, **Guo B**, **Hicks SC**. (2024). [Addressing the mean-variance relationship in spatially resolved transcriptomics data with _spoon_](https://www.biorxiv.org/content/10.1101/2024.11.04.621867v1). _bioRxiv_. 
 
 Wang, A, **Hicks SC**, Geman D, Younes L. (2024). [GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection](https://doi.org/10.1101/2024.10.30.621151). _bioRxiv_.  
@@ -32,8 +34,6 @@ Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L,
 
 **Nelson ED**, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, **Yao J**, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, **Hicks SC**. (2024). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). _bioRxiv_.
 
-Ramnauth AD, Tippani M, Divecha HR, Papariello AR, Miller RA, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K, **Hicks SC**, Page SC. 2023. [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1101/2023.11.20.567883). _bioRxiv_.
-
 Ivich A, Davidson NR, Grieshober L, **Li W**, **Hicks SC**, Doherty JA, Greene CS. (2024). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). _bioRxiv_. 
 
 Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). _arXiv_.
@@ -50,6 +50,8 @@ D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment 
 
 
 ## 2024 
+
+Ramnauth AD, Tippani M, Divecha HR, Papariello AR, Miller RA, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K, **Hicks SC**, Page SC. 2023. [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1101/2023.11.20.567883). Accepted _Cell Reports_.
 
 Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, **Hicks SC**, Page SC, Martinowich K. (2024). [Transcriptomic characterization of human lateral septum neurons reveals conserved and divergent marker genes across species](https://doi.org/10.1101/2024.04.22.590602). Accepted in _iScience_.
 
