@@ -18,6 +18,7 @@ format:
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
+ [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing deep learning algorithms for spatial omics data. |  |
 | [Christine Hou](https://www.linkedin.com/in/christine-yiru-hou-086439221/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing APIs and computational methods for spatial omics data. | <img src="images/christine_hou.png" width="200"/> |
 | [Shu Luan](https://www.linkedin.com/in/shu-luan-a60a391a0/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing deep learning algorithms for spatial omics data. Jointly mentored with Brian Caffo. | <img src="images/shu_luan.jpeg" width="200"/> |
 
