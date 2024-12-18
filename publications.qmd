@@ -8,6 +8,13 @@ format:
 
 The following are a selected set of publications. To see a list with all of papers from Stephanie Hicks, you can visit [Google Scholar](https://scholar.google.com/citations?user=4T4qnL4AAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0002-7858-0231). 
 
+:::::: {.callout-tip}
+
+- The $^*$ indicates a mentored student or post-doctoral fellow. 
+- The $\dagger$ and $\ddagger$ indicate co-first and co-last authors, respectively.
+
+:::
+
 ## Preprints
 
 Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2024). [Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus](https://doi.org/10.1101/2024.12.07.627362) _bioRxiv_. 
