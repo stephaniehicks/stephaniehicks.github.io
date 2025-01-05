@@ -54,13 +54,16 @@ D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment 
 **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). _arXiv_.
 
 
-## 2024 
+## 2025 
 
-Guo B$^{*,\dagger}$, Ling W$^{\dagger}$, Kwon SH, Panwar P, Ghazanfar S$^{\ddagger}$, Martinowich K$^{\ddagger}$, **Hicks SC$^{\ddagger}$**. (2024). [Integrating spatially-resolved transcriptomics data across tissues and individuals: challenges and opportunities](https://arxiv.org/abs/2408.00367). Accepted in _Small Methods_.
+Guo B$^{*,\dagger}$, Ling W$^{\dagger}$, Kwon SH, Panwar P, Ghazanfar S$^{\ddagger}$, Martinowich K$^{\ddagger}$, **Hicks SC$^{\ddagger}$**. (2025). [Integrating spatially-resolved transcriptomics data across tissues and individuals: challenges and opportunities](https://arxiv.org/abs/2408.00367). Accepted in _Small Methods_.
 
-Ramnauth AD$^{\dagger}$, Tippani M, Divecha HR, Papariello AR, Miller RA, Nelson ED$^{*}$, Thompson JR$^{*}$, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC$^{\ddagger}$**, Page SC$^{\ddagger}$. 2024. [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1101/2023.11.20.567883). Accepted _Cell Reports_.
+Ramnauth AD$^{\dagger}$, Tippani M, Divecha HR, Papariello AR, Miller RA, Nelson ED$^{*}$, Thompson JR$^{*}$, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC$^{\ddagger}$**, Page SC$^{\ddagger}$. (2025). [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1101/2023.11.20.567883). Accepted _Cell Reports_.
 
-Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, **Hicks SC$^{\ddagger}$**, Page SC$^{\ddagger}$, Martinowich K$^{\ddagger}$. (2024). [Transcriptomic characterization of human lateral septum neurons reveals conserved and divergent marker genes across species](https://doi.org/10.1101/2024.04.22.590602). Accepted in _iScience_.
+Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, **Hicks SC$^{\ddagger}$**, Page SC$^{\ddagger}$, Martinowich K$^{\ddagger}$. (2025). [Transcriptomic characterization of human lateral septum neurons reveals conserved and divergent marker genes across species](https://doi.org/10.1101/2024.04.22.590602). Accepted in _iScience_.
+
+
+## 2024
 
 Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, **Hicks SC** (2024). [Open Case Studies: Statistics and Data Science Education through Real-World Applications](https://doi.org/10.1080/26939169.2024.2394541). _Journal of Statistics and Data Science Education_.
 
@@ -135,7 +138,7 @@ Peng RD, **Hicks SC**. (2021). [Reproducible Research: A Retrospective](https://
 
 
 
-## 2020
+## Earlier years
 
 Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2020). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1038/s41592-019-0654-x). _Nature Methods_.
 
@@ -144,9 +147,6 @@ Lahnemann D, Koester J, Szczurek E, McCarthy D, **Hicks S** _et al_. (2020). [El
 Hou W$^{*}$, Ji J, Ji H, **Hicks SC** (2020). [A systematic evaluation of single-cell RNA-sequencing imputation methods](https://doi.org/10.1186/s13059-020-02132-x). _Genome Biology_.
 
 Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Guangchuang Y, **Hicks SC**, Robinson MD. (2020). [TreeSummarizedExperiment: a S4 class for data with hierarchical structure](https://doi.org/10.12688/f1000research.26669.1). _F1000Research_.
-
-
-## Earlier years
 
 Townes FW, **Hicks SC**, Aryee MJ, Irizarry RA (2019). [Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model](https://doi.org/10.1186/s13059-019-1861-6). _Genome Biology_. 
 
