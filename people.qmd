@@ -8,6 +8,13 @@ format:
 
 # Current
 
+## Rotation students
+
+| <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
+|:---------------------|:---------------------------|:---------------------|
+| [Grace Brooks](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) interested in learning about research opportunities in spatial omics. | <img src="images/grace_brooks.png" width="200"/> |
+
+
 ## Undergraduate students
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
@@ -18,7 +25,7 @@ format:
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
-| [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing deep learning algorithms for spatial omics data. |  |
+| [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing deep learning algorithms for spatial omics data. | <img src="images/guan_gui.jpg" width="200"/> |
 | [Christine Hou](https://www.linkedin.com/in/christine-yiru-hou-086439221/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing APIs and computational methods for spatial omics data. | <img src="images/christine_hou.png" width="200"/> |
 | [Shu Luan](https://www.linkedin.com/in/shu-luan-a60a391a0/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing deep learning algorithms for spatial omics data. Jointly mentored with Brian Caffo. | <img src="images/shu_luan.jpeg" width="200"/> |
 
@@ -65,7 +72,7 @@ format:
 -   [Haowen Zhou](https://pixel-dream.github.io/) \| 2023 \| Next: PhD student, UC San Diego
 -   [Jianing Yao](https://www.linkedin.com/in/jianing-yao-15156211b/) \| 2023 \| Next: PhD student, Johns Hopkins
 -   [Yongbao Zhuang](https://yzhuang8.com/home/) \| 2022 \| Next: PhD student, Karolinska Institute
--   [Nathan Dyjack](https://ntdyjack.github.io/) \| 2021 \| Next: Data Scientist, MemorialCare Health System
+-   [Nathan Dyjack](https://ntdyjack.github.io/) \| 2021 \| Next: Data Scientist, University of Alabama Birmingham Medical Center ([Alumni Spotlight](https://publichealth.jhu.edu/2025/alumni-spotlight-nathan-dyjack-scm-22))
 
 ## Rotation Alumni
 

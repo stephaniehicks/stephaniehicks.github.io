@@ -13,7 +13,6 @@ format:
 - STATGEN Conference. 2025 21-23 May. Minneapolis, MN. USA. 
 - Biology of Genomes. 2025 May 6-10. Cold Spring Harbor Laboratory. USA.
 - CZI Cell Science 2025 annual meeting. 2025. 
-- NERVSPAN. 2025 Apr 7-9. Bordeaux, France.
 
 ## 2024 
 
