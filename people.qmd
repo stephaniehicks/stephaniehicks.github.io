@@ -63,7 +63,7 @@ format:
 
 ## PhD Alumni
 
--   [Erik Nelson](https://www.linkedin.com/in/erik-david-nelson) \| 2024
+-   [Erik Nelson](https://www.linkedin.com/in/erik-david-nelson) \| 2024 \| Next: Computational Biologist, Translational Omics at GSK
 -   [Albert Kuo](https://albertkuo.me) \| 2022 \| Next: Data Scientist, Amazon
 
 ## Masters Alumni
