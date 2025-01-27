@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/index.html</loc>
-    <lastmod>2025-01-11T02:12:44.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/index.html</loc>
-    <lastmod>2025-01-11T02:12:44.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/super-women-statisticians-and-data-scientists/index.html</loc>
-    <lastmod>2025-01-11T02:12:44.378Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/blog/why-it-s-best-to-keep-software-and-data-analysis-repositories-separate/index.html</loc>
-    <lastmod>2025-01-11T02:12:44.383Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/teaching.html</loc>
-    <lastmod>2025-01-11T02:12:44.424Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/join.html</loc>
-    <lastmod>2025-01-11T02:12:44.423Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/publications.html</loc>
-    <lastmod>2025-01-11T02:12:44.424Z</lastmod>
+    <loc>https://www.stephaniehicks.com/people.html</loc>
+    <lastmod>2025-01-27T10:51:06.628Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/projects.html</loc>
-    <lastmod>2025-01-11T02:12:44.423Z</lastmod>
+    <lastmod>2025-01-27T10:51:06.628Z</lastmod>
   </url>
   <url>
-    <loc>https://www.stephaniehicks.com/blog.html</loc>
-    <lastmod>2025-01-11T02:12:44.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/people.html</loc>
-    <lastmod>2025-01-11T02:12:44.423Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.stephaniehicks.com/software.html</loc>
-    <lastmod>2025-01-11T02:12:44.424Z</lastmod>
+    <loc>https://www.stephaniehicks.com/publications.html</loc>
+    <lastmod>2025-01-27T10:51:06.628Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/talks.html</loc>
-    <lastmod>2025-01-11T02:12:44.424Z</lastmod>
+    <lastmod>2025-01-27T10:51:06.628Z</lastmod>
   </url>
   <url>
-    <loc>https://www.stephaniehicks.com/index.html</loc>
-    <lastmod>2025-01-11T02:12:44.423Z</lastmod>
+    <loc>https://www.stephaniehicks.com/blog/why-it-s-best-to-keep-software-and-data-analysis-repositories-separate/index.html</loc>
+    <lastmod>2025-01-27T10:51:06.590Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/index.html</loc>
-    <lastmod>2025-01-11T02:12:44.383Z</lastmod>
+    <lastmod>2025-01-27T10:51:06.590Z</lastmod>
   </url>
   <url>
-    <loc>https://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/index.html</loc>
-    <lastmod>2025-01-11T02:12:44.361Z</lastmod>
+    <loc>https://www.stephaniehicks.com/blog/asa-women-in-statistics-rotating-curators/index.html</loc>
+    <lastmod>2025-01-27T10:51:06.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/index.html</loc>
+    <lastmod>2025-01-27T10:51:06.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/join.html</loc>
+    <lastmod>2025-01-27T10:51:06.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog.html</loc>
+    <lastmod>2025-01-27T10:51:06.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/super-women-statisticians-and-data-scientists/index.html</loc>
+    <lastmod>2025-01-27T10:51:06.585Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/blog/new-year-new-blog/index.html</loc>
-    <lastmod>2025-01-11T02:12:44.360Z</lastmod>
+    <lastmod>2025-01-27T10:51:06.569Z</lastmod>
   </url>
   <url>
     <loc>https://www.stephaniehicks.com/blog/updates-in-the-world-of-single-cell-rna-sequencing-data-analysis/index.html</loc>
-    <lastmod>2025-01-11T02:12:44.383Z</lastmod>
+    <lastmod>2025-01-27T10:51:06.590Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/blog/reflecting-back-on-year-1-in-a-tenure-track-faculty-job/index.html</loc>
+    <lastmod>2025-01-27T10:51:06.569Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/teaching.html</loc>
+    <lastmod>2025-01-27T10:51:06.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/index.html</loc>
+    <lastmod>2025-01-27T10:51:06.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stephaniehicks.com/software.html</loc>
+    <lastmod>2025-01-27T10:51:06.628Z</lastmod>
   </url>
 </urlset>
