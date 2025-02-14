@@ -27,8 +27,6 @@ Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV, Ameur LB, Valenti
  
 Zhou H$^{*}$, Panwar P, Guo B$^{*}$, Hallinan C$^{*}$, Ghazanfar S$^{\ddagger}$, **Hicks SC$^{\ddagger}$**. (2024). [Spatial mutual nearest neighbors for spatial transcriptomics data](https://doi.org/10.1101/2024.10.08.615307). _bioRxiv_.
 
-Hou C$^{*}$, Ghazanfar S, Marini F, Morgan M, **Hicks SC**. (2024). [HuBMAPR: an R Client for the HuBMAP Data Portal](https://doi.org/10.1101/2024.09.26.615227). _bioRxiv_.
-
 Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM,  Medina E, **Hicks SC**, Singletary K, Peixoto L. (2024). [Transcriptional Dynamics of Sleep Deprivation and Subsequent Recovery Sleep in the Male Mouse Cortex](https://doi.org/10.1101/2024.08.20.607983). _bioRxiv_.
 
 Totty MS$^{*}$, **Hicks SC**, Guo B$^{*}$. (2024). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). _bioRxiv_. 
@@ -54,7 +52,9 @@ D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment 
 
 ## 2025 
 
-Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, **Hicks SC**, Doherty JA, Greene CS. (2024). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). Accepted in _Genome Biology_. 
+Hou C$^{*}$, Ghazanfar S, Marini F, Morgan M, **Hicks SC**. (2025). [HuBMAPR: an R Client for the HuBMAP Data Portal](https://doi.org/10.1101/2024.09.26.615227). Accepted in _Bioinformatics Advances_.
+
+Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, **Hicks SC**, Doherty JA, Greene CS. (2025). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). Accepted in _Genome Biology_. 
 
 Ramnauth AD$^{\dagger}$, Tippani M, Divecha HR, Papariello AR, Miller RA, Nelson ED$^{*}$, Thompson JR$^{*}$, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC$^{\ddagger}$**, Page SC$^{\ddagger}$. (2025). [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1101/2023.11.20.567883). Accepted _Cell Reports_.
 
