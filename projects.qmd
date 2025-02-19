@@ -8,77 +8,82 @@ format:
 
 # Reproducible research
 
-With the advent of large-scale and high-throughput data collection coupled with the creation and implementation of complex statistical algorithms for data analysis, the reproducibility of modern data analyses, meaning the ability of independent analysts to recreate the results claimed by the original authors using the original data and analysis techniques, has become an important topic of discussion. We contribute to developing reproducibility standards and best practices for the life sciences and in public health. 
+With the advent of large-scale and high-throughput data collection coupled with the creation and implementation of complex statistical algorithms for data analysis, the reproducibility of modern data analyses, meaning the ability of independent analysts to recreate the results claimed by the original authors using the original data and analysis techniques, has become an important topic of discussion. We contribute to developing reproducibility standards and best practices for the life sciences and in public health.
 
 # Single cell data science
 
-Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical and computational challenges. 
+Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical and computational challenges.
 
 To address these challenges, we have developed statistical and machine learning methods to:
 
-- Store, access, visualize, and analyze scRNA-seq data
-- Identify and to remove systematic errors and biases in scRNA-seq data 
-- Identify features and perform dimensionality reduction for count-based data 
-- Perform fast and memory-efficient unsupervised clustering scalable to millions of cells
-- Identify differences between biological groups or conditions using count-based models either at the gene and isoform level
-- Estimate the cell composition in heterogenous tissues using bulk RNA-sequencing
+-   Store, access, visualize, and analyze scRNA-seq data
+-   Identify and to remove systematic errors and biases in scRNA-seq data
+-   Identify features and perform dimensionality reduction for count-based data
+-   Perform fast and memory-efficient unsupervised clustering scalable to millions of cells
+-   Identify differences between biological groups or conditions using count-based models either at the gene and isoform level
+-   Estimate the cell composition in heterogenous tissues using bulk RNA-sequencing
 
 We have also written [books](http://bioconductor.org/books/release/OSCA/) to teach users how to make use of cutting-edge computational tools to process, analyze, visualize, and explore scRNA-seq data.
 
-
 # Spatial omics data science
 
-Spatially-resolved transcriptomics (SRT), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x), is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. The experimental technologies to generate these data are fast moving, but have generated lots of open questions and opportunities. 
+Spatially-resolved transcriptomics (SRT), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x) and spatial proteomics, the [Nature Methods 2024 Method of the Year](https://www.nature.com/articles/s41592-024-02565-3), are poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. The experimental technologies to generate these data are fast moving, but have generated lots of open questions and opportunities.
 
 In this space, we have developed statistical and machine learning methods to:
 
-- Store, access, visualize, and analyze spatial transcriptomics data leveraging existing infrastructure borrowed from geomaps and geospatial file formats
-- Perform spatially-aware quality control to reduce the noise in downstream analyses
-- Identify spatially variable genes leveraging fast and scalable spatial statistics models
-- Remove the mean variance relationship in spatial transcriptomics data
-- Predict spatial domains for multi-modal spatial omics data using ML/AI approaches
+-   Store, access, visualize, and analyze spatial transcriptomics data leveraging existing infrastructure borrowed from geomaps and geospatial file formats
+-   Perform spatially-aware quality control to reduce the noise in downstream analyses
+-   Identify spatially variable genes leveraging fast and scalable spatial statistics models
+-   Remove the mean variance relationship in spatial transcriptomics data
+
+## Deep learning and AI
+
+We are actively developing state-of-the-art deep learning algorithms using autoencoders, contrastive self-supervised learning, and transformers to improve downstream tasks in spatial omics.
+
+-   Predict spatial domains for multi-modal spatial omics data 
+-   Integrate and align multiple tissue sections to create 3D spatial atlases
 
 # Open-source software
 
-In addition to developing statistical methods, we care deeply about implementing our computational methods in [open-source software](software.qmd). Bioconductor is an open-source, open-development software project in the R programming language for the analysis and comprehension of high-throughput genomics and molecular biology data. We contribute open-source software to CRAN and to [Bioconductor](https://bioconductor.org/), which helps make our computational methods broadly accessible to the research community. 
+In addition to developing statistical methods, we care deeply about implementing our computational methods in [open-source software](software.qmd). Bioconductor is an open-source, open-development software project in the R programming language for the analysis and comprehension of high-throughput genomics and molecular biology data. We contribute open-source software to CRAN and to [Bioconductor](https://bioconductor.org/), which helps make our computational methods broadly accessible to the research community.
 
-Benchmarking and evaluting open-source software packages for their accuracy, usability and reproducibility is also important to us. We have led systematic benchmark comparsions of: 
+Benchmarking and evaluting open-source software packages for their accuracy, usability and reproducibility is also important to us. We have led systematic benchmark comparsions of:
 
-- Computational methods that control the false discovery rate (FDR) 
-- Computational methods for scRNA-seq imputation
-
+-   Computational methods that control the false discovery rate (FDR)
+-   Computational methods for scRNA-seq imputation
 
 # Data science education
 
-An increase in demand for statistics and data science education has led to changes in curriculum, specifically an increase in computing. While this has led to more applied courses, students still struggle with effectively deriving knowledge from data and solving real-world problems. In 1999, Deborah Nolan and Terry Speed argued the solution was to teach courses through in-depth case studies derived from interesting scientific questions with nontrivial solutions that leave room for different analyses of the data. This innovative framework teaches the student to make important connections between the scientific question, data and statistical concepts that only come from hands-on experience analyzing data. 
+An increase in demand for statistics and data science education has led to changes in curriculum, specifically an increase in computing. While this has led to more applied courses, students still struggle with effectively deriving knowledge from data and solving real-world problems. In 1999, Deborah Nolan and Terry Speed argued the solution was to teach courses through in-depth case studies derived from interesting scientific questions with nontrivial solutions that leave room for different analyses of the data. This innovative framework teaches the student to make important connections between the scientific question, data and statistical concepts that only come from hands-on experience analyzing data.
 
-## Open Case Studies 
+## Open Case Studies
 
-To address this, we built the [Open Case Studies](https://www.opencasestudies.org) (OCS) data science educational resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. This project was selected as a [High-Impact Project](https://americanhealth.jhu.edu/open-case-studies) in 2019-2020 by the Bloomberg American Health Initiative and Bloomberg Philanthropies. 
+To address this, we built the [Open Case Studies](https://www.opencasestudies.org) (OCS) data science educational resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. This project was selected as a [High-Impact Project](https://americanhealth.jhu.edu/open-case-studies) in 2019-2020 by the Bloomberg American Health Initiative and Bloomberg Philanthropies.
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DgzBSOY5Yc8" frameborder="0" allowfullscreen></iframe></p>
+<p align="center">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DgzBSOY5Yc8" frameborder="0" allowfullscreen>
+
+</iframe>
+
+</p>
 
 ## Analytic Design Theory
 
-The data science revolution has led to an increased interest in the practice of data analysis. While much has been written about _statistical thinking_, a complementary form of thinking that appears in the practice of data analysis is _design thinking_ -- the problem-solving process to understand the people for whom a product is being designed. 
+The data science revolution has led to an increased interest in the practice of data analysis. While much has been written about *statistical thinking*, a complementary form of thinking that appears in the practice of data analysis is *design thinking* -- the problem-solving process to understand the people for whom a product is being designed.
 
 [Analytic Design Theory](https://analyticdesigntheory.org/) is the study of how data analyses are conducted in the real world taking into account both the perspectives of both the analyst and the stakeholder or consumer of the analysis. Aspects of this include characterizing variation between analyses, developing measures of quality, success, and usability, modeling the analytic process, and considering what makes data analyses more or less trustworthy. Analytic design theory is driven by the need to scale the training of data analysis and to continuously improve the quality of analyses.
 
+# Neuroscience
 
+We part of [PsychENCODE Project](https://www.psychencode.org/phase-ii) and have several active and ongoing collaborations in neuroscience. 
 
-# Applications
+-   We collaborate with the [Peixoto lab](https://labs.wsu.edu/peixoto-lab/home/dr-lucia-peixoto/) and [Risso lab](https://drisso.github.io/) to investigate how gene expression changes with sleep and cognitative impairements within Autism Spectrum Disorders.
 
-## Neuroscience
+-   We collaborate with the [Zack lab](https://scholar.google.com/citations?user=frmlZdAAAAAJ&hl=en) and the [Timp lab](https://scholar.google.com/citations?user=wTEx9N8AAAAJ&hl=en) to generate and analyze long-read RNA-sequencing to investigate gene expression in retinal ganglion cells, the cells whose death in glaucoma leads to visual loss and potentially blindness.
 
-We have several active and ongoing collaborations in this space. 
+-   We collaborate with researchers at the [Lieber Institute for Brain Development](https://www.libd.org), in particular the labs of [Keri Martinowich](https://www.libd.org/team/keri-martinowich-phd/), [Kristen Maynard](https://www.libd.org/team/kristen-maynard-phd/), and [Stephanie Page](https://www.libd.org/team/stephanie-cerceo-page-phd/), on a variety of projects leveraging scRNA-seq and spatial transcriptomics technologies. We use these technologies to profilie postmorteum human tissue at a single-cell and/or spatial resolution to better understand the molecular mechanisms of neuropsychiatric, neurodevelopmental, and neurodegenerative disorders in the human brain.
 
-- We collaborate with the [Peixoto lab](https://labs.wsu.edu/peixoto-lab/home/dr-lucia-peixoto/) and [Risso lab](https://drisso.github.io/) to investigate how gene expression changes with sleep and cognitative impairements within Autism Spectrum Disorders. 
+# Cancer
 
-- We collaborate with the [Zack lab](https://scholar.google.com/citations?user=frmlZdAAAAAJ&hl=en) and the [Timp lab](https://scholar.google.com/citations?user=wTEx9N8AAAAJ&hl=en) to generate and analyze long-read RNA-sequencing to investigate gene expression in retinal ganglion cells, the cells whose death in glaucoma leads to visual loss and potentially blindness. 
-
-- We collaborate with researchers at the [Lieber Institute for Brain Development](https://www.libd.org), in particular the labs of [Keri Martinowich](https://www.libd.org/team/keri-martinowich-phd/), [Kristen Maynard](https://www.libd.org/team/kristen-maynard-phd/), and [Stephanie Page](https://www.libd.org/team/stephanie-cerceo-page-phd/), on a variety of projects leveraging scRNA-seq and spatial transcriptomics technologies. We use these technologies to profilie postmorteum human tissue at a single-cell and/or spatial resolution to better understand the molecular mechanisms of neuropsychiatric, neurodevelopmental, and neurodegenerative disorders in the human brain. 
-
-## Ovarian cancer 
-
-We collaborate with [Greene lab](https://greenelab.com/members/casey-greene.html) and [Doherty lab](https://uofuhealth.utah.edu/huntsman/labs/doherty) studying biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk RNA-seq, scRNA-seq, and spatial transcriptomics data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. 
+We collaborate with [Greene lab](https://greenelab.com/members/casey-greene.html) and [Doherty lab](https://uofuhealth.utah.edu/huntsman/labs/doherty) studying biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk RNA-seq, scRNA-seq, and spatial transcriptomics data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs.

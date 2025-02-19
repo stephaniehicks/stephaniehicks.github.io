@@ -14,7 +14,6 @@ format:
 |:---------------------|:---------------------------|:---------------------|
 | [Grace Brooks](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) interested in learning about research opportunities in spatial omics. | <img src="images/grace_brooks.png" width="200"/> |
 
-
 ## Undergraduate students
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
@@ -72,7 +71,7 @@ format:
 -   [Haowen Zhou](https://pixel-dream.github.io/) \| 2023 \| Next: PhD student, UC San Diego
 -   [Jianing Yao](https://www.linkedin.com/in/jianing-yao-15156211b/) \| 2023 \| Next: PhD student, Johns Hopkins
 -   [Yongbao Zhuang](https://yzhuang8.com/home/) \| 2022 \| Next: PhD student, Karolinska Institute
--   [Nathan Dyjack](https://ntdyjack.github.io/) \| 2021 \| Next: Data Scientist, University of Alabama Birmingham Medical Center ([Alumni Spotlight](https://publichealth.jhu.edu/2025/alumni-spotlight-nathan-dyjack-scm-22))
+-   [Nathan Dyjack](https://ntdyjack.github.io/) \| 2021 \| Next: Data Scientist, UAB Medical Center ([Alumni Spotlight](https://publichealth.jhu.edu/2025/alumni-spotlight-nathan-dyjack-scm-22))
 
 ## Rotation Alumni
 

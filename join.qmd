@@ -2,22 +2,17 @@
 title: "Join us"
 ---
 
-### We are hiring!  
-
-I am seeking to hire a postdoctoral fellow in biomedical data science to join the research group at Johns Hopkins. For more information, please see [the job advertisement here](https://docs.google.com/document/d/15HshZTui-SGmoFUtEWJcwOWVCa4CzES76J3z3RFlIHA/edit?usp=sharing). 
-
 ### Prospective PhD students
 
-Prospective PhD students are encouraged to apply directly to JHU through one of the many excellent programs at Hopkins, including: 
+Prospective PhD students are encouraged to apply directly to JHU through one of the many excellent programs at Hopkins, including:
 
-- [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics)
-- [Biomedical Engineering](https://www.bme.jhu.edu)
-- [Human Genetics and Genomics](https://www.hopkinsmedicine.org/genetic-medicine/education-training/predoctoral-human-genetics)
-- [Computer Science](https://www.cs.jhu.edu)
-- [Biochemistry and Molecular Biology](https://publichealth.jhu.edu/departments/biochemistry-and-molecular-biology)
- 
+-   [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics)
+-   [Biomedical Engineering](https://www.bme.jhu.edu)
+-   [Human Genetics and Genomics](https://www.hopkinsmedicine.org/genetic-medicine/education-training/predoctoral-human-genetics)
+-   [Computer Science](https://www.cs.jhu.edu)
+-   [Biochemistry and Molecular Biology](https://publichealth.jhu.edu/departments/biochemistry-and-molecular-biology)
+
 I am open to working with PhD, masters, and undergraduate students from departments across Hopkins, including rotations or collaborations - current and prospective students can email me or visit us at either campus.
-
 
 ### Prospective postdocs
 
@@ -25,10 +20,10 @@ I am always open to recruiting postdocs to join the lab. Opportunities are avail
 
 Here are the minimum things I look for in a postdoc:
 
-* Written at least 1 first author paper 
-* Written at least 1 open source software package
-* [Problem forward philosophy](https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/)
-* Has read about our research and [projects](publications.qmd)
-* Has at least one idea they want to work on unrelated to their dissertation
+-   Written at least 1 first author paper
+-   Written at least 1 open source software package
+-   [Problem forward philosophy](https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/)
+-   Has read about our research and [projects](publications.qmd)
+-   Has at least one idea they want to work on unrelated to their dissertation
 
-If you are a PhD student who is interested in applying for postdoctoral funding through NSF, NIH, or another funding source and want to work with me, send me an email with the above information and I will be happy to help you with your application. 
+If you are a PhD student who is interested in applying for postdoctoral funding through NSF, NIH, or another funding source and want to work with me, send me an email with the above information and I will be happy to help you with your application.
