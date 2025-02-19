@@ -126,6 +126,13 @@
     "text": "With the advent of large-scale and high-throughput data collection coupled with the creation and implementation of complex statistical algorithms for data analysis, the reproducibility of modern data analyses, meaning the ability of independent analysts to recreate the results claimed by the original authors using the original data and analysis techniques, has become an important topic of discussion. We contribute to developing reproducibility standards and best practices for the life sciences and in public health."
   },
   {
+    "objectID": "projects.html#deep-learning-and-ai",
+    "href": "projects.html#deep-learning-and-ai",
+    "title": "Research Themes",
+    "section": "Deep learning and AI",
+    "text": "Deep learning and AI\nWe are actively developing state-of-the-art deep learning algorithms using autoencoders, contrastive self-supervised learning, and transformers to improve downstream tasks in spatial omics.\n\nPredict spatial domains for multi-modal spatial omics data\nIntegrate and align multiple tissue sections to create 3D spatial atlases"
+  },
+  {
     "objectID": "projects.html#open-case-studies",
     "href": "projects.html#open-case-studies",
     "title": "Research Themes",
@@ -138,20 +145,6 @@
     "title": "Research Themes",
     "section": "Analytic Design Theory",
     "text": "Analytic Design Theory\nThe data science revolution has led to an increased interest in the practice of data analysis. While much has been written about statistical thinking, a complementary form of thinking that appears in the practice of data analysis is design thinking – the problem-solving process to understand the people for whom a product is being designed.\nAnalytic Design Theory is the study of how data analyses are conducted in the real world taking into account both the perspectives of both the analyst and the stakeholder or consumer of the analysis. Aspects of this include characterizing variation between analyses, developing measures of quality, success, and usability, modeling the analytic process, and considering what makes data analyses more or less trustworthy. Analytic design theory is driven by the need to scale the training of data analysis and to continuously improve the quality of analyses."
-  },
-  {
-    "objectID": "projects.html#neuroscience",
-    "href": "projects.html#neuroscience",
-    "title": "Research Themes",
-    "section": "Neuroscience",
-    "text": "Neuroscience\nWe have several active and ongoing collaborations in this space.\n\nWe collaborate with the Peixoto lab and Risso lab to investigate how gene expression changes with sleep and cognitative impairements within Autism Spectrum Disorders.\nWe collaborate with the Zack lab and the Timp lab to generate and analyze long-read RNA-sequencing to investigate gene expression in retinal ganglion cells, the cells whose death in glaucoma leads to visual loss and potentially blindness.\nWe collaborate with researchers at the Lieber Institute for Brain Development, in particular the labs of Keri Martinowich, Kristen Maynard, and Stephanie Page, on a variety of projects leveraging scRNA-seq and spatial transcriptomics technologies. We use these technologies to profilie postmorteum human tissue at a single-cell and/or spatial resolution to better understand the molecular mechanisms of neuropsychiatric, neurodevelopmental, and neurodegenerative disorders in the human brain."
-  },
-  {
-    "objectID": "projects.html#ovarian-cancer",
-    "href": "projects.html#ovarian-cancer",
-    "title": "Research Themes",
-    "section": "Ovarian cancer",
-    "text": "Ovarian cancer\nWe collaborate with Greene lab and Doherty lab studying biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk RNA-seq, scRNA-seq, and spatial transcriptomics data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs."
   },
   {
     "objectID": "publications.html",
@@ -214,7 +207,7 @@
     "href": "join.html",
     "title": "Join us",
     "section": "",
-    "text": "We are hiring!\nI am seeking to hire a postdoctoral fellow in biomedical data science to join the research group at Johns Hopkins. For more information, please see the job advertisement here.\n\n\nProspective PhD students\nProspective PhD students are encouraged to apply directly to JHU through one of the many excellent programs at Hopkins, including:\n\nBiostatistics\nBiomedical Engineering\nHuman Genetics and Genomics\nComputer Science\nBiochemistry and Molecular Biology\n\nI am open to working with PhD, masters, and undergraduate students from departments across Hopkins, including rotations or collaborations - current and prospective students can email me or visit us at either campus.\n\n\nProspective postdocs\nI am always open to recruiting postdocs to join the lab. Opportunities are available to develop and lead diverse projects, including statistical genomics, biomedical data science, machine learning / AI, transfer learning in application of single-cell or spatial transcriptomics. Email me with a current CV, including publications and research experience, and a brief statement of interests. Diverse expertise will be considered, from machine learning methods to genomics and bioinformatics.\nHere are the minimum things I look for in a postdoc:\n\nWritten at least 1 first author paper\nWritten at least 1 open source software package\nProblem forward philosophy\nHas read about our research and projects\nHas at least one idea they want to work on unrelated to their dissertation\n\nIf you are a PhD student who is interested in applying for postdoctoral funding through NSF, NIH, or another funding source and want to work with me, send me an email with the above information and I will be happy to help you with your application."
+    "text": "Prospective PhD students\nProspective PhD students are encouraged to apply directly to JHU through one of the many excellent programs at Hopkins, including:\n\nBiostatistics\nBiomedical Engineering\nHuman Genetics and Genomics\nComputer Science\nBiochemistry and Molecular Biology\n\nI am open to working with PhD, masters, and undergraduate students from departments across Hopkins, including rotations or collaborations - current and prospective students can email me or visit us at either campus.\n\n\nProspective postdocs\nI am always open to recruiting postdocs to join the lab. Opportunities are available to develop and lead diverse projects, including statistical genomics, biomedical data science, machine learning / AI, transfer learning in application of single-cell or spatial transcriptomics. Email me with a current CV, including publications and research experience, and a brief statement of interests. Diverse expertise will be considered, from machine learning methods to genomics and bioinformatics.\nHere are the minimum things I look for in a postdoc:\n\nWritten at least 1 first author paper\nWritten at least 1 open source software package\nProblem forward philosophy\nHas read about our research and projects\nHas at least one idea they want to work on unrelated to their dissertation\n\nIf you are a PhD student who is interested in applying for postdoctoral funding through NSF, NIH, or another funding source and want to work with me, send me an email with the above information and I will be happy to help you with your application."
   },
   {
     "objectID": "people.html",
@@ -277,7 +270,7 @@
     "href": "people.html#masters-alumni",
     "title": "People",
     "section": "Masters Alumni",
-    "text": "Masters Alumni\n\nWeishan Li | 2024 | Next: PhD student, University of Colorado\nHaowen Zhou | 2023 | Next: PhD student, UC San Diego\nJianing Yao | 2023 | Next: PhD student, Johns Hopkins\nYongbao Zhuang | 2022 | Next: PhD student, Karolinska Institute\nNathan Dyjack | 2021 | Next: Data Scientist, University of Alabama Birmingham Medical Center (Alumni Spotlight)"
+    "text": "Masters Alumni\n\nWeishan Li | 2024 | Next: PhD student, University of Colorado\nHaowen Zhou | 2023 | Next: PhD student, UC San Diego\nJianing Yao | 2023 | Next: PhD student, Johns Hopkins\nYongbao Zhuang | 2022 | Next: PhD student, Karolinska Institute\nNathan Dyjack | 2021 | Next: Data Scientist, UAB Medical Center (Alumni Spotlight)"
   },
   {
     "objectID": "people.html#rotation-alumni",

@@ -144,18 +144,18 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#reproducible-research" id="toc-reproducible-research" class="nav-link active" data-scroll-target="#reproducible-research">Reproducible research</a></li>
   <li><a href="#single-cell-data-science" id="toc-single-cell-data-science" class="nav-link" data-scroll-target="#single-cell-data-science">Single cell data science</a></li>
-  <li><a href="#spatial-omics-data-science" id="toc-spatial-omics-data-science" class="nav-link" data-scroll-target="#spatial-omics-data-science">Spatial omics data science</a></li>
+  <li><a href="#spatial-omics-data-science" id="toc-spatial-omics-data-science" class="nav-link" data-scroll-target="#spatial-omics-data-science">Spatial omics data science</a>
+  <ul class="collapse">
+  <li><a href="#deep-learning-and-ai" id="toc-deep-learning-and-ai" class="nav-link" data-scroll-target="#deep-learning-and-ai">Deep learning and AI</a></li>
+  </ul></li>
   <li><a href="#open-source-software" id="toc-open-source-software" class="nav-link" data-scroll-target="#open-source-software">Open-source software</a></li>
   <li><a href="#data-science-education" id="toc-data-science-education" class="nav-link" data-scroll-target="#data-science-education">Data science education</a>
   <ul class="collapse">
   <li><a href="#open-case-studies" id="toc-open-case-studies" class="nav-link" data-scroll-target="#open-case-studies">Open Case Studies</a></li>
   <li><a href="#analytic-design-theory" id="toc-analytic-design-theory" class="nav-link" data-scroll-target="#analytic-design-theory">Analytic Design Theory</a></li>
   </ul></li>
-  <li><a href="#applications" id="toc-applications" class="nav-link" data-scroll-target="#applications">Applications</a>
-  <ul class="collapse">
   <li><a href="#neuroscience" id="toc-neuroscience" class="nav-link" data-scroll-target="#neuroscience">Neuroscience</a></li>
-  <li><a href="#ovarian-cancer" id="toc-ovarian-cancer" class="nav-link" data-scroll-target="#ovarian-cancer">Ovarian cancer</a></li>
-  </ul></li>
+  <li><a href="#cancer" id="toc-cancer" class="nav-link" data-scroll-target="#cancer">Cancer</a></li>
   </ul>
 </nav>
     </div>
@@ -201,15 +201,22 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="spatial-omics-data-science" class="level1">
 <h1>Spatial omics data science</h1>
-<p>Spatially-resolved transcriptomics (SRT), the <a href="https://doi.org/10.1038/s41592-020-01042-x">Nature Methods 2020 Method of the Year</a>, is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. The experimental technologies to generate these data are fast moving, but have generated lots of open questions and opportunities.</p>
+<p>Spatially-resolved transcriptomics (SRT), the <a href="https://doi.org/10.1038/s41592-020-01042-x">Nature Methods 2020 Method of the Year</a> and spatial proteomics, the <a href="https://www.nature.com/articles/s41592-024-02565-3">Nature Methods 2024 Method of the Year</a>, are poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. The experimental technologies to generate these data are fast moving, but have generated lots of open questions and opportunities.</p>
 <p>In this space, we have developed statistical and machine learning methods to:</p>
 <ul>
 <li>Store, access, visualize, and analyze spatial transcriptomics data leveraging existing infrastructure borrowed from geomaps and geospatial file formats</li>
 <li>Perform spatially-aware quality control to reduce the noise in downstream analyses</li>
 <li>Identify spatially variable genes leveraging fast and scalable spatial statistics models</li>
 <li>Remove the mean variance relationship in spatial transcriptomics data</li>
-<li>Predict spatial domains for multi-modal spatial omics data using ML/AI approaches</li>
 </ul>
+<section id="deep-learning-and-ai" class="level2">
+<h2 class="anchored" data-anchor-id="deep-learning-and-ai">Deep learning and AI</h2>
+<p>We are actively developing state-of-the-art deep learning algorithms using autoencoders, contrastive self-supervised learning, and transformers to improve downstream tasks in spatial omics.</p>
+<ul>
+<li>Predict spatial domains for multi-modal spatial omics data</li>
+<li>Integrate and align multiple tissue sections to create 3D spatial atlases</li>
+</ul>
+</section>
 </section>
 <section id="open-source-software" class="level1">
 <h1>Open-source software</h1>
@@ -237,23 +244,20 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://analyticdesigntheory.org/">Analytic Design Theory</a> is the study of how data analyses are conducted in the real world taking into account both the perspectives of both the analyst and the stakeholder or consumer of the analysis. Aspects of this include characterizing variation between analyses, developing measures of quality, success, and usability, modeling the analytic process, and considering what makes data analyses more or less trustworthy. Analytic design theory is driven by the need to scale the training of data analysis and to continuously improve the quality of analyses.</p>
 </section>
 </section>
-<section id="applications" class="level1">
-<h1>Applications</h1>
-<section id="neuroscience" class="level2">
-<h2 class="anchored" data-anchor-id="neuroscience">Neuroscience</h2>
-<p>We have several active and ongoing collaborations in this space.</p>
+<section id="neuroscience" class="level1">
+<h1>Neuroscience</h1>
+<p>We part of <a href="https://www.psychencode.org/phase-ii">PsychENCODE Project</a> and have several active and ongoing collaborations in neuroscience.</p>
 <ul>
 <li><p>We collaborate with the <a href="https://labs.wsu.edu/peixoto-lab/home/dr-lucia-peixoto/">Peixoto lab</a> and <a href="https://drisso.github.io/">Risso lab</a> to investigate how gene expression changes with sleep and cognitative impairements within Autism Spectrum Disorders.</p></li>
 <li><p>We collaborate with the <a href="https://scholar.google.com/citations?user=frmlZdAAAAAJ&amp;hl=en">Zack lab</a> and the <a href="https://scholar.google.com/citations?user=wTEx9N8AAAAJ&amp;hl=en">Timp lab</a> to generate and analyze long-read RNA-sequencing to investigate gene expression in retinal ganglion cells, the cells whose death in glaucoma leads to visual loss and potentially blindness.</p></li>
 <li><p>We collaborate with researchers at the <a href="https://www.libd.org">Lieber Institute for Brain Development</a>, in particular the labs of <a href="https://www.libd.org/team/keri-martinowich-phd/">Keri Martinowich</a>, <a href="https://www.libd.org/team/kristen-maynard-phd/">Kristen Maynard</a>, and <a href="https://www.libd.org/team/stephanie-cerceo-page-phd/">Stephanie Page</a>, on a variety of projects leveraging scRNA-seq and spatial transcriptomics technologies. We use these technologies to profilie postmorteum human tissue at a single-cell and/or spatial resolution to better understand the molecular mechanisms of neuropsychiatric, neurodevelopmental, and neurodegenerative disorders in the human brain.</p></li>
 </ul>
 </section>
-<section id="ovarian-cancer" class="level2">
-<h2 class="anchored" data-anchor-id="ovarian-cancer">Ovarian cancer</h2>
+<section id="cancer" class="level1">
+<h1>Cancer</h1>
 <p>We collaborate with <a href="https://greenelab.com/members/casey-greene.html">Greene lab</a> and <a href="https://uofuhealth.utah.edu/huntsman/labs/doherty">Doherty lab</a> studying biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk RNA-seq, scRNA-seq, and spatial transcriptomics data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs.</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
