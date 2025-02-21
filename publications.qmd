@@ -54,7 +54,7 @@ Hou C$^{*}$, Ghazanfar S, Marini F, Morgan M, **Hicks SC**. (2025). [HuBMAPR: an
 
 Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, **Hicks SC**, Doherty JA, Greene CS. (2025). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). Accepted in *Genome Biology*.
 
-Ramnauth AD$^{\dagger}$, Tippani M, Divecha HR, Papariello AR, Miller RA, Nelson ED$^{*}$, Thompson JR$^{*}$, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$, Page SC$^{\ddagger}$. (2025). [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1101/2023.11.20.567883). Accepted *Cell Reports*.
+Ramnauth AD$^{\dagger}$, Tippani M, Divecha HR, Papariello AR, Miller RA, Nelson ED$^{*}$, Thompson JR$^{*}$, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$, Page SC$^{\ddagger}$. (2025). [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1016/j.celrep.2025.115300). *Cell Reports*.
 
 Guo B$^{*,\dagger}$, Ling W$^{\dagger}$, Kwon SH, Panwar P, Ghazanfar S$^{\ddagger}$, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [Integrating spatially-resolved transcriptomics data across tissues and individuals: challenges and opportunities](https://doi.org/10.1002/smtd.202401194). *Small Methods*.
 
