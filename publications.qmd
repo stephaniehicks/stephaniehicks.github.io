@@ -27,8 +27,6 @@ Zhou H$^{*}$, Panwar P, Guo B$^{*}$, Hallinan C$^{*}$, Ghazanfar S$^{\ddagger}$,
 
 Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM, Medina E, **Hicks SC**, Singletary K, Peixoto L. (2024). [Transcriptional Dynamics of Sleep Deprivation and Subsequent Recovery Sleep in the Male Mouse Cortex](https://doi.org/10.1101/2024.08.20.607983). *bioRxiv*.
 
-Totty MS$^{*}$, **Hicks SC**, Guo B$^{*}$. (2024). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). *bioRxiv*.
-
 Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L, Palla G, Lewis W, Dimitrov D, Vinyard ME, Magruder DS, Andersson A, Dann E, Qin Q, Otto DJ, Klein M, Botvinnik OB, Deconinck L, Waldrant K, **The Open Problems Jamboree Members**, Bloom JM, Pisco AO, Saez-Rodriguez J, Wulsin D, Pinello L, Saeys Y, Theis FJ, Krishnaswamy S. (2024). [Defining and benchmarking open problems in single-cell analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11030530). *Research Square*.
 
 Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). *arXiv*.
@@ -45,14 +43,15 @@ D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment 
 
 ## 2025
 
+Totty MS$^{*}$, **Hicks SC**, Guo B$^{*}$. (2024). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). Accepted in *Nature Methods*.
 
 Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). Accepted in *Nature Neuroscience*.
 
 Yao J$^{*}$, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2025). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). Accepted in *Genome Reserach*.
 
-Hou C$^{*}$, Ghazanfar S, Marini F, Morgan M, **Hicks SC**. (2025). [HuBMAPR: an R Client for the HuBMAP Data Portal](https://doi.org/10.1101/2024.09.26.615227). Accepted in *Bioinformatics Advances*.
-
 Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, **Hicks SC**, Doherty JA, Greene CS. (2025). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). Accepted in *Genome Biology*.
+
+Hou C$^{*}$, Ghazanfar S, Marini F, Morgan M, **Hicks SC**. (2025). [HuBMAPR: an R Client for the HuBMAP Data Portal](https://doi.org/10.1093/bioadv/vbaf048). *Bioinformatics Advances*.
 
 Ramnauth AD$^{\dagger}$, Tippani M, Divecha HR, Papariello AR, Miller RA, Nelson ED$^{*}$, Thompson JR$^{*}$, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$, Page SC$^{\ddagger}$. (2025). [Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation](https://doi.org/10.1016/j.celrep.2025.115300). *Cell Reports*.
 

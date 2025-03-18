@@ -8,12 +8,6 @@ format:
 
 # Current
 
-## Rotation students
-
-| <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
-|:---------------------|:---------------------------|:---------------------|
-| [Grace Brooks](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) interested in learning about research opportunities in spatial omics. | <img src="images/grace_brooks.png" width="200"/> |
-
 ## Undergraduate students
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
@@ -75,6 +69,7 @@ format:
 
 ## Rotation Alumni
 
+-   Grace Brooks \| 2025
 -   Caleb Hallinan \| 2024
 -   Rafael dos Santos Peixoto \| 2022
 -   Chaichontat Sriworarat \| 2022
