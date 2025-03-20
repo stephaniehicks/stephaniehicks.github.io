@@ -33,8 +33,6 @@ Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilis
 
 Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Maden SK$^{*}$, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2024). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1101/2024.02.09.579665). *bioRxiv*.
 
-Maden SK$^{*}$, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2024). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1101/2024.04.04.588105). *bioRxiv*.
-
 Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks SC**, Greene CS. (2023). [Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes](https://doi.org/10.1101/2023.06.14.544991). *bioRxiv*.
 
 D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616). *arXiv*.
@@ -43,7 +41,9 @@ D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment 
 
 ## 2025
 
-Totty MS$^{*}$, **Hicks SC**, Guo B$^{*}$. (2024). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). Accepted in *Nature Methods*.
+Totty MS$^{*}$, **Hicks SC**, Guo B$^{*}$. (2025). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). Accepted in *Nature Methods*.
+
+Maden SK$^{*}$, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2025). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1101/2024.04.04.588105). Accepted in *BMC Genomics*.
 
 Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). Accepted in *Nature Neuroscience*.
 
