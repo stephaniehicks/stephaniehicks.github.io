@@ -9,6 +9,7 @@ format:
 ## 2025
 
 -   EMBL-EBI Industry Programme workshop "Spatial profiling data analysis". 2025 Sept 24-25. Sanofi, Boston, MA. USA.
+- Panelist to discuss K99/R00 awards for statistical genomics and genetics sponsored by the American Statistical Association Section of Statistics in Genomics and Genetics. 2025 Sept 22. Virtual. 
 - 5th Translational Genomics and Epigenomics Symposium. 2025 Sept 18-19. Roswell Park Comprehensive Cancer. Buffalo, NY. USA.
 -   Department of Genetics and Genomic Sciences. Icahn School of Medicine at Mount Sinai. 2025 Jun 4. New York City, NY. USA.
 -   STATGEN Conference. 2025 21-23 May. Minneapolis, MN. USA.
