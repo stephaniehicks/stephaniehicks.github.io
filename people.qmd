@@ -40,7 +40,7 @@ format:
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
-| [Boyi Guo](https://boyiguo1.github.io) | Postdoc working on developing scalable statistical learning models for high-dimensional data analysis with emphasis on –omics applications. Moving to a tenure-track Assistant Professor in the Department of Biostatistics at University of Utah in Summer 2025. | <img src="images/boyi_guo.png" width="200"/> |
+| [Boyi Guo](https://boyiguo1.github.io) | Postdoc working on developing scalable statistical learning models for high-dimensional data analysis with emphasis on –omics applications. Moving to a tenure-track Assistant Professor in the Division of Biostatistics in Department of Population Health Sciences at University of Utah in Summer 2025. | <img src="images/boyi_guo.png" width="200"/> |
 | [Jacqueline R. Thompson](https://scholar.google.com/citations?hl=en&user=PhomahsAAAAJ) | Postdoc leading spatially-resolved transcriptomic projects to understand mental health disorders. | <img src="images/jacqueline-thompson.jpeg" width="200"/> |
 | [Michael Totty](https://www.linkedin.com/in/mictott/) | Postdoc leading single-nucleus RNA-sequencing and spatially-resolved transcriptomic projects to understand human psychiatric disorders. [NIH/NHMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104). | <img src="images/michael_totty.png" width="200"/> |
 
