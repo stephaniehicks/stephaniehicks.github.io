@@ -31,8 +31,6 @@ Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L,
 
 Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). *arXiv*.
 
-Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Maden SK$^{*}$, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2024). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1101/2024.02.09.579665). *bioRxiv*.
-
 Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks SC**, Greene CS. (2023). [Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes](https://doi.org/10.1101/2023.06.14.544991). *bioRxiv*.
 
 D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616). *arXiv*.
@@ -50,6 +48,8 @@ Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramna
 Yao J$^{*}$, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2025). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). Accepted in *Genome Reserach*.
 
 Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, **Hicks SC**, Doherty JA, Greene CS. (2025). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). Accepted in *Genome Biology*.
+
+Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Maden SK$^{*}$, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2025). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1186/s13059-025-03552-3). *Genome Biology*.
 
 Greene CS, Gignoux CR, Subirana-Granés M, Pividori M, **Hicks SC**, Ackert-Bicknell CL. (2025). [Can AI reveal the next generation of high-impact bone genomics targets?](https://www.sciencedirect.com/science/article/pii/S2352187225000166). *Bone Reports*. 
 
