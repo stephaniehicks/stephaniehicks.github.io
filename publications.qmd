@@ -17,8 +17,6 @@ The following are a selected set of publications. To see a list with all of pape
 
 Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2024). [Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus](https://doi.org/10.1101/2024.12.07.627362) *bioRxiv*.
 
-Shah K$^{*}$, Guo B$^{*}$, **Hicks SC**. (2024). [Addressing the mean-variance relationship in spatially resolved transcriptomics data with *spoon*](https://www.biorxiv.org/content/10.1101/2024.11.04.621867v1). *bioRxiv*.
-
 Wang, A, **Hicks SC**, Geman D, Younes L. (2024). [GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection](https://doi.org/10.1101/2024.10.30.621151). *bioRxiv*. (Accepted for and presented at [RECOMB 2025](https://recomb.org/recomb2025/)).
 
 Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$, Costa VD$^{\ddagger}$. (2024). [Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates](https://doi.org/10.1101/2024.10.18.618721). *bioRxiv*.
@@ -48,6 +46,8 @@ Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramna
 Yao J$^{*}$, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2025). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). Accepted in *Genome Reserach*.
 
 Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, **Hicks SC**, Doherty JA, Greene CS. (2025). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). Accepted in *Genome Biology*.
+
+Shah K$^{*}$, Guo B$^{*}$, **Hicks SC**. (2025). [Addressing the mean-variance relationship in spatially resolved transcriptomics data with *spoon*](https://doi.org/10.1093/biostatistics/kxaf012). *Biostatistics*.
 
 Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Maden SK$^{*}$, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2025). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1186/s13059-025-03552-3). *Genome Biology*.
 
