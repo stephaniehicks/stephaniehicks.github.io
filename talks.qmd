@@ -6,6 +6,10 @@ format:
         toc-depth: 3
 ---
 
+## 2026 
+
+- Pathology Grand Rounds at Weill Cornell Medical College. 2026 Jan 12. New York City, NY. USA.  
+
 ## 2025
 
 -   EMBL-EBI Industry Programme workshop "Spatial profiling data analysis". 2025 Sept 24-25. Sanofi, Boston, MA. USA.
@@ -89,6 +93,8 @@ format:
 -   Department of Biostatistics. Virginia Commonwealth University. 2022 Feb 4. Richmond, VA. USA.
 -   [Department of Mathematics & Statistics. McMaster University](https://www.math.mcmaster.ca/news-events/events/g-1-0fqnlmh4j70c0ruepkgssq7rb8_202201282030.html). 2022 Jan 28. Hamilton, Ontario, Canada.
 
+# Earlier years
+
 ## 2021
 
 -   Department of Biostatistics. University of Michigan. 2021 Dec 9. Ann Arbor, MI. USA.
@@ -110,7 +116,6 @@ format:
 -   [Scalable statistical methods and software for single-cell data science](https://docs.google.com/presentation/d/1pwYvydQAfQd8V5p2Hxlc8iyWzJ_lUBpo91eL34KeGO0/edit?usp=sharing). National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2021 Jan 28.
 -   [Scalable statistical methods and software for single-cell data science](https://docs.google.com/presentation/d/1gYQobVpbc4idyXzhcxkxoWD3aqR7-Kz5oW3FM69PwFA/edit?usp=sharing). Department of Bioinformatics and Biostatistics. University of Louisville. 2021 Jan 15. Louisville, KY. USA.
 
-# Earlier years
 
 ## 2020
 
