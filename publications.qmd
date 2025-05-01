@@ -39,11 +39,11 @@ Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM, Medina E, **Hicks SC**, 
 
 Totty MS$^{*}$, **Hicks SC**, Guo B$^{*}$. (2025). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). Accepted in *Nature Methods*.
 
-Maden SK$^{*}$, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2025). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1101/2024.04.04.588105). Accepted in *BMC Genomics*.
-
 Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). Accepted in *Nature Neuroscience*.
 
 Yao J$^{*}$, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2025). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). Accepted in *Genome Reserach*.
+
+Maden SK$^{*}$, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2025). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1186/s12864-025-11508-x). *BMC Genomics*.
 
 Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, **Hicks SC**, Doherty JA, Greene CS. (2025). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). Accepted in *Genome Biology*.
 
@@ -51,7 +51,7 @@ Shah K$^{*}$, Guo B$^{*}$, **Hicks SC**. (2025). [Addressing the mean-variance r
 
 Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Maden SK$^{*}$, Eagles NJ, Kleinman JE, Hyde TM, **Hicks SC**, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2025). [Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex](https://doi.org/10.1186/s13059-025-03552-3). *Genome Biology*.
 
-Greene CS, Gignoux CR, Subirana-Granés M, Pividori M, **Hicks SC**, Ackert-Bicknell CL. (2025). [Can AI reveal the next generation of high-impact bone genomics targets?](https://www.sciencedirect.com/science/article/pii/S2352187225000166). *Bone Reports*. 
+Greene CS, Gignoux CR, Subirana-Granés M, Pividori M, **Hicks SC**, Ackert-Bicknell CL. (2025). [Can AI reveal the next generation of high-impact bone genomics targets?](https://www.sciencedirect.com/science/article/pii/S2352187225000166). *Bone Reports*.
 
 Hou C$^{*}$, Ghazanfar S, Marini F, Morgan M, **Hicks SC**. (2025). [HuBMAPR: an R Client for the HuBMAP Data Portal](https://doi.org/10.1093/bioadv/vbaf048). *Bioinformatics Advances*.
 
@@ -70,6 +70,8 @@ Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG
 Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M, Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, **Hicks SC**, Nolan GP, Davis KL, Papenfuss AT$^{\ddagger}$, Love M$^{\ddagger}$, Mangiola S$^{\ddagger}$. (2024). [The tidyomics ecosystem: Enhancing omic data analyses](https://doi.org/10.1038/s41592-024-02299-2). *Nature Methods*.
 
 Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, Guo B$^{*}$, Grant-Peters M, Divecha HR, Tippani M, Sriworarat C$^{*}$, Nguyen AB, Ravichandran P$^{*}$, Tran MT, Seyedian A, PsychENCODE Consortium, Hyde TM, Kleinman JE, Battle A, Page SC, Ryten M, **Hicks SC**, Martinowich K, Collado-Torres L$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2024). [A data-driven single-cell and spatial transcriptomic map of the human prefrontal cortex](https://www.science.org/doi/10.1126/science.adh1938). *Science*.
+
+Ruzicka WB, Mohammadi S, Fullard JF, Davila-Velderrain J, Subburaju S, Tso DR, Hourihan M, Jiang S, Lee H-C, Bendl J, **PsychENCODE Consortium**, Voloudakis G, Haroutunian V, Hoffman GE, Roussos P, Kellis M. (2024). [Single-cell multi-cohort dissection of the schizophrenia transcriptome](https://www.science.org/doi/10.1126/science.adg5136). *Science*.
 
 Weber LM$^{*,\dagger}$, Divecha HR$^{\dagger}$, Tran MN, Kwon SH, Spangler A, Montgomery KD, Tippani M, Bharadwaj R, Kleinman JE, Page SC, Hyde TM, Collado-Torres L, Maynard KR, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2024). [The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics](https://elifesciences.org/articles/84628). *eLife*.
 
