@@ -19,7 +19,7 @@ format:
 - [BC]2 Basel Computational Biology Conference. 2025 Sep 8-10. Basel, Switzerland. 
 -   Department of Genetics and Genomic Sciences. Icahn School of Medicine at Mount Sinai. 2025 Jun 4. New York City, NY. USA.
 -   STATGEN Conference. 2025 21-23 May. Minneapolis, MN. USA.
--   Biology of Genomes. 2025 May 6-10. Cold Spring Harbor Laboratory. USA.
+-   [Biology of Genomes](https://docs.google.com/presentation/d/1XugiQkfUKsQBT4CE36oystsh4ob6U--ORGuykCLJKi4/edit?usp=sharing). 2025 May 6-10. Cold Spring Harbor Laboratory. USA.
 -   CZI Cell Science 2025 annual meeting. 2025 Apr 7-10. Chicago, IL. USA.
 
 ## 2024
