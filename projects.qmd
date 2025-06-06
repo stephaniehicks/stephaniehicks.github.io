@@ -40,8 +40,9 @@ In this space, we have developed statistical and machine learning methods to:
 
 We are actively developing state-of-the-art deep learning algorithms using autoencoders, contrastive self-supervised learning, and transformers to improve downstream tasks in spatial omics.
 
--   Predict spatial domains for multi-modal spatial omics data 
+-   Predict spatial domains for multi-modal spatial omics data
 -   Integrate and align multiple tissue sections to create 3D spatial atlases
+-   Fine tune sequence to function models for downstream spatial omics data analysis tasks
 
 # Open-source software
 
@@ -76,7 +77,7 @@ The data science revolution has led to an increased interest in the practice of 
 
 # Neuroscience
 
-We part of [PsychENCODE Project](https://www.psychencode.org/phase-ii) and have several active and ongoing collaborations in neuroscience. 
+We part of [PsychENCODE Project](https://www.psychencode.org/phase-ii) and have several active and ongoing collaborations in neuroscience.
 
 -   We collaborate with the [Peixoto lab](https://labs.wsu.edu/peixoto-lab/home/dr-lucia-peixoto/) and [Risso lab](https://drisso.github.io/) to investigate how gene expression changes with sleep and cognitative impairements within Autism Spectrum Disorders.
 

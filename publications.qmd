@@ -35,11 +35,11 @@ D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment 
 
 Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L, Palla G, Lewis W, Dimitrov D, Vinyard ME, Magruder DS, Andersson A, Dann E, Qin Q, Otto DJ, Klein M, Botvinnik OB, Deconinck L, Waldrant K, **The Open Problems Jamboree Members**, Bloom JM, Pisco AO, Saez-Rodriguez J, Wulsin D, Pinello L, Saeys Y, Theis FJ, Krishnaswamy S. (2025). [Defining and benchmarking open problems in single-cell analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11030530). Accepted in *Nature Biotechnology*.
 
-Totty MS$^{*}$, **Hicks SC**, Guo B$^{*}$. (2025). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1101/2024.06.06.597765). Accepted in *Nature Methods*.
-
 Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). Accepted in *Nature Neuroscience*.
 
-Yao J$^{*}$, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2025). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1). Accepted in *Genome Reserach*.
+Totty MS$^{*}$, **Hicks SC**, Guo B$^{*}$. (2025). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1038/s41592-025-02713-3). *Nature Methods*.
+
+Yao J$^{*}$, Yu J, Caffo B, Page SC, Martinowich K, **Hicks SC**. (2025). [Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies](https://doi.org/10.1101/gr.279380.124). *Genome Reserach*.
 
 Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM, Medina E, **Hicks SC**, Singletary K, Peixoto L. (2025). [Transcriptional Dynamics of Sleep Deprivation and Subsequent Recovery Sleep in the Male Mouse Cortex](https://journals.physiology.org/doi/abs/10.1152/physiolgenomics.00128.2024). *Physiological Genomics*.
 
