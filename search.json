@@ -291,21 +291,28 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Name\n Research topic\n Photo\n\n\n\n\nXingyi (Daniel) Chen\nUndergraduate student majoring in Applied Math and Statistics with a minor in computational medicine developing computational methods spatial omics data.\n\n\n\n\n\n\n\n\n\n\n Name\n Research topic\n Photo\n\n\n\n\nGuan Gui\nScM student in Biostatistics developing deep learning algorithms for spatial omics data.\n\n\n\n\n\n\n\n\n\n\n\n Name\n Research topic\n Photo\n\n\n\n\nAlyssa Columbus\nPhD student in Biostatistics and Vivien Thomas Scholar at Johns Hopkins University defining elements and principles for characterizing and evaluating data analyses. Jointly mentored with Brian Caffo.\n\n\n\nCindy Fang\nPhD candidate in Biostatistics developing computational methods for single-cell and spatial transcriptomics data.\n\n\n\nSowmya Parthiban\nPhD student in Biostatistics developing computational methods and software for long-read RNA-sequencing.\n\n\n\nKinnary Shah\nPhD candidate in Biostatistics developing statistical inference tools for spatial transcriptomics data.\n\n\n\nJianing Yao\nPhD student in Biostatistics developing scalable clustering methods and software for spatial omics data.\n\n\n\n\n\n\n\n\n\n\n\n Name\n Research topic\n Photo\n\n\n\n\nBoyi Guo\nPostdoc working on developing scalable statistical learning models for high-dimensional data analysis with emphasis on –omics applications. Moving to a tenure-track Assistant Professor in the Division of Biostatistics in Department of Population Health Sciences at University of Utah in Summer 2025.\n\n\n\nJacqueline R. Thompson\nPostdoc leading spatially-resolved transcriptomic projects to understand mental health disorders.\n\n\n\nMichael Totty\nPostdoc leading single-nucleus RNA-sequencing and spatially-resolved transcriptomic projects to understand human psychiatric disorders. NIH/NHMH F32 awardee."
+    "text": "Name\n Research topic\n Photo\n\n\n\n\nXingyi (Daniel) Chen\nUndergraduate student majoring in Applied Math and Statistics with a minor in computational medicine developing computational methods for spatial omics data.\n\n\n\n\n\n\n\n\n\n\n Name\n Research topic\n Photo\n\n\n\n\nHarriet (Jiali) He\nMSE student in Biomedical Engineering analyzing spatial omics data.\n\n\n\n\n\n\n\n\n\n\n Name\n Research topic\n Photo\n\n\n\n\nGuan Gui\nScM student in Biostatistics developing deep learning algorithms for spatial omics data.\n\n\n\nShengyi Li\nScM student in Biostatistics developing statistical models to remove biases with spatial omics data.\n\n\n\n\n\n\n\n\n\n\n\n Name\n Research topic\n Photo\n\n\n\n\nAlyssa Columbus\nPhD student in Biostatistics and Vivien Thomas Scholar at Johns Hopkins University defining elements and principles for characterizing and evaluating data analyses. Jointly mentored with Brian Caffo.\n\n\n\nCindy Fang\nPhD candidate in Biostatistics developing computational methods for single-cell and spatial transcriptomics data.\n\n\n\nSowmya Parthiban\nPhD student in Biostatistics developing computational methods and software for long-read RNA-sequencing.\n\n\n\nKinnary Shah\nPhD candidate in Biostatistics developing statistical inference tools for spatial transcriptomics data.\n\n\n\nJianing Yao\nPhD student in Biostatistics developing scalable clustering methods and software for spatial omics data.\n\n\n\n\n\n\n\n\n\n\n\n Name\n Research topic\n Photo\n\n\n\n\nBoyi Guo\nPostdoc working on developing scalable statistical learning models for high-dimensional data analysis with emphasis on –omics applications. Moving to a tenure-track Assistant Professor in the Division of Biostatistics in Department of Population Health Sciences at University of Utah in Summer 2025.\n\n\n\nJacqueline R. Thompson\nPostdoc leading spatially-resolved transcriptomic projects to understand mental health disorders.\n\n\n\nMichael Totty\nPostdoc leading single-nucleus RNA-sequencing and spatially-resolved transcriptomic projects to understand human psychiatric disorders. NIH/NHMH F32 awardee."
   },
   {
     "objectID": "people.html#undergraduate-students",
     "href": "people.html#undergraduate-students",
     "title": "People",
     "section": "",
-    "text": "Name\n Research topic\n Photo\n\n\n\n\nXingyi (Daniel) Chen\nUndergraduate student majoring in Applied Math and Statistics with a minor in computational medicine developing computational methods spatial omics data."
+    "text": "Name\n Research topic\n Photo\n\n\n\n\nXingyi (Daniel) Chen\nUndergraduate student majoring in Applied Math and Statistics with a minor in computational medicine developing computational methods for spatial omics data."
+  },
+  {
+    "objectID": "people.html#mse-students",
+    "href": "people.html#mse-students",
+    "title": "People",
+    "section": "",
+    "text": "Name\n Research topic\n Photo\n\n\n\n\nHarriet (Jiali) He\nMSE student in Biomedical Engineering analyzing spatial omics data."
   },
   {
     "objectID": "people.html#scm-students",
     "href": "people.html#scm-students",
     "title": "People",
     "section": "",
-    "text": "Name\n Research topic\n Photo\n\n\n\n\nGuan Gui\nScM student in Biostatistics developing deep learning algorithms for spatial omics data."
+    "text": "Name\n Research topic\n Photo\n\n\n\n\nGuan Gui\nScM student in Biostatistics developing deep learning algorithms for spatial omics data.\n\n\n\nShengyi Li\nScM student in Biostatistics developing statistical models to remove biases with spatial omics data."
   },
   {
     "objectID": "people.html#phd-students",
