@@ -47,7 +47,9 @@ format:
 
 #### Software packages
 
--   [Python/samui](https://github.com/chaichontat/samui) \| A performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments called [Samui Browser](https://samuibrowser.com). ([Sriworarat et al., 2023. *Biological Imaging*](https://doi.org/10.1017/S2633903X2300017X))
+- [PyPI/spotsweeper](https://pypi.org/project/spotsweeper) \| Python implementation of functions that provides spatially-aware quality control metrics for spatial transcriptomics data. ([Totty et al., 2025. *Nature Methods*](https://doi.org/10.1038/s41592-025-02713-3)).
+- [PyPI/spotsweeper](https://pypi.org/project/visiumhd-utils) \| Tools for pre-processing and visualizing Visium HD spatial transcriptomics data.
+- [Python/samui](https://github.com/chaichontat/samui) \| A performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments called [Samui Browser](https://samuibrowser.com). ([Sriworarat et al., 2023. *Biological Imaging*](https://doi.org/10.1017/S2633903X2300017X))
 -   [Python/minicore](https://github.com/dnbaker/minicore) \| Fast, generic library for constructing and clustering coresets on graphs, in metric spaces and under non-metric dissimilarity measures for count data and probability distributions. ([Baker et al., 2021. *ACM Conference on Bioinformatics*](https://pubmed.ncbi.nlm.nih.gov/34778889/)).
 
 ## GitHub
