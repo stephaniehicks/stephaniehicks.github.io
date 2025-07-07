@@ -20,12 +20,11 @@ format:
 |:---------------------|:---------------------------|:---------------------|
 | [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b/) | MSE student in [Biomedical Engineering](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) analyzing spatial omics data. | <img src="images/harriet_he.jpg" width="200"/> |
 
-
 ## ScM students
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
-| [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing deep learning algorithms for spatial omics data. | <img src="images/guan_gui.jpg" width="200"/> |
+| [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing deep learning algorithms for spatial omics data. Awarded the Kocherlakota award for best performance by a master’s student on the Biostatistics first-year comprehensive examination. | <img src="images/guan_gui.jpg" width="200"/> |
 | [Shengyi Li](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing statistical models to remove biases with spatial omics data. | <img src="images/shengyi_li.jpg" width="175"/> |
 
 <br>
