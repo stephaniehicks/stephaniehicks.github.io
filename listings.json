@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/course-deep-learning-genetics-genomics/index.html",
       "/blog/super-women-statisticians-and-data-scientists/index.html",
       "/blog/why-it-s-best-to-keep-software-and-data-analysis-repositories-separate/index.html",
       "/blog/tidyverse-skills-for-data-science-in-r-coursera-specialization/index.html",
