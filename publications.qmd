@@ -47,7 +47,7 @@ Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM, Medina E, **Hicks SC**, 
 
 Maden SK$^{*}$, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, **Hicks SC**. (2025). [lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression](https://doi.org/10.1186/s12864-025-11508-x). *BMC Genomics*.
 
-Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, **Hicks SC**, Doherty JA, Greene CS. (2025). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1101/2024.04.25.590992). Accepted in *Genome Biology*.
+Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, **Hicks SC**, Doherty JA, Greene CS. (2025). [Missing cell types in single-cell references impact deconvolution of bulk data but are detectable](https://doi.org/10.1186/s13059-025-03506-9). *Genome Biology*.
 
 Shah K$^{*}$, Guo B$^{*}$, **Hicks SC**. (2025). [Addressing the mean-variance relationship in spatially resolved transcriptomics data with *spoon*](https://doi.org/10.1093/biostatistics/kxaf012). *Biostatistics*.
 
