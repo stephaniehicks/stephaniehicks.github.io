@@ -15,6 +15,8 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, Divecha HR, Miller RA, Kwon SH, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$\ddagger$, Martinowich K$\ddagger$. (2025). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://doi.org/10.1101/2025.07.14.664821). *bioRxiv*.
+
 Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2024). [Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus](https://doi.org/10.1101/2024.12.07.627362) *bioRxiv*.
 
 Wang, A, **Hicks SC**, Geman D, Younes L. (2024). [GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection](https://doi.org/10.1101/2024.10.30.621151). *bioRxiv*. (Accepted for and presented at [RECOMB 2025](https://recomb.org/recomb2025/)).
@@ -31,13 +33,11 @@ D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment 
 
 ## 2025
 
-
-
-Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L, Palla G, Lewis W, Dimitrov D, Vinyard ME, Magruder DS, Andersson A, Dann E, Qin Q, Otto DJ, Klein M, Botvinnik OB, Deconinck L, Waldrant K, **The Open Problems Jamboree Members**, Bloom JM, Pisco AO, Saez-Rodriguez J, Wulsin D, Pinello L, Saeys Y, Theis FJ, Krishnaswamy S. (2025). [Defining and benchmarking open problems in single-cell analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11030530). Accepted in *Nature Biotechnology*.
-
 Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). Accepted in *Nature Neuroscience*.
 
 Zhou H$^{*}$, Panwar P, Guo B$^{*}$, Hallinan C$^{*}$, Ghazanfar S$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [Spatial mutual nearest neighbors for spatial transcriptomics data](https://doi.org/10.1093/bioinformatics/btaf403). *Bioinformatics*.
+
+Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L, Palla G, Lewis W, Dimitrov D, Vinyard ME, Magruder DS, Andersson A, Dann E, Qin Q, Otto DJ, Klein M, Botvinnik OB, Deconinck L, Waldrant K, **The Open Problems Jamboree Members**, Bloom JM, Pisco AO, Saez-Rodriguez J, Wulsin D, Pinello L, Saeys Y, Theis FJ, Krishnaswamy S. (2025). [Defining and benchmarking open problems in single-cell analysis](https://doi.org/10.1038/s41587-025-02694-w). *Nature Biotechnology*.
 
 Totty MS$^{*}$, **Hicks SC**, Guo B$^{*}$. (2025). [SpotSweeper: spatially-aware quality control for spatial transcriptomics](https://doi.org/10.1038/s41592-025-02713-3). *Nature Methods*.
 
