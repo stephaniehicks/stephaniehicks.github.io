@@ -15,13 +15,11 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
-Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, Divecha HR, Miller RA, Kwon SH, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$\ddagger$, Martinowich K$\ddagger$. (2025). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://doi.org/10.1101/2025.07.14.664821). *bioRxiv*.
+Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, Divecha HR, Miller RA, Kwon SH, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$^{\dagger}$, Martinowich K$^{\dagger}$. (2025). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://doi.org/10.1101/2025.07.14.664821). *bioRxiv*.
 
 Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2024). [Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus](https://doi.org/10.1101/2024.12.07.627362) *bioRxiv*.
 
 Wang, A, **Hicks SC**, Geman D, Younes L. (2024). [GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection](https://doi.org/10.1101/2024.10.30.621151). *bioRxiv*. (Accepted for and presented at [RECOMB 2025](https://recomb.org/recomb2025/)).
-
-Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$, Costa VD$^{\ddagger}$. (2024). [Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates](https://doi.org/10.1101/2024.10.18.618721). *bioRxiv*.
 
 Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). *arXiv*.
 
@@ -34,6 +32,8 @@ D'Agostino McGowan L, Peng RD, **Hicks SC**. (2023). [Quantifying the Alignment 
 ## 2025
 
 Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). Accepted in *Nature Neuroscience*.
+
+Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$, Costa VD$^{\ddagger}$. (2024). [Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates](https://doi.org/10.1101/2024.10.18.618721). Accepted in *Science Advances*.
 
 Zhou H$^{*}$, Panwar P, Guo B$^{*}$, Hallinan C$^{*}$, Ghazanfar S$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [Spatial mutual nearest neighbors for spatial transcriptomics data](https://doi.org/10.1093/bioinformatics/btaf403). *Bioinformatics*.
 
