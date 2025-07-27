@@ -15,6 +15,8 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+Goode TD, Bernstein M, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer-Cheren MD, Chung A, Duan X, Macosko E, **Hicks SC**, Zweifel L, Sahay A. (2025). [A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding](https://pubmed.ncbi.nlm.nih.gov/39149322/). *bioRxiv*.
+
 Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, Divecha HR, Miller RA, Kwon SH, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$^{\dagger}$, Martinowich K$^{\dagger}$. (2025). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://doi.org/10.1101/2025.07.14.664821). *bioRxiv*.
 
 Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2024). [Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus](https://doi.org/10.1101/2024.12.07.627362) *bioRxiv*.
