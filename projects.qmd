@@ -79,7 +79,7 @@ The data science revolution has led to an increased interest in the practice of 
 
 We part of [PsychENCODE Project](https://www.psychencode.org/phase-ii) and have several active and ongoing collaborations in neuroscience.
 
--   We collaborate with the [Peixoto lab](https://labs.wsu.edu/peixoto-lab/home/dr-lucia-peixoto/) and [Risso lab](https://drisso.github.io/) to investigate how gene expression changes with sleep and cognitative impairements within Autism Spectrum Disorders.
+-   We collaborate with the [Peixoto lab](https://labs.wsu.edu/peixoto-lab/home/dr-lucia-peixoto/) and [Risso lab](https://drisso.github.io/) to investigate how gene expression changes with sleep and cogitative impairments within Autism Spectrum Disorders.
 
 -   We collaborate with the [Zack lab](https://scholar.google.com/citations?user=frmlZdAAAAAJ&hl=en) and the [Timp lab](https://scholar.google.com/citations?user=wTEx9N8AAAAJ&hl=en) to generate and analyze long-read RNA-sequencing to investigate gene expression in retinal ganglion cells, the cells whose death in glaucoma leads to visual loss and potentially blindness.
 
