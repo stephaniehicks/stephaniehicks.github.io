@@ -6,13 +6,12 @@ format:
         toc-depth: 3
 ---
 
-# Rotation 
+# Rotation
 
 ## PhD students
 
-- [Omodolapo Nurudeen](https://www.linkedin.com/in/omodolapo-nurudeen/) | PhD student in [Biomedical Engineering](https://www.bme.jhu.edu) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative) 
-- [Jan Matthias ](https://www.linkedin.com/in/janmatthias) | PhD student in [Biomedical Informatics and Data Science](https://bids.jhmi.edu/)
-
+-   [Omodolapo Nurudeen](https://www.linkedin.com/in/omodolapo-nurudeen/) \| PhD student in [Biomedical Engineering](https://www.bme.jhu.edu) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative)
+-   [Jan Matthias](https://www.linkedin.com/in/janmatthias) \| PhD student in [Biomedical Informatics and Data Science](https://bids.jhmi.edu/)
 
 # Current
 
@@ -27,6 +26,7 @@ format:
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
 | [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b/) | MSE student in [Biomedical Engineering](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) analyzing spatial omics data. | <img src="images/harriet_he.jpg" width="200"/> |
+| [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b/) | MSE student in [Biomedical Engineering](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) benchmarking spatial omics algorithms. | <img src="images/vani-padmakumar.jpg" width="200"/> |
 
 ## ScM students
 
@@ -64,7 +64,7 @@ format:
 
 -   [Lukas Weber](https://lmweber.github.io) \| Assistant Professor, Boston University, Biostatistics \| [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850)
 -   [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) \| Assistant Professor, Columbia University, Biostatistics \| [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
--   [Sean Maden](https://metamaden.github.io/) \| Senior Data Analyst 
+-   [Sean Maden](https://metamaden.github.io/) \| Senior Data Analyst
 -   [Boyi Guo](https://boyiguo1.github.io) \| Assistant Professor, University of Utah, Biostatistics
 
 ## PhD Alumni
