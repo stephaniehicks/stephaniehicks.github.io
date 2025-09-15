@@ -15,7 +15,9 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
-Ravichandran P$\dagger$, Bach SV$\dagger$, Phillips RA, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, **Hicks SC**$\ddagger$, Maynard K$\ddagger$. (2025). [Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens](https://doi.org/10.1101/2025.09.10.675374). *bioRxiv*.
+Johnson CM, Li W$^*$, Solhjoo S, Madan V, Ali I, Nash K, **Hicks SC**, Timp W. [Single-cell RNA sequencing identifies subtypes of cancer-associated fibroblasts in early and late stages of mycosis fungoides](https://doi.org/10.1101/2025.09.07.25335167). _medRxiv_. 
+
+Ravichandran P$^{*,\dagger}$, Bach SV$^{\dagger}$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, **Hicks SC**$^{\ddagger}$, Maynard K$^{\ddagger}$. (2025). [Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens](https://doi.org/10.1101/2025.09.10.675374). *bioRxiv*.
 
 Goode TD, Bernstein M, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer-Cheren MD, Chung A, Duan X, Macosko E, **Hicks SC**, Zweifel L, Sahay A. (2025). [A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding](https://pubmed.ncbi.nlm.nih.gov/39149322/). *bioRxiv*.
 
