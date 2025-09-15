@@ -15,7 +15,9 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
-Johnson CM, Li W$^*$, Solhjoo S, Madan V, Ali I, Nash K, **Hicks SC**, Timp W. [Single-cell RNA sequencing identifies subtypes of cancer-associated fibroblasts in early and late stages of mycosis fungoides](https://doi.org/10.1101/2025.09.07.25335167). _medRxiv_. 
+Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, Hicks SC$^{\ddagger}$. (2025). [Characterizing intra- and inter-tumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics](). _bioRxiv_.
+
+Johnson CM, Li W$^*$, Solhjoo S, Madan V, Ali I, Nash K, **Hicks SC**, Timp W. (2025). [Single-cell RNA sequencing identifies subtypes of cancer-associated fibroblasts in early and late stages of mycosis fungoides](https://doi.org/10.1101/2025.09.07.25335167). _medRxiv_. 
 
 Ravichandran P$^{*,\dagger}$, Bach SV$^{\dagger}$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, **Hicks SC**$^{\ddagger}$, Maynard K$^{\ddagger}$. (2025). [Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens](https://doi.org/10.1101/2025.09.10.675374). *bioRxiv*.
 
