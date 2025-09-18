@@ -41,7 +41,7 @@ Wang, A, **Hicks SC**, Geman D, Younes L. (2025). [GeneCover: A Combinatorial Ap
 
 Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1038/s41593-025-02022-0). *Nature Neuroscience*.
 
-Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$, Costa VD$^{\ddagger}$. (2024). [Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates](https://doi.org/10.1101/2024.10.18.618721). Accepted in *Science Advances*.
+Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K$^{\ddagger}$, **Hicks SC**$^{\ddagger}$, Costa VD$^{\ddagger}$. (2025). [Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates](https://www.science.org/doi/10.1126/sciadv.adw1029). *Science Advances*.
 
 Zhou H$^{*}$, Panwar P, Guo B$^{*}$, Hallinan C$^{*}$, Ghazanfar S$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [Spatial mutual nearest neighbors for spatial transcriptomics data](https://doi.org/10.1093/bioinformatics/btaf403). *Bioinformatics*.
 
