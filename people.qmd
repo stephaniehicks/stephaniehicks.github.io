@@ -4,6 +4,7 @@ format:
     html:
         toc: true
         toc-depth: 3
+        css: styles.css
 ---
 
 # Rotation
@@ -15,25 +16,23 @@ format:
 
 # Current
 
-## Undergraduate students
-
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
-| [Xingyi (Daniel) Chen](https://www.linkedin.com/in/xingyi-chen-8291381a5/) | Undergraduate student majoring in [Applied Math and Statistics](https://engineering.jhu.edu/ams) with a minor in [computational medicine](https://www.bme.jhu.edu/research/research-areas/computational-medicine/) developing computational methods for spatial omics data. | <img src="images/daniel_chen.jpg" width="150"/> |
+| [Xingyi (Daniel) Chen](https://www.linkedin.com/in/xingyi-chen-8291381a5/) | Undergraduate student majoring in [Applied Math and Statistics](https://engineering.jhu.edu/ams) with a minor in [computational medicine](https://www.bme.jhu.edu/research/research-areas/computational-medicine/) | <img src="images/daniel_chen.jpg" width="150"/> |
 
 ## MSE students
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
-| [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b/) | MSE student in [Biomedical Engineering](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) analyzing spatial omics data. | <img src="images/harriet_he.jpg" width="200"/> |
-| [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b/) | MSE student in [Biomedical Engineering](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) benchmarking spatial omics algorithms. | <img src="images/vani-padmakumar.jpg" width="200"/> |
+| [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b/) | MSE student in [Biomedical Engineering](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) | <img src="images/harriet_he.jpg" width="200"/> |
+| [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b/) | MSE student in [Biomedical Engineering](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) | <img src="images/vani-padmakumar.jpg" width="200"/> |
 
 ## ScM students
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
-| [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing deep learning algorithms for spatial omics data. Awarded the Kocherlakota award for best performance by a master’s student on the Biostatistics first-year comprehensive examination. | <img src="images/guan_gui.jpg" width="200"/> |
-| [Shengyi Li](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing statistical models to remove biases with spatial omics data. | <img src="images/shengyi_li.jpg" width="175"/> |
+| [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics). Awarded the Kocherlakota award for best performance by a master’s student on the Biostatistics first-year comprehensive examination. | <img src="images/guan_gui.jpg" width="200"/> |
+| [Shengyi Li](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) | <img src="images/shengyi_li.jpg" width="175"/> |
 
 <br>
 
@@ -41,11 +40,11 @@ format:
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
-| [Alyssa Columbus](https://alyssacolumbus.com/) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative) defining elements and principles for characterizing and evaluating data analyses ([Student Spotlight](https://publichealth.jhu.edu/2024/student-spotlight-alyssa-columbus)). Jointly mentored with Brian Caffo. Fulbright US Scholar at the Ludwig Maximilian University of Munich for 2025-2026. | <img src="images/alyssa_columbus.jpeg" width="200"/> |
-| [Cindy Fang](https://mobile.twitter.com/findycang) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing computational methods for single-cell and spatial transcriptomics data. | <img src="images/cindy_fang.jpeg" width="200"/> |
-| [Sowmya Parthiban](https://sowmya-parthiban.com) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing computational methods and software for long-read RNA-sequencing. | <img src="images/sowmya_parthiban.png" width="200"/> |
-| [Kinnary Shah](https://www.linkedin.com/in/kinnary-shah) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing statistical inference tools for spatial transcriptomics data ([Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)). | <img src="images/kinnary_shah.jpg" width="200"/> |
-| [Jianing Yao](https://www.linkedin.com/in/jianing-yao-15156211b/) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) developing scalable clustering methods and software for spatial omics data. | <img src="/./images/jianing_yao.jpeg" width="200"/> |
+| [Alyssa Columbus](https://alyssacolumbus.com/) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative) ([Student Spotlight](https://publichealth.jhu.edu/2024/student-spotlight-alyssa-columbus)). Jointly mentored with Brian Caffo. Fulbright US Scholar at the Ludwig Maximilian University of Munich for 2025-2026. | <img src="images/alyssa_columbus.jpeg" width="200"/> |
+| [Cindy Fang](https://mobile.twitter.com/findycang) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) | <img src="images/cindy_fang.jpeg" width="200"/> |
+| [Sowmya Parthiban](https://sowmya-parthiban.com) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) | <img src="images/sowmya_parthiban.png" width="200"/> |
+| [Kinnary Shah](https://www.linkedin.com/in/kinnary-shah) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) ([Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)). | <img src="images/kinnary_shah.jpg" width="200"/> |
+| [Jianing Yao](https://www.linkedin.com/in/jianing-yao-15156211b/) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) | <img src="/./images/jianing_yao.jpeg" width="200"/> |
 
 <br>
 
@@ -53,8 +52,8 @@ format:
 
 | <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
 |:---------------------|:---------------------------|:---------------------|
-| [Jacqueline R. Thompson](https://scholar.google.com/citations?hl=en&user=PhomahsAAAAJ) | Postdoc leading spatially-resolved transcriptomic projects to understand mental health disorders. | <img src="images/jacqueline-thompson.jpeg" width="200"/> |
-| [Michael Totty](https://www.linkedin.com/in/mictott/) | Postdoc leading single-nucleus RNA-sequencing and spatially-resolved transcriptomic projects to understand human psychiatric disorders. [NIH/NIMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104). | <img src="images/michael_totty.png" width="200"/> |
+| [Jacqueline R. Thompson](https://scholar.google.com/citations?hl=en&user=PhomahsAAAAJ) | Postdoc leading spatially-resolved transcriptomic projects to understand neuropsychiatric disorders. | <img src="images/jacqueline-thompson.jpeg" width="200"/> |
+| [Michael Totty](https://www.linkedin.com/in/mictott/) | Postdoc leading spatially-resolved transcriptomic projects to understand human psychiatric disorders. [NIH/NIMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104). | <img src="images/michael_totty.png" width="200"/> |
 
 <br>
 
