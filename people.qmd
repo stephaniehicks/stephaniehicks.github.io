@@ -7,53 +7,34 @@ format:
         css: styles.css
 ---
 
-# Rotation
+<style>
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+</style>
 
-## PhD students
+# Rotation
 
 -   [Omodolapo Nurudeen](https://www.linkedin.com/in/omodolapo-nurudeen/) \| PhD student in [Biomedical Engineering](https://www.bme.jhu.edu) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative)
 -   [Jan Matthias](https://www.linkedin.com/in/janmatthias) \| PhD student in [Biomedical Informatics and Data Science](https://bids.jhmi.edu/)
 
 # Current
 
-| <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
-|:---------------------|:---------------------------|:---------------------|
-| [Xingyi (Daniel) Chen](https://www.linkedin.com/in/xingyi-chen-8291381a5/) | Undergraduate student majoring in [Applied Math and Statistics](https://engineering.jhu.edu/ams) with a minor in [computational medicine](https://www.bme.jhu.edu/research/research-areas/computational-medicine/) | <img src="images/daniel_chen.jpg" width="150"/> |
-
-## MSE students
-
-| <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
-|:---------------------|:---------------------------|:---------------------|
-| [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b/) | MSE student in [Biomedical Engineering](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) | <img src="images/harriet_he.jpg" width="200"/> |
-| [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b/) | MSE student in [Biomedical Engineering](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) | <img src="images/vani-padmakumar.jpg" width="200"/> |
-
-## ScM students
-
-| <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
-|:---------------------|:---------------------------|:---------------------|
-| [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics). Awarded the Kocherlakota award for best performance by a master’s student on the Biostatistics first-year comprehensive examination. | <img src="images/guan_gui.jpg" width="200"/> |
-| [Shengyi Li](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) | <img src="images/shengyi_li.jpg" width="175"/> |
-
-<br>
-
-## PhD students
-
-| <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
-|:---------------------|:---------------------------|:---------------------|
-| [Alyssa Columbus](https://alyssacolumbus.com/) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative) ([Student Spotlight](https://publichealth.jhu.edu/2024/student-spotlight-alyssa-columbus)). Jointly mentored with Brian Caffo. Fulbright US Scholar at the Ludwig Maximilian University of Munich for 2025-2026. | <img src="images/alyssa_columbus.jpeg" width="200"/> |
-| [Cindy Fang](https://mobile.twitter.com/findycang) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) | <img src="images/cindy_fang.jpeg" width="200"/> |
-| [Sowmya Parthiban](https://sowmya-parthiban.com) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) | <img src="images/sowmya_parthiban.png" width="200"/> |
-| [Kinnary Shah](https://www.linkedin.com/in/kinnary-shah) | PhD candidate in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) ([Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)). | <img src="images/kinnary_shah.jpg" width="200"/> |
-| [Jianing Yao](https://www.linkedin.com/in/jianing-yao-15156211b/) | PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) | <img src="/./images/jianing_yao.jpeg" width="200"/> |
-
-<br>
-
-## Postdocs
-
-| <img width="100/"/> Name | <img width="400/"/> Research topic | <img width="200/"/> Photo |
-|:---------------------|:---------------------------|:---------------------|
-| [Jacqueline R. Thompson](https://scholar.google.com/citations?hl=en&user=PhomahsAAAAJ) | Postdoc leading spatially-resolved transcriptomic projects to understand neuropsychiatric disorders. | <img src="images/jacqueline-thompson.jpeg" width="200"/> |
-| [Michael Totty](https://www.linkedin.com/in/mictott/) | Postdoc leading spatially-resolved transcriptomic projects to understand human psychiatric disorders. [NIH/NIMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104). | <img src="images/michael_totty.png" width="200"/> |
+|  |  | 
+| :----: | :---- | 
+| <img width="100" src="images/jacqueline-thompson.jpeg"> | <span class="h4">Jacqueline R. Thompson</span> <br> Biostatistics <br> [[Linkedin](https://www.linkedin.com/in/jacqueline-r-thompson-6a478a159/)] | 
+| <img width="100" src="images/michael_totty.png"> | <span class="h4">Michael Totty</span> <br> Postdoctoral fellow <br> Biostatistics <br> [[Linkedin](https://www.linkedin.com/in/mictott/)] [[Website](https://mictott.github.io/)] [[NIH/NIMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104)] |
+| <img width="100" src="images/alyssa_columbus.jpeg"> | <span class="h4">Alyssa Columbus</span> <br> PhD student <br> Biostatistics  <br> [[Linkedin](https://www.linkedin.com/in/acolum/)] [[Website](https://alyssacolumbus.com/)] [[Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative/)] [[Student Spotlight](https://publichealth.jhu.edu/2024/student-spotlight-alyssa-columbus)]  |
+| <img width="100" src="images/cindy_fang.jpeg"> | <span class="h4">Cindy Fang</span> <br> PhD student <br> Biostatistics  <br> [[Linkedin](https://www.linkedin.com/in/cindyfang1/)] [[Website](https://cindyfang70.github.io/)] |
+| <img width="100" src="images/sowmya_parthiban.png"> | <span class="h4">Sowmya Parthiban</span> <br> PhD student <br> Biostatistics  <br> [[Linkedin](linkedin.com/in/sowmya-parthiban)] [[Website](https://sowmya-parthiban.com)] |
+| <img width="100" src="images/kinnary_shah.jpg"> | <span class="h4">Kinnary Shah</span> <br> PhD student <br> Biostatistics  <br> [[Linkedin](https://www.linkedin.com/in/kinnary-shah)] [[Website](https://kinnaryshah.github.io/)] [[Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)] |
+| <img width="100" src="images/jianing_yao.jpeg"> | <span class="h4">Jianing Yao</span> <br> PhD student <br> Biostatistics <br> [[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)] |
+| <img width="100" src="images/harriet_he.jpg"> | <span class="h4">Harriet (Jiali) He</span> <br> MSE student <br> Biomedical Engineering <br> [[Linkedin](https://www.linkedin.com/in/harriet-he-a5ba4b21b/)] |
+| <img width="100" src="images/vani-padmakumar.jpg"> | <span class="h4">Vani Padmakumar</span> <br> MSE student <br> Biomedical Engineering <br> [[Linkedin](https://www.linkedin.com/in/vani-padmakumar-79880a22b/)] |
+| <img width="100" src="images/guan_gui.jpg"> | <span class="h4">Guan Gui</span> <br> ScM student <br> Biostatistics <br> [[Linkedin](https://www.linkedin.com/in/guan-gui-ab4b93217/)] |
+| <img width="100" src="images/shengyi_li.jpg"> | <span class="h4">Shengyi Li</span> <br> ScM student <br> Biostatistics |
+| <img width="100" src="images/daniel_chen.jpg"> | <span class="h4">Xingyi (Daniel) Chen</span> <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> [[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)] |
 
 <br>
 
