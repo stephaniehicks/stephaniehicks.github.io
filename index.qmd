@@ -4,14 +4,20 @@ image: images/stephanie_hicks.jpeg
 about:
   template: trestles
   links:
-    - text: Bluesky
-      url: "https://bsky.app/profile/stephaniehicks.bsky.social"
+    - text: Linkedin
+      icon: linkedin
+      url: "https://www.linkedin.com/in/hicksstephanie"
     - text: GitHub
       icon: github
       url: "https://github.com/stephaniehicks"
+    - text: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/stephaniehicks.bsky.social"
     - text: Email
+      icon: envelope
       url: "mailto:shicks19@jhu.edu"
     - text: Blog
+      icon: feather
       url: "blog.html" 
 comments: false
 ---
@@ -19,11 +25,9 @@ comments: false
 ::: column-body
 <font size= "5"> **Associate Professor of [Biomedical Engineering](https://www.bme.jhu.edu/) and [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at [Johns Hopkins University](https://www.jhu.edu/)** </font>
 
-Stephanie Hicks is an applied statistician working at the intersection of genomics and biomedical data science.
+Stephanie Hicks is an applied statistician working at the intersection of genomics and biomedical data science. 
 
-Her research addresses computational challenges in single-cell genomics, epigenomics, and spatial transcriptomics leading to an improved understanding of human health and disease. Specifically, she develops [computational methods](projects.qmd) using statistics and machine learning. She implements these methods in [open-source software](software.qmd) for the analysis of biomedical data.
-
-Her research philosophy is [problem-forward](https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/): she develops computational methods and software that are motivated by concrete problems, often with real-world, messy data. This philosophy permeates into her contributions to statistics and biomedical data science, [education](teaching.qmd), and service to the profession.
+She leads a research lab who develops computational methods using statistics and machine learning for the analysis of high-throughput genomics experiments. The lab has considerable expertise in the analysis of single-cell and spatial omics. Recent work ranges from developing scalable algorithms and deep learning models for genomic data, to examining how alternative splicing and RNA modifications change across aging and development, to understanding the molecular mechanisms of neuropsychiatric and neurodegenerative disorders. 
 
 She is also a co-host of the [The Corresponding Author](https://twitter.com/CorrespondAuth) podcast, member of the [Editorial Board for *Genome Biology*](https://genomebiology.biomedcentral.com/about/editorial-board), an Associate Editor for [Reproducibility](https://jasa-acs.github.io/repro-guide/) at the [*Journal of the American Statistical Association*](https://www.tandfonline.com/toc/uasa20/current), and co-founder of [R-Ladies Baltimore](https://rladies-baltimore.github.io).
 
@@ -47,11 +51,7 @@ She completed her postdoctoral training with [Rafael Irizarry](http://rafalab.df
 
 ## Awards
 
-She was selected for the [Teaching in the Health Sciences Young Investigator Award](https://community.amstat.org/tshs/awards/younginvestigatoraward) and the [COPSS Emerging Leader Award](https://magazine.amstat.org/blog/2021/05/01/2021-copss-award-winners/) (formerly known as the COPSS Leadership Academy Award) from the American Statistical Association (ASA), arguably the statistical profession’s most prestigious award for early career leaders in Statistics and Data Science. Most recently, she was awarded the [Myrto Lefkopoulou Distinguished Lectureship](https://www.hsph.harvard.edu/biostatistics/myrto-award) in 2023 from the Harvard T. H. Chan School of Public Health.
-
-```{=html}
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/k-0IAFhcLSM" frameborder="0" allowfullscreen></iframe></p>
-```
+She was selected for the [Teaching in the Health Sciences Young Investigator Award](https://community.amstat.org/tshs/awards/younginvestigatoraward) and the [COPSS Emerging Leader Award](https://magazine.amstat.org/blog/2021/05/01/2021-copss-award-winners/) from the American Statistical Association (ASA), arguably the statistical profession’s most prestigious award for early career leaders in Statistics and Data Science. Most recently, she was awarded the [Myrto Lefkopoulou Distinguished Lectureship](https://www.hsph.harvard.edu/biostatistics/myrto-award) in 2023 from the Harvard T. H. Chan School of Public Health and was elected as an ASA Fellow in 2025. 
 
 Github contributions last year
 
