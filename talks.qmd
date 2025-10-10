@@ -8,6 +8,7 @@ format:
 
 ## 2026
 
+-   Invited session on "Advancing computational approaches for long-read RNA-sequencing: from methods to applications". Joint Statistical Meetings. 2025 Aug 1-6. Boston, MA. USA.
 -   STATGEN Conference. 2026 May 18-20. Atlanta, GA. USA.
 -   UCLA Computational and Systems Biology Seminar Series. 2026 Apr 20. Los Angeles, CA. USA
 -   Invited session on "Recent Methodological Advances in Spatial Omics in an AI-Augmented Era". ENAR Conference. 2026 Mar 15-18. Indianapolis, IN. USA.
