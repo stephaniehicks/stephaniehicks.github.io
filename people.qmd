@@ -7,12 +7,14 @@ format:
         css: styles.css
 ---
 
+```{=html}
 <style>
 table{
   border-collapse: collapse;
   border-spacing: 0;
 }
 </style>
+```
 
 # Rotation
 
@@ -21,20 +23,21 @@ table{
 
 # Current
 
-|  |  | 
-| :----: | :---- | 
-| <img width="100" src="images/jacqueline-thompson.jpeg"> | <span class="h4">Jacqueline R. Thompson</span> <br> Biostatistics <br> [[Linkedin](https://www.linkedin.com/in/jacqueline-r-thompson-6a478a159/)] | 
-| <img width="100" src="images/michael_totty.png"> | <span class="h4">Michael Totty</span> <br> Postdoctoral fellow <br> Biostatistics <br> [[Linkedin](https://www.linkedin.com/in/mictott/)] [[Website](https://mictott.github.io/)] [[NIH/NIMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104)] |
-| <img width="100" src="images/alyssa_columbus.jpeg"> | <span class="h4">Alyssa Columbus</span> <br> PhD student <br> Biostatistics  <br> [[Linkedin](https://www.linkedin.com/in/acolum/)] [[Website](https://alyssacolumbus.com/)] [[Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative/)] [[Student Spotlight](https://publichealth.jhu.edu/2024/student-spotlight-alyssa-columbus)]  |
-| <img width="100" src="images/cindy_fang.jpeg"> | <span class="h4">Cindy Fang</span> <br> PhD student <br> Biostatistics  <br> [[Linkedin](https://www.linkedin.com/in/cindyfang1/)] [[Website](https://cindyfang70.github.io/)] |
-| <img width="100" src="images/sowmya_parthiban.png"> | <span class="h4">Sowmya Parthiban</span> <br> PhD student <br> Biostatistics  <br> [[Linkedin](linkedin.com/in/sowmya-parthiban)] [[Website](https://sowmya-parthiban.com)] |
-| <img width="100" src="images/kinnary_shah.jpg"> | <span class="h4">Kinnary Shah</span> <br> PhD student <br> Biostatistics  <br> [[Linkedin](https://www.linkedin.com/in/kinnary-shah)] [[Website](https://kinnaryshah.github.io/)] [[Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)] |
-| <img width="100" src="images/jianing_yao.jpeg"> | <span class="h4">Jianing Yao</span> <br> PhD student <br> Biostatistics <br> [[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)] |
-| <img width="100" src="images/harriet_he.jpg"> | <span class="h4">Harriet (Jiali) He</span> <br> MSE student <br> Biomedical Engineering <br> [[Linkedin](https://www.linkedin.com/in/harriet-he-a5ba4b21b/)] |
-| <img width="100" src="images/vani-padmakumar.jpg"> | <span class="h4">Vani Padmakumar</span> <br> MSE student <br> Biomedical Engineering <br> [[Linkedin](https://www.linkedin.com/in/vani-padmakumar-79880a22b/)] |
-| <img width="100" src="images/guan_gui.jpg"> | <span class="h4">Guan Gui</span> <br> ScM student <br> Biostatistics <br> [[Linkedin](https://www.linkedin.com/in/guan-gui-ab4b93217/)] |
-| <img width="100" src="images/shengyi_li.jpg"> | <span class="h4">Shengyi Li</span> <br> ScM student <br> Biostatistics |
-| <img width="100" src="images/daniel_chen.jpg"> | <span class="h4">Xingyi (Daniel) Chen</span> <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> [[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)] |
+|  |  |
+|:-------------------------------------:|:--------------------------------|
+| <img src="images/jacqueline-thompson.jpeg" width="150"/> | [Jacqueline R. Thompson]{.h4} <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jacqueline-r-thompson-6a478a159/)\] |
+| <img src="images/michael_totty.png" width="150"/> | [Michael Totty]{.h4} <br> Postdoctoral fellow <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/mictott/)\] \[[Website](https://mictott.github.io/)\] \[[NIH/NIMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104)\] |
+| <img src="images/alyssa_columbus.jpeg" width="150"/> | [Alyssa Columbus]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/acolum/)\] \[[Website](https://alyssacolumbus.com/)\] \[[Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative/)\] \[[Student Spotlight](https://publichealth.jhu.edu/2024/student-spotlight-alyssa-columbus)\] |
+| <img src="images/cindy_fang.jpeg" width="150"/> | [Cindy Fang]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/cindyfang1/)\] \[[Website](https://cindyfang70.github.io/)\] |
+| <img src="images/sowmya_parthiban.png" width="150"/> | [Sowmya Parthiban]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](linkedin.com/in/sowmya-parthiban)\] \[[Website](https://sowmya-parthiban.com)\] |
+| <img src="images/kinnary_shah.jpg" width="150"/> | [Kinnary Shah]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/kinnary-shah)\] \[[Website](https://kinnaryshah.github.io/)\] \[[Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)\] |
+| <img src="images/jianing_yao.jpeg" width="150"/> | [Jianing Yao]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)\] |
+| <img src="images/harriet_he.jpg" width="150"/> | [Harriet (Jiali) He]{.h4} <br> MSE student <br> Biomedical Engineering <br> \[[Linkedin](https://www.linkedin.com/in/harriet-he-a5ba4b21b/)\] |
+| <img src="images/vani-padmakumar.jpg" width="150"/> | [Vani Padmakumar]{.h4} <br> MSE student <br> Biomedical Engineering <br> \[[Linkedin](https://www.linkedin.com/in/vani-padmakumar-79880a22b/)\] |
+| <img src="images/tingjun_chen.jpg" width="150"/> | [Tingjun Chen]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/tingjun-chen-a19320343)\] |
+| <img src="images/guan_gui.jpg" width="150"/> | [Guan Gui]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/guan-gui-ab4b93217/)\] |
+| <img src="images/shengyi_li.jpg" width="150"/> | [Shengyi Li]{.h4} <br> ScM student <br> Biostatistics |
+| <img src="images/daniel_chen.jpg" width="150"/> | [Xingyi (Daniel) Chen]{.h4} <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> \[[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)\] |
 
 <br>
 
