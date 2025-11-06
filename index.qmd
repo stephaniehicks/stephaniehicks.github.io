@@ -25,9 +25,9 @@ comments: false
 ::: column-body
 <font size= "5"> **Associate Professor of [Biomedical Engineering](https://www.bme.jhu.edu/) and [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at [Johns Hopkins University](https://www.jhu.edu/)** </font>
 
-Stephanie Hicks is an applied statistician working at the intersection of genomics and biomedical data science. 
+Stephanie Hicks is an applied statistician working at the intersection of genomics and biomedical data science.
 
-She leads a research lab who develops computational methods using statistics and machine learning for the analysis of high-throughput genomics experiments. The lab has considerable expertise in the analysis of single-cell and spatial omics. Recent work ranges from developing scalable algorithms and deep learning models for genomic data, to examining how alternative splicing and RNA modifications change across aging and development, to understanding the molecular mechanisms of neuropsychiatric and neurodegenerative disorders. 
+She leads a research lab who develops computational methods using statistics and machine learning for the analysis of high-throughput genomics experiments. The lab has considerable expertise in the analysis of single-cell and spatial omics. Recent work ranges from developing scalable algorithms and deep learning models for genomic data, to examining how alternative splicing and RNA modifications change across aging and development, to understanding the molecular mechanisms of neuropsychiatric and neurodegenerative disorders.
 
 She is also a co-host of the [The Corresponding Author](https://twitter.com/CorrespondAuth) podcast, member of the [Editorial Board for *Genome Biology*](https://genomebiology.biomedcentral.com/about/editorial-board), an Associate Editor for [Reproducibility](https://jasa-acs.github.io/repro-guide/) at the [*Journal of the American Statistical Association*](https://www.tandfonline.com/toc/uasa20/current), and co-founder of [R-Ladies Baltimore](https://rladies-baltimore.github.io).
 
@@ -35,6 +35,7 @@ She is also a co-host of the [The Corresponding Author](https://twitter.com/Corr
 
 -   Associate Professor, [Biomedical Engineering](https://www.bme.jhu.edu/)
 -   Associate Professor, [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics)
+-   Faculty member, [Johns Hopkins Daa Science and AI Institute](https://ai.jhu.edu/)
 -   Faculty member, [Kavli Neuroscience Discovery Institute](https://kavlijhu.org/)
 -   Faculty member, [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu)
 -   Faculty member, [Center for Imaging Science](https://www.cis.jhu.edu)
@@ -51,7 +52,7 @@ She completed her postdoctoral training with [Rafael Irizarry](http://rafalab.df
 
 ## Awards
 
-She was selected for the [Teaching in the Health Sciences Young Investigator Award](https://community.amstat.org/tshs/awards/younginvestigatoraward) and the [COPSS Emerging Leader Award](https://magazine.amstat.org/blog/2021/05/01/2021-copss-award-winners/) from the American Statistical Association (ASA), arguably the statistical profession’s most prestigious award for early career leaders in Statistics and Data Science. Most recently, she was awarded the [Myrto Lefkopoulou Distinguished Lectureship](https://www.hsph.harvard.edu/biostatistics/myrto-award) in 2023 from the Harvard T. H. Chan School of Public Health and was elected as an ASA Fellow in 2025. 
+She was selected for the [Teaching in the Health Sciences Young Investigator Award](https://community.amstat.org/tshs/awards/younginvestigatoraward) and the [COPSS Emerging Leader Award](https://magazine.amstat.org/blog/2021/05/01/2021-copss-award-winners/) from the American Statistical Association (ASA), arguably the statistical profession’s most prestigious award for early career leaders in Statistics and Data Science. Most recently, she was awarded the [Myrto Lefkopoulou Distinguished Lectureship](https://www.hsph.harvard.edu/biostatistics/myrto-award) in 2023 from the Harvard T. H. Chan School of Public Health and was elected as an ASA Fellow in 2025.
 
 Github contributions last year
 
