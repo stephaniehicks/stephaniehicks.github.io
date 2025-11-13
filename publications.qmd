@@ -37,7 +37,7 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 
 ## 2025
 
-Wang, A, **Hicks SC**, Geman D, Younes L. (2025). [GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection](https://doi.org/10.1101/2024.10.30.621151). Accepted in *Genome Research*. (Accepted for and presented at [RECOMB 2025](https://recomb.org/recomb2025/)).
+Wang, A, **Hicks SC**, Geman D, Younes L. (2025). [GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection](https://www.genome.org/cgi/doi/10.1101/gr.280539.125). *Genome Research*. (Accepted for and presented at [RECOMB 2025](https://recomb.org/recomb2025/)).
 
 Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1038/s41593-025-02022-0). *Nature Neuroscience*.
 
