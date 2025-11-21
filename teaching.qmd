@@ -9,8 +9,8 @@ format:
 
 ### Genomics
 
+-   [Orchestrating Spatial Transcriptomics Analysis with Bioconductor](https://bioconductor.org/books/release/OSTA/) (OSTA). Online book that provides reproducible examples and discussion on computational analysis workflows for spatial omics data using Bioconductor in R. Online companion for a [manuscript](https://doi.org/10.1101/2025.11.20.688607) available as a preprint in *bioRxiv*.
 -   [Orchestrating Single-Cell Analysis in Bioconductor](http://bioconductor.org/books/release/OSCA/) (OSCA). Online book that teaches users how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore single-cell RNA-seq data (scRNA-seq) data. Online companion for a [manuscript published](https://doi.org/10.1038/s41592-019-0654-x) in *Nature Methods*.
--   [Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor](https://lmweber.org/OSTA-book) (OSTA). Online book that teaches users a computational analysis pipeline for spatially-resolved transcriptomics data.
 
 ### Data Science
 
@@ -57,7 +57,7 @@ We have written an [online book to help guide educators](https://www.opencasestu
 
 ## Teaching experience
 
-### Johns Hopkins University 
+### Johns Hopkins University
 
 #### Department of Biomedical Engineering, Johns Hopkins Whiting School of Engineering
 
@@ -74,7 +74,6 @@ We have written an [online book to help guide educators](https://www.opencasestu
 -   2021 \| **Instructor**, [Statistical Computing](https://stephaniehicks.com/jhustatcomputing2021) (PH.140.776)
 -   2019 \| **Co-instructor**, [Advanced Data Science I and II](https://jhu-advdatasci.github.io/2019/) (PH.140.711, PH.140.712)
 -   2018 \| **Co-instructor**, [Advanced Data Science I and II](https://jhu-advdatasci.github.io/2018/) (PH.140.711, PH.140.712)
-   
 
 ### Cold Spring Harbor Laboratories (CSHL)
 
@@ -82,7 +81,6 @@ We have written an [online book to help guide educators](https://www.opencasestu
 -   2022 \| **Co-Instructor**, [Computational Genomics](https://meetings.cshl.edu/courses.aspx?course=c-ecg&year=22) ([**Teaching materials**](https://www.stephaniehicks.com/cshlcg2022)).
 -   2022 \| **Co-Instructor**, [Statistical Analysis for Genome Scale Data](https://meetings.cshl.edu/courses.aspx?course=C-data&year=22) ([**Teaching materials**](https://www.stephaniehicks.com/cshlgsd2022)).
 -   2015 \| **Teaching Assistant**, [Statistical Methods for Functional Genomics](http://meetings.cshl.edu/courses.aspx?course=c-data&year=15).
-
 
 ### Dana-Farber Cancer Institute / Harvard
 
@@ -92,7 +90,7 @@ We have written an [online book to help guide educators](https://www.opencasestu
 -   2015 \| **Contributor and Discussion Leader**, Harvard edX
     -   Statistics and R for the Life Sciences (PH525.1x)
     -   Case study: DNA methylation data analysis (PH525.8x)
--   2014 \| **Lead Teaching Fellow**, [Data Science (CS109)](http://cs109.github.io/2014/), Harvard University. Supervised and guided 25 teaching fellows with over 300 students in the course. All course material available on  [GitHub](https://github.com/cs109/2014).
+-   2014 \| **Lead Teaching Fellow**, [Data Science (CS109)](http://cs109.github.io/2014/), Harvard University. Supervised and guided 25 teaching fellows with over 300 students in the course. All course material available on [GitHub](https://github.com/cs109/2014).
 -   2014 \| **Discussion Leader**, [Data Analysis for Genomics (PH525x)](http://genomicsclass.github.io/book/), Harvard edX.
 
 ### Rice University
