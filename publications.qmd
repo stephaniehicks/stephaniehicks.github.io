@@ -15,6 +15,10 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+Shah K$^{*,\dagger}$, Hou C$^{*,\dagger}$, Thompson JR$^*$, **Hicks SC**. (2025). [BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection](https://doi.org/10.64898/2025.12.09.693192). *bioRxiv*. 
+
+Chen X$^*$, Totty MS$^*$, **Hicks SC**. (2025). [Spotsweeper-py: spatially-aware quality control metrics for spatial omics data in the Python ecosystem](https://doi.org/10.64898/2025.12.06.692760). *bioRxiv*.
+
 Panwar P, Guo B$^*$, Zhou H$^*$, **Hicks SC**$^\ddagger$, Ghazanfar S$^\ddagger$. (2025). [ClustSIGNAL identifies cell types and subtypes using an adaptive smoothing approach for scalable spatial clustering](https://doi.org/10.64898/2025.11.30.691081). *bioRxiv*.
 
 Keuthan CJ, Parthiban S$^*$, Chang Y-Y, Shan X, Chang X, Yan E, Cavalier S, Timp W, **Hicks SC**$^\ddagger$, Zack DJ$^\ddagger$. (2025). [Dynamic changes in mRNA isoform usage during human retinal development](https://doi.org/10.1101/2025.11.26.689062). *bioRxiv*.
@@ -33,8 +37,6 @@ Goode TD, Bernstein M, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard 
 
 Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, Divecha HR, Miller RA, Kwon SH, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$^{\dagger}$, Martinowich K$^{\dagger}$. (2025). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://doi.org/10.1101/2025.07.14.664821). *bioRxiv*.
 
-Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2024). [Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus](https://doi.org/10.1101/2024.12.07.627362) *bioRxiv*.
-
 Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). *arXiv*.
 
 Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks SC**, Greene CS. (2023). [Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes](https://doi.org/10.1101/2023.06.14.544991). *bioRxiv*.
@@ -42,6 +44,8 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). *arXiv*.
 
 ## 2025
+
+Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2025). [Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus](https://doi.org/10.1101/2024.12.07.627362). Accepted in *Cell Reports*.
 
 Wang, A, **Hicks SC**, Geman D, Younes L. (2025). [GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection](https://www.genome.org/cgi/doi/10.1101/gr.280539.125). *Genome Research*. 
 

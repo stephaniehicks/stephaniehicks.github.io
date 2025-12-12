@@ -9,6 +9,7 @@ format:
 
 #### Software packages
 
+-   [R/BatchSVG](https://bioconductor.org/packages/BatchSVG) \| <img src="https://bioconductor.org/shields/years-in-bioc/BatchSVG.svg"/> \| R/Bioconductor package to identify features (such as spatially variable genes) that are associated with a covariate, such as a batch effect. ([Shah and Hou et al., 2025. *bioRxiv*](https://doi.org/10.64898/2025.12.09.693192))
 -   [R/HuBMAPR](https://bioconductor.org/packages/HuBMAPR) \| <img src="https://bioconductor.org/shields/years-in-bioc/HuBMAPR.svg"/> \| R/Bioconductor package that serves as an R Client for the HuBMAP Data Portal. ([Hou et al., 2025. *Bioinformatics Advances*](https://doi.org/10.1093/bioadv/vbaf048))
 -   [R/spoon](https://bioconductor.org/packages/spoon) \| <img src="https://bioconductor.org/shields/years-in-bioc/spoon.svg"/> \| R/Bioconductor package that addresses the mean-variance relationship in spatially resolved transcriptomics data. ([Shah et al., 2025. *Biostatistics*](https://doi.org/10.1093/biostatistics/kxaf012)).
 -   [R/SpotSweeper](https://bioconductor.org/packages/SpotSweeper) \| <img src="https://bioconductor.org/shields/years-in-bioc/SpotSweeper.svg"/> \| R/Bioconductor package that provides spatially-aware quality control metrics for spatial transcriptomics data. ([Totty et al., 2025. *Nature Methods*](https://doi.org/10.1038/s41592-025-02713-3)).
@@ -52,8 +53,7 @@ format:
 
 #### Software packages
 
--   [PyPI/spotsweeper](https://pypi.org/project/spotsweeper) \| Python implementation of functions that provides spatially-aware quality control metrics for spatial transcriptomics data. ([Totty et al., 2025. *Nature Methods*](https://doi.org/10.1038/s41592-025-02713-3)).
--   [PyPI/spotsweeper](https://pypi.org/project/visiumhd-utils) \| Tools for pre-processing and visualizing Visium HD spatial transcriptomics data.
+-   [PyPI/spotsweeper](https://pypi.org/project/spotsweeper) ![PyPI - Version](https://img.shields.io/pypi/v/spotsweeper) \| Python implementation of functions that provides spatially-aware quality control metrics for spatial transcriptomics data. ([Chen et al., 2025. *bioRxiv*](https://doi.org/10.1186/s13059-015-0679-0)).
 -   [Python/samui](https://github.com/chaichontat/samui) \| A performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments called [Samui Browser](https://samuibrowser.com). ([Sriworarat et al., 2023. *Biological Imaging*](https://doi.org/10.1017/S2633903X2300017X))
 -   [Python/minicore](https://github.com/dnbaker/minicore) \| Fast, generic library for constructing and clustering coresets on graphs, in metric spaces and under non-metric dissimilarity measures for count data and probability distributions. ([Baker et al., 2021. *ACM Conference on Bioinformatics*](https://pubmed.ncbi.nlm.nih.gov/34778889/)).
 
