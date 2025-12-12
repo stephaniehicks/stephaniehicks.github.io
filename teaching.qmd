@@ -66,6 +66,7 @@ We have written an [online book to help guide educators](https://www.opencasestu
 
 #### Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
 
+-   2025 \| **Instructor**, [Statistical Programming Paradigms and Workflows](https://stephaniehicks.com/jhustatprogramming2025) (PH.140.777)
 -   2024 \| **Instructor**, [Statistical Programming Paradigms and Workflows](https://stephaniehicks.com/jhustatprogramming2024) (PH.140.777)
 -   2023 \| **Instructor**, [Statistical Programming Paradigms and Workflows](https://stephaniehicks.com/jhustatprogramming2023) (PH.140.777)
 -   2022 \| **Instructor**, [Statistical Programming Paradigms and Workflows](https://stephaniehicks.com/jhustatprogramming2022) (PH.140.840)
