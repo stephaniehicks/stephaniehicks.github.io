@@ -15,6 +15,8 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+Fang C$^*$, Montgomery KD, Maguire SE, Ramnauth AD, Guo B$^*$, Miller R, Kleinmann JE, Hyde TM, Martinowich K$^\ddagger$, Maynard KR$^\ddagger$, Page SC$^\ddagger$, **Hicks SC**$^\ddagger$. (2025). [spaTransfer: transfer learning for single-cell and spatial transcriptomics data using non-negative matrix factorization](https://doi.org/10.64898/2025.12.12.694021). *bioRxiv*.
+
 Shah K$^{*,\dagger}$, Hou C$^{*,\dagger}$, Thompson JR$^*$, **Hicks SC**. (2025). [BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection](https://doi.org/10.64898/2025.12.09.693192). *bioRxiv*. 
 
 Chen X$^*$, Totty MS$^*$, **Hicks SC**. (2025). [Spotsweeper-py: spatially-aware quality control metrics for spatial omics data in the Python ecosystem](https://doi.org/10.64898/2025.12.06.692760). *bioRxiv*.

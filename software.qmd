@@ -61,6 +61,7 @@ format:
 
 #### Software packages
 
+-   [R/spaTransfer](https://github.com/cindyfang70/spaTransfer) \| Spatially aware unsupervised clustering for spatial omics data. ([Fang et al.(2025). *bioRxiv*](https://doi.org/10.64898/2025.12.12.694021)).
 -   [R/spatialMNN](https://github.com/Pixel-Dream/spatialMNN) \| Spatially aware unsupervised clustering for spatial omics data. ([Zhou et al.(2025). *Bioinformatics*](https://doi.org/10.1093/bioinformatics/btaf403)).
 -   [R/quantroSim](https://github.com/stephaniehicks/quantroSim) \| Supporting data simulation R-package for the *quantro* R-package to simulate gene expression and DNA methylation data.
 -   [R/explainr](https://github.com/hilaryparker/explainr) \| Translates S3 objects into text using standard templates in a simple and convenient way.
