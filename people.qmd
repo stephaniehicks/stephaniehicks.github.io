@@ -18,8 +18,8 @@ table{
 
 # Rotation
 
--   [Omodolapo Nurudeen](https://www.linkedin.com/in/omodolapo-nurudeen/) \| PhD student in [Biomedical Engineering](https://www.bme.jhu.edu) and [Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative)
 -   [Jan Matthias](https://www.linkedin.com/in/janmatthias) \| PhD student in [Biomedical Informatics and Data Science](https://bids.jhmi.edu/)
+-   [Jon Sundstrom](https://www.linkedin.com/in/jon-sundstrom-8670b31a8/) \| PhD student in [Human Genetics & Genomics](https://www.bme.jhu.edu)
 
 # Current
 
