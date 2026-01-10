@@ -8,8 +8,8 @@ format:
 
 ## 2026
 
--   Department of Statistics. University of British Columbia. Vancouver, CA. 
--   Invited session on "Advancing computational approaches for long-read RNA-sequencing: from methods to applications". Joint Statistical Meetings. 2025 Aug 1-6. Boston, MA. USA.
+-   Joint Statistical Meetings. 2026 Aug 1-6. Boston, MA. USA.
+-   Department of Statistics. University of British Columbia. 2026 Jun 8. Vancouver, BC. Canada. 
 -   STATGEN Conference. 2026 May 18-20. Atlanta, GA. USA.
 -   UCLA Computational and Systems Biology Seminar Series. 2026 Apr 20. Los Angeles, CA. USA
 -   Invited session on "Recent Methodological Advances in Spatial Omics in an AI-Augmented Era". ENAR Conference. 2026 Mar 15-18. Indianapolis, IN. USA.
@@ -232,7 +232,7 @@ Watch a pre-conference interview here:
 -   Estimating cell type composition in whole blood using differentially methylated regions at the [12th Annual Symposium and Poster Session on Genomics and Bioinformatics at Johns Hopkins University](http://genomics.jhu.edu/symposium.html). 2018 Oct 25. Baltimore, MD. USA.
 -   [Women in Statistics and Data Science Conference](https://ww2.amstat.org/meetings/wsds/2018/). Lead a project on building a children's book to highlight women in Statistics and Data Science.
 -   [Data Science Innovation Lab: Mathematical Challenges of Single Cell Dynamics](https://bigdatau.ini.usc.edu/innovationlab2018). Invited to participate in a five-day workshop with early-career biomedical and quantitative investigators to create collaborations, answering important questions in single cell data.
--   [Open challenges in Single-Cell RNA-Sequencing](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215111). Joint Statistical Meetings. 2018 Jul 29-Aug 2. Vancouver, CA.
+-   [Open challenges in Single-Cell RNA-Sequencing](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215111). Joint Statistical Meetings. 2018 Jul 29-Aug 2. Vancouver, BC. Canada.
 -   Open Challenges in Single-Cell RNA-Sequencing. [Single Cell Data Science: Making Sense of Data from Billions of Single Cells](http://lorentzcenter.nl/lc/web/2018/986/info.php3?wsid=986&venue=Oort). 2018 Jun 4-8. Lorentz Center, Leiden University, Netherlands.
 -   [Technology-independent estimation of cell type composition using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation). Office of Biostatistics Research at NHLBI/NIH. 2018 Apr 24. Bethesda, MD. USA.
 

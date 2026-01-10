@@ -19,8 +19,6 @@ Fang C$^*$, Montgomery KD, Maguire SE, Ramnauth AD, Guo B$^*$, Miller R, Kleinma
 
 Shah K$^{*,\dagger}$, Hou C$^{*,\dagger}$, Thompson JR$^*$, **Hicks SC**. (2025). [BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection](https://doi.org/10.64898/2025.12.09.693192). *bioRxiv*. 
 
-Chen X$^*$, Totty MS$^*$, **Hicks SC**. (2025). [Spotsweeper-py: spatially-aware quality control metrics for spatial omics data in the Python ecosystem](https://doi.org/10.64898/2025.12.06.692760). *bioRxiv*.
-
 Panwar P, Guo B$^*$, Zhou H$^*$, **Hicks SC**$^\ddagger$, Ghazanfar S$^\ddagger$. (2025). [ClustSIGNAL identifies cell types and subtypes using an adaptive smoothing approach for scalable spatial clustering](https://doi.org/10.64898/2025.11.30.691081). *bioRxiv*.
 
 Keuthan CJ, Parthiban S$^*$, Chang Y-Y, Shan X, Chang X, Yan E, Cavalier S, Timp W, **Hicks SC**$^\ddagger$, Zack DJ$^\ddagger$. (2025). [Dynamic changes in mRNA isoform usage during human retinal development](https://doi.org/10.1101/2025.11.26.689062). *bioRxiv*.
@@ -46,6 +44,8 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). *arXiv*.
 
 ## 2025
+
+Chen X$^*$, Totty MS$^*$, **Hicks SC**. (2026). [Spotsweeper-py: spatially-aware quality control metrics for spatial omics data in the Python ecosystem](https://f1000research.com/articles/15-33/v1). *F1000*.
 
 Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2025). [Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus](https://doi.org/10.1101/2024.12.07.627362). Accepted in *Cell Reports*.
 
