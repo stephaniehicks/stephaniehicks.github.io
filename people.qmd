@@ -18,8 +18,7 @@ table{
 
 # Rotation
 
--   [Jan Matthias](https://www.linkedin.com/in/janmatthias) \| PhD student in [Biomedical Informatics and Data Science](https://bids.jhmi.edu/)
--   [Jon Sundstrom](https://www.linkedin.com/in/jon-sundstrom-8670b31a8/) \| PhD student in [Human Genetics & Genomics](https://www.bme.jhu.edu)
+-   [Jon Sundstrom](https://www.linkedin.com/in/jon-sundstrom-8670b31a8/) \| PhD student in [Human Genetics & Genomics](https://www.hopkinsmedicine.org/genetic-medicine/education-training/human-genetics-genomics-graduate-program)
 
 # Current
 
@@ -29,6 +28,7 @@ table{
 | <img src="images/michael_totty.png" width="150"/> | [Michael Totty]{.h4} <br> Postdoctoral fellow <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/mictott/)\] \[[Website](https://mictott.github.io/)\] \[[NIH/NIMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104)\] |
 | <img src="images/alyssa_columbus.jpeg" width="150"/> | [Alyssa Columbus]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/acolum/)\] \[[Website](https://alyssacolumbus.com/)\] \[[Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative/)\] \[[Student Spotlight](https://publichealth.jhu.edu/2024/student-spotlight-alyssa-columbus)\] |
 | <img src="images/cindy_fang.jpeg" width="150"/> | [Cindy Fang]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/cindyfang1/)\] \[[Website](https://cindyfang70.github.io/)\] |
+| <img src="images/jan_matthias.png" width="150"/> | [Jan Matthias]{.h4} <br> PhD student <br> Biomedical Informatics and Data Science <br> \[[Linkedin](https://www.linkedin.com/in/janmatthias)\] 
 | <img src="images/sowmya_parthiban.png" width="150"/> | [Sowmya Parthiban]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](linkedin.com/in/sowmya-parthiban)\] \[[Website](https://sowmya-parthiban.com)\] |
 | <img src="images/kinnary_shah.jpg" width="150"/> | [Kinnary Shah]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/kinnary-shah)\] \[[Website](https://kinnaryshah.github.io/)\] \[[Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)\] |
 | <img src="images/jianing_yao.jpeg" width="150"/> | [Jianing Yao]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)\] |
