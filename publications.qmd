@@ -47,6 +47,8 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 
 ## 2026 
 
+**Hicks SC**, Korthauer K, Shen X, Yan J, Zhang HH. (2026). [Statistical Aspects of Trustworthy Machine Learning](https://doi.org/10.6339/26-JDS241EDI). *Journal of Data Science*. 
+
 Chen X$^*$, Totty MS$^*$, **Hicks SC**. (2026). [Spotsweeper-py: spatially-aware quality control metrics for spatial omics data in the Python ecosystem](https://f1000research.com/articles/15-33/v1). *F1000*.
 
 Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, **Hicks SC**, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2026). [Spatially resolved molecular sex differences at single-cell resolution in the adult human ventromedial and arcuate hypothalamus](https://doi.org/10.1016/j.celrep.2025.116877). *Cell Reports*.
