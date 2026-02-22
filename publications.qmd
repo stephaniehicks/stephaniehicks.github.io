@@ -15,7 +15,9 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
-Ivich A, Grieshober L, Davidson NR, Akatsu GY, Peres LC, **Hicks SC**, Marks JR, Schildkraut JM, Doherty JA$^\ddagger$, Greene CS$^\ddagger$. (2026). [Deconvolved tumor adipocyte proportions and high grade serous ovarian carcinoma survival](https://doi.org/10.64898/2026.01.14.699527). *bioRxiv*
+ Kwon SH$^\dagger$, Boyi Guo$^{*,\dagger}$, Fang C$^{*}$, Tippani M, Bach SV, Miller RA, Maguire SE, Iatrou A, Pertea G, Eagles NJ, Valentine MR, Oh S, Jajoo A, Balakundi V,  Du Y, Nguyen AB, Zhang R, Kaipa UM, Divecha HR, Lobana JS, Kleinman JE, Han S, Daskalakis NP, Hyde TM, Collado-Torres L, Page SC, Maynard KR$^\ddagger$, **Hicks SC**$^\ddagger$, Martinowich K$^\ddagger$. (2026). [Mapping spatially organized molecular and genetic signatures of schizophrenia across multiple scales in human prefrontal cortex](https://doi.org/10.64898/2026.02.16.706214). *bioRxiv*.
+
+Ivich A, Grieshober L, Davidson NR, Akatsu GY, Peres LC, **Hicks SC**, Marks JR, Schildkraut JM, Doherty JA$^\ddagger$, Greene CS$^\ddagger$. (2026). [Deconvolved tumor adipocyte proportions and high grade serous ovarian carcinoma survival](https://doi.org/10.64898/2026.01.14.699527). *bioRxiv*.
 
 Fang C$^*$, Montgomery KD, Maguire SE, Ramnauth AD, Guo B$^*$, Miller R, Kleinmann JE, Hyde TM, Martinowich K$^\ddagger$, Maynard KR$^\ddagger$, Page SC$^\ddagger$, **Hicks SC**$^\ddagger$. (2025). [spaTransfer: transfer learning for single-cell and spatial transcriptomics data using non-negative matrix factorization](https://doi.org/10.64898/2025.12.12.694021). *bioRxiv*.
 
