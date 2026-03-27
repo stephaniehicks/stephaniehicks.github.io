@@ -16,10 +16,6 @@ table{
 </style>
 ```
 
-# Rotation
-
--   [Jon Sundstrom](https://www.linkedin.com/in/jon-sundstrom-8670b31a8/) \| PhD student in [Human Genetics & Genomics](https://www.hopkinsmedicine.org/genetic-medicine/education-training/human-genetics-genomics-graduate-program)
-
 # Current
 
 |  |  |
@@ -67,7 +63,8 @@ table{
 
 ## Rotation Alumni
 
--   Omodolapo Nurudeen \| 2025 
+-   Jon Sundstrom \| 2026
+-   Omodolapo Nurudeen \| 2025
 -   Grace Brooks \| 2025
 -   Caleb Hallinan \| 2024
 -   Rafael dos Santos Peixoto \| 2022
