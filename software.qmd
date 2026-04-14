@@ -9,6 +9,7 @@ format:
 
 #### Software packages
 
+- [R/SpatialArtifacts](https://bioconductor.org/packages/SpatialArtifacts) \| <img src="https://bioconductor.org/shields/years-in-bioc/SpatialArtifacts.svg"/> \| R/Bioconductor package to identify tissue artifacts (such as dry edge effects) based on morphological image processing methods.
 -   [R/BatchSVG](https://bioconductor.org/packages/BatchSVG) \| <img src="https://bioconductor.org/shields/years-in-bioc/BatchSVG.svg"/> \| R/Bioconductor package to identify features (such as spatially variable genes) that are associated with a covariate, such as a batch effect. ([Shah and Hou et al., 2025. *bioRxiv*](https://doi.org/10.64898/2025.12.09.693192))
 -   [R/HuBMAPR](https://bioconductor.org/packages/HuBMAPR) \| <img src="https://bioconductor.org/shields/years-in-bioc/HuBMAPR.svg"/> \| R/Bioconductor package that serves as an R Client for the HuBMAP Data Portal. ([Hou et al., 2025. *Bioinformatics Advances*](https://doi.org/10.1093/bioadv/vbaf048))
 -   [R/spoon](https://bioconductor.org/packages/spoon) \| <img src="https://bioconductor.org/shields/years-in-bioc/spoon.svg"/> \| R/Bioconductor package that addresses the mean-variance relationship in spatially resolved transcriptomics data. ([Shah et al., 2025. *Biostatistics*](https://doi.org/10.1093/biostatistics/kxaf012)).
