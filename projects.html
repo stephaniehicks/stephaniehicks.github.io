@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-baf333abd407eb98d8b56c64a19f8930.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b1d37bc7e979b072e40b22a019ec33a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -146,20 +146,26 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#reproducible-research" id="toc-reproducible-research" class="nav-link active" data-scroll-target="#reproducible-research">Reproducible research</a></li>
-  <li><a href="#single-cell-data-science" id="toc-single-cell-data-science" class="nav-link" data-scroll-target="#single-cell-data-science">Single cell data science</a></li>
-  <li><a href="#spatial-omics-data-science" id="toc-spatial-omics-data-science" class="nav-link" data-scroll-target="#spatial-omics-data-science">Spatial omics data science</a>
+  <li><a href="#computational-methods-for-single-cell-and-spatial-omics" id="toc-computational-methods-for-single-cell-and-spatial-omics" class="nav-link active" data-scroll-target="#computational-methods-for-single-cell-and-spatial-omics">Computational methods for single-cell and spatial omics</a></li>
+  <li><a href="#deep-learning-and-genomics" id="toc-deep-learning-and-genomics" class="nav-link" data-scroll-target="#deep-learning-and-genomics">Deep learning and genomics</a></li>
+  <li><a href="#post-transcriptional-gene-regulation" id="toc-post-transcriptional-gene-regulation" class="nav-link" data-scroll-target="#post-transcriptional-gene-regulation">Post-transcriptional gene regulation</a>
   <ul class="collapse">
-  <li><a href="#deep-learning-and-ai" id="toc-deep-learning-and-ai" class="nav-link" data-scroll-target="#deep-learning-and-ai">Deep learning and AI</a></li>
+  <li><a href="#alternative-splicing-across-sleep-deprivation" id="toc-alternative-splicing-across-sleep-deprivation" class="nav-link" data-scroll-target="#alternative-splicing-across-sleep-deprivation">Alternative splicing across sleep deprivation</a></li>
+  <li><a href="#alternative-splicing-across-development" id="toc-alternative-splicing-across-development" class="nav-link" data-scroll-target="#alternative-splicing-across-development">Alternative splicing across development</a></li>
+  <li><a href="#rna-modifications" id="toc-rna-modifications" class="nav-link" data-scroll-target="#rna-modifications">RNA modifications</a></li>
   </ul></li>
-  <li><a href="#open-source-software" id="toc-open-source-software" class="nav-link" data-scroll-target="#open-source-software">Open-source software</a></li>
+  <li><a href="#neuropsychiatric-and-neurodegenerative-disorders" id="toc-neuropsychiatric-and-neurodegenerative-disorders" class="nav-link" data-scroll-target="#neuropsychiatric-and-neurodegenerative-disorders">Neuropsychiatric and neurodegenerative disorders</a></li>
+  <li><a href="#cancer" id="toc-cancer" class="nav-link" data-scroll-target="#cancer">Cancer</a></li>
+  <li><a href="#reproducible-research-in-biomedical-data-science" id="toc-reproducible-research-in-biomedical-data-science" class="nav-link" data-scroll-target="#reproducible-research-in-biomedical-data-science">Reproducible research in biomedical data science</a>
+  <ul class="collapse">
+  <li><a href="#open-source-software-development" id="toc-open-source-software-development" class="nav-link" data-scroll-target="#open-source-software-development">Open-source software development</a></li>
+  <li><a href="#benchmarking-and-reproducibility" id="toc-benchmarking-and-reproducibility" class="nav-link" data-scroll-target="#benchmarking-and-reproducibility">Benchmarking and reproducibility</a></li>
+  </ul></li>
   <li><a href="#data-science-education" id="toc-data-science-education" class="nav-link" data-scroll-target="#data-science-education">Data science education</a>
   <ul class="collapse">
   <li><a href="#open-case-studies" id="toc-open-case-studies" class="nav-link" data-scroll-target="#open-case-studies">Open Case Studies</a></li>
   <li><a href="#analytic-design-theory" id="toc-analytic-design-theory" class="nav-link" data-scroll-target="#analytic-design-theory">Analytic Design Theory</a></li>
   </ul></li>
-  <li><a href="#neuroscience" id="toc-neuroscience" class="nav-link" data-scroll-target="#neuroscience">Neuroscience</a></li>
-  <li><a href="#cancer" id="toc-cancer" class="nav-link" data-scroll-target="#cancer">Cancer</a></li>
   </ul>
 </nav>
     </div>
@@ -185,84 +191,110 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="reproducible-research" class="level1">
-<h1>Reproducible research</h1>
-<p>With the advent of large-scale and high-throughput data collection coupled with the creation and implementation of complex statistical algorithms for data analysis, the reproducibility of modern data analyses, meaning the ability of independent analysts to recreate the results claimed by the original authors using the original data and analysis techniques, has become an important topic of discussion. We contribute to developing reproducibility standards and best practices for the life sciences and in public health.</p>
+<section id="computational-methods-for-single-cell-and-spatial-omics" class="level2">
+<h2 class="anchored" data-anchor-id="computational-methods-for-single-cell-and-spatial-omics">Computational methods for single-cell and spatial omics</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/res-spotsweeper.png" class="img-fluid figure-img" style="width:100.0%" alt="Quality control with spotsweeper"></p>
+<figcaption>Using (A) annotated cortical layers in a single human DLPFC tissue, quality control applied to identify low-quality spots (red) using common QC approaches (B) across the tissue (global outliers), (C) using fixed thresholds (&gt;0.275 and &lt;500) compared to (D) SpotSweeper (Totty et al., 2025, Nature Methods).</figcaption>
+</figure>
+</div>
+<p>Single-cell and spatial omics technologies have become the most widely used high-throughput method for profiling RNA or proteins from individual cells either dissociated or in a 2D resolution. However, these technologies also bring new computational and methodological challenges. We develop computational tools to remove systematic errors and biases, such as related to sparsity or technical artifacts. In addition, we contribute scalable statistical and machine learning algorithms including data storage, data visualization, feature selection, and unsupervised clustering algorithms.</p>
+<p>Our methods that we develop for single-cell or spatial omics raise important questions around how to choose computational methods that are well-tested and trusted by the community. Also, we benchmark and systematically evaluate computational methods for their accuracy, usability and reproducibility. To support broad accessibility, we write online <a href="./teaching.html">books</a> to teach users how to make use of these state-of-the-art tools computational tools.</p>
+<hr>
 </section>
-<section id="single-cell-data-science" class="level1">
-<h1>Single cell data science</h1>
-<p>Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical and computational challenges.</p>
-<p>To address these challenges, we have developed statistical and machine learning methods to:</p>
+<section id="deep-learning-and-genomics" class="level2">
+<h2 class="anchored" data-anchor-id="deep-learning-and-genomics">Deep learning and genomics</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/res-proust.jpg" class="img-fluid figure-img" style="width:100.0%" alt="Predicting discrete spatial domains using spatial multi-omics data (Yao et al., 2025, Genome Research)"></p>
+<figcaption>Predicting discrete spatial domains using spatial multi-omics data (Yao et al., 2025, Genome Research).</figcaption>
+</figure>
+</div>
+<p>We develop state-of-the-art deep learning algorithms using generative models, contrastive self-supervised learning, and transformers to improve downstream tasks. Examples include:</p>
 <ul>
-<li>Store, access, visualize, and analyze scRNA-seq data</li>
-<li>Identify and to remove systematic errors and biases in scRNA-seq data</li>
-<li>Identify features and perform dimensionality reduction for count-based data</li>
-<li>Perform fast and memory-efficient unsupervised clustering scalable to millions of cells</li>
-<li>Identify differences between biological groups or conditions using count-based models either at the gene and isoform level</li>
-<li>Estimate the cell composition in heterogenous tissues using bulk RNA-sequencing</li>
-</ul>
-<p>We have also written <a href="http://bioconductor.org/books/release/OSCA/">books</a> to teach users how to make use of cutting-edge computational tools to process, analyze, visualize, and explore scRNA-seq data.</p>
-</section>
-<section id="spatial-omics-data-science" class="level1">
-<h1>Spatial omics data science</h1>
-<p>Spatially-resolved transcriptomics (SRT), the <a href="https://doi.org/10.1038/s41592-020-01042-x">Nature Methods 2020 Method of the Year</a> and spatial proteomics, the <a href="https://www.nature.com/articles/s41592-024-02565-3">Nature Methods 2024 Method of the Year</a>, are poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. The experimental technologies to generate these data are fast moving, but have generated lots of open questions and opportunities.</p>
-<p>In this space, we have developed statistical and machine learning methods to:</p>
-<ul>
-<li>Store, access, visualize, and analyze spatial transcriptomics data leveraging existing infrastructure borrowed from geomaps and geospatial file formats</li>
-<li>Perform spatially-aware quality control to reduce the noise in downstream analyses</li>
-<li>Identify spatially variable genes leveraging fast and scalable spatial statistics models</li>
-<li>Remove the mean variance relationship in spatial transcriptomics data</li>
-</ul>
-<section id="deep-learning-and-ai" class="level2">
-<h2 class="anchored" data-anchor-id="deep-learning-and-ai">Deep learning and AI</h2>
-<p>We are actively developing state-of-the-art deep learning algorithms using autoencoders, contrastive self-supervised learning, and transformers to improve downstream tasks in spatial omics.</p>
-<ul>
-<li>Predict spatial domains for multi-modal spatial omics data</li>
+<li>Predict tasks using multi-modal single-cell and spatial data</li>
 <li>Integrate and align multiple tissue sections to create 3D spatial atlases</li>
 <li>Fine tune sequence to function models for downstream spatial omics data analysis tasks</li>
 </ul>
+<hr>
+</section>
+<section id="post-transcriptional-gene-regulation" class="level2">
+<h2 class="anchored" data-anchor-id="post-transcriptional-gene-regulation">Post-transcriptional gene regulation</h2>
+<p>Most single-cell RNA-sequencing and spatially-resolved transcriptomics datasets are generated with short-read sequencing. By design, short-reads generated from most commercial platforms tag the extreme ends of the cDNA, primarily providing gene-level estimates. However, understanding post-transcriptional gene regulation is crucial for understanding human development and disease. We investigate how alternative splicing and RNA modifications change across development, the lifespan, and in disease. We also develop novel computational tools motivated through challenges of analyzing these data.</p>
+<section id="alternative-splicing-across-sleep-deprivation" class="level3">
+<h3 class="anchored" data-anchor-id="alternative-splicing-across-sleep-deprivation">Alternative splicing across sleep deprivation</h3>
+<p>We collaborate with the <a href="https://labs.wsu.edu/peixoto-lab/home/dr-lucia-peixoto/">Peixoto lab</a> and <a href="https://drisso.github.io/">Risso lab</a> to investigate how gene expression changes with sleep and cogitative impairments within Autism Spectrum Disorders.</p>
+<p>For example, using bulk and single-nuclei RNA-sequencing data, we found that sleep deprivation predominantly represses transcription at the gene and transcript level. We also found it leads to isoform switching (a type of alternative splicing) of more than 1500 genes and it also preferentially affects glutamatergic neurons.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/res-sleep.png" class="img-fluid figure-img" style="width:100.0%" alt="Sleep deprivation predominately represses transcription at the gene and transcript level"></p>
+<figcaption>Sleep deprivation predominately represses transcription at the (A) gene and (B) transcript level (Ford et al., 2024, iScience).</figcaption>
+</figure>
+</div>
+</section>
+<section id="alternative-splicing-across-development" class="level3">
+<h3 class="anchored" data-anchor-id="alternative-splicing-across-development">Alternative splicing across development</h3>
+<p>We collaborate with the <a href="https://scholar.google.com/citations?user=frmlZdAAAAAJ&amp;hl=en">Zack lab</a> and the <a href="https://scholar.google.com/citations?user=wTEx9N8AAAAJ&amp;hl=en">Timp lab</a> to generate and analyze long-read RNA-sequencing to investigate gene expression in retinal ganglion cells, the cells whose death in glaucoma leads to visual loss and potentially blindness.</p>
+<p>For example, using nanopore-based long-read RNA-sequencing (direct cDNA) on differentiating human stem cell-derived retinal organoids, we identified temporal patterns of isoform usage across developmental stages (Stage 1, 2, 3 – yellow, green, purple, respectively). We found that retinal organoids undergo dynamic shifts in isoform usage throughout differentiation, which were not necessarily accompanied with changes in overall gene expression, as was the case for many genes involved in the regulation of mRNA splicing itself.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/res-retina.png" class="img-fluid figure-img" style="width:90.0%" alt="Example of temporally regulated isoform switching REEP6, a retinal disease gene"></p>
+<figcaption>Example of temporally regulated isoform switching REEP6, a retinal disease gene (Keuthan and Parthiban et al., 2025, bioRxiv).</figcaption>
+</figure>
+</div>
+</section>
+<section id="rna-modifications" class="level3">
+<h3 class="anchored" data-anchor-id="rna-modifications">RNA modifications</h3>
+<p>RNA modifications are post-transcriptional chemical changes of nucleotides in RNA molecules (collectively referred to the “epitranscriptome”) that can change their properties, including their statiblity, splicing, cellular localization, structure, or recruitment of splicing factors. Using new experimental techniques like nanopore sequencing, this now allow us to directly sequence RNA molecules (native RNA) without the need for reverse transcription into cDNA or PCR amplification. Because of this, modifications to the RNA bases are retained and can be detected when sequencing these native RNA transcripts.</p>
+<p>Most recently, studies have begun to investigate how the epitranscriptomics infludences influences complex processes in the central nervous system (CNS), including neurogenesis, synapse formation, and neurodegeneration. However, this new data type comes with many computational challenges. We are working closely with collaborators to not only develop new computational methods, but also to use nanopore sequencing to resolve epitranscriptomic landscapes of the CNS in the context of the human retina, aging, and neurodegneerative disease processes.</p>
+<hr>
 </section>
 </section>
-<section id="open-source-software" class="level1">
-<h1>Open-source software</h1>
+<section id="neuropsychiatric-and-neurodegenerative-disorders" class="level2">
+<h2 class="anchored" data-anchor-id="neuropsychiatric-and-neurodegenerative-disorders">Neuropsychiatric and neurodegenerative disorders</h2>
+<p>Our lab closely collaborates with biologists and neuroscientists to use single-cell and spatial omics technologies to profile gene expression and proteins from postmortem human brain tissue to better understand the molecular mechanisms of neuropsychiatric and neurodegenerative disorders along with substance abuse disorders. We are part of the <a href="https://www.psychencode.org/phase-ii">PsychENCODE Project</a>, <a href="https://hubmapconsortium.org/">HuBMAP</a>, and collaborate with researchers at the <a href="https://www.libd.org">Lieber Institute for Brain Development</a>, in particular the labs of <a href="https://www.libd.org/team/keri-martinowich-phd/">Keri Martinowich</a>, <a href="https://www.libd.org/team/kristen-maynard-phd/">Kristen Maynard</a>, and <a href="https://www.libd.org/team/stephanie-cerceo-page-phd/">Stephanie Page</a>, on a variety of projects.</p>
+</section>
+<section id="cancer" class="level2">
+<h2 class="anchored" data-anchor-id="cancer">Cancer</h2>
+<p>We collaborate with <a href="https://greenelab.com/members/casey-greene.html">Greene lab</a> and <a href="https://uofuhealth.utah.edu/huntsman/labs/doherty">Doherty lab</a> studying biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk RNA-seq, scRNA-seq, and spatial transcriptomics data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs.</p>
+<hr>
+</section>
+<section id="reproducible-research-in-biomedical-data-science" class="level2">
+<h2 class="anchored" data-anchor-id="reproducible-research-in-biomedical-data-science">Reproducible research in biomedical data science</h2>
+<p>With the advent of large-scale and high-throughput data collection coupled with the creation and implementation of complex statistical algorithms for data analysis, the reproducibility of modern data analyses has become an important topic of discussion. I have contributed to developing reproducibility standards for machine learning in the life sciences, and also in public health. Finally, I develop practical guides and resources for data science education.</p>
+<section id="open-source-software-development" class="level3">
+<h3 class="anchored" data-anchor-id="open-source-software-development">Open-source software development</h3>
 <p>In addition to developing statistical methods, we care deeply about implementing our computational methods in <a href="./software.html">open-source software</a>. Bioconductor is an open-source, open-development software project in the R programming language for the analysis and comprehension of high-throughput genomics and molecular biology data. We contribute open-source software to CRAN and to <a href="https://bioconductor.org/">Bioconductor</a>, which helps make our computational methods broadly accessible to the research community.</p>
+</section>
+<section id="benchmarking-and-reproducibility" class="level3">
+<h3 class="anchored" data-anchor-id="benchmarking-and-reproducibility">Benchmarking and reproducibility</h3>
 <p>Benchmarking and evaluting open-source software packages for their accuracy, usability and reproducibility is also important to us. We have led systematic benchmark comparsions of:</p>
 <ul>
 <li>Computational methods that control the false discovery rate (FDR)</li>
 <li>Computational methods for scRNA-seq imputation</li>
 </ul>
+<hr>
 </section>
-<section id="data-science-education" class="level1">
-<h1>Data science education</h1>
+</section>
+<section id="data-science-education" class="level2">
+<h2 class="anchored" data-anchor-id="data-science-education">Data science education</h2>
 <p>An increase in demand for statistics and data science education has led to changes in curriculum, specifically an increase in computing. While this has led to more applied courses, students still struggle with effectively deriving knowledge from data and solving real-world problems. In 1999, Deborah Nolan and Terry Speed argued the solution was to teach courses through in-depth case studies derived from interesting scientific questions with nontrivial solutions that leave room for different analyses of the data. This innovative framework teaches the student to make important connections between the scientific question, data and statistical concepts that only come from hands-on experience analyzing data.</p>
-<section id="open-case-studies" class="level2">
-<h2 class="anchored" data-anchor-id="open-case-studies">Open Case Studies</h2>
+<section id="open-case-studies" class="level3">
+<h3 class="anchored" data-anchor-id="open-case-studies">Open Case Studies</h3>
 <p>To address this, we built the <a href="https://www.opencasestudies.org">Open Case Studies</a> (OCS) data science educational resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. This project was selected as a <a href="https://americanhealth.jhu.edu/open-case-studies">High-Impact Project</a> in 2019-2020 by the Bloomberg American Health Initiative and Bloomberg Philanthropies.</p>
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DgzBSOY5Yc8" frameborder="0" allowfullscreen="">
 </iframe>
 </p>
 </section>
-<section id="analytic-design-theory" class="level2">
-<h2 class="anchored" data-anchor-id="analytic-design-theory">Analytic Design Theory</h2>
+<section id="analytic-design-theory" class="level3">
+<h3 class="anchored" data-anchor-id="analytic-design-theory">Analytic Design Theory</h3>
 <p>The data science revolution has led to an increased interest in the practice of data analysis. While much has been written about <em>statistical thinking</em>, a complementary form of thinking that appears in the practice of data analysis is <em>design thinking</em> – the problem-solving process to understand the people for whom a product is being designed.</p>
 <p><a href="https://analyticdesigntheory.org/">Analytic Design Theory</a> is the study of how data analyses are conducted in the real world taking into account both the perspectives of both the analyst and the stakeholder or consumer of the analysis. Aspects of this include characterizing variation between analyses, developing measures of quality, success, and usability, modeling the analytic process, and considering what makes data analyses more or less trustworthy. Analytic design theory is driven by the need to scale the training of data analysis and to continuously improve the quality of analyses.</p>
-</section>
-</section>
-<section id="neuroscience" class="level1">
-<h1>Neuroscience</h1>
-<p>We part of <a href="https://www.psychencode.org/phase-ii">PsychENCODE Project</a>, <a href="https://hubmapconsortium.org/">HuBMAP</a>, and have several active and ongoing collaborations in neuroscience.</p>
-<ul>
-<li><p>We collaborate with the <a href="https://labs.wsu.edu/peixoto-lab/home/dr-lucia-peixoto/">Peixoto lab</a> and <a href="https://drisso.github.io/">Risso lab</a> to investigate how gene expression changes with sleep and cogitative impairments within Autism Spectrum Disorders.</p></li>
-<li><p>We collaborate with the <a href="https://scholar.google.com/citations?user=frmlZdAAAAAJ&amp;hl=en">Zack lab</a> and the <a href="https://scholar.google.com/citations?user=wTEx9N8AAAAJ&amp;hl=en">Timp lab</a> to generate and analyze long-read RNA-sequencing to investigate gene expression in retinal ganglion cells, the cells whose death in glaucoma leads to visual loss and potentially blindness.</p></li>
-<li><p>We collaborate with researchers at the <a href="https://www.libd.org">Lieber Institute for Brain Development</a>, in particular the labs of <a href="https://www.libd.org/team/keri-martinowich-phd/">Keri Martinowich</a>, <a href="https://www.libd.org/team/kristen-maynard-phd/">Kristen Maynard</a>, and <a href="https://www.libd.org/team/stephanie-cerceo-page-phd/">Stephanie Page</a>, on a variety of projects leveraging scRNA-seq and spatial transcriptomics technologies. We use these technologies to profilie postmorteum human tissue at a single-cell and/or spatial resolution to better understand the molecular mechanisms of neuropsychiatric, neurodevelopmental, and neurodegenerative disorders in the human brain.</p></li>
-</ul>
-</section>
-<section id="cancer" class="level1">
-<h1>Cancer</h1>
-<p>We collaborate with <a href="https://greenelab.com/members/casey-greene.html">Greene lab</a> and <a href="https://uofuhealth.utah.edu/huntsman/labs/doherty">Doherty lab</a> studying biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk RNA-seq, scRNA-seq, and spatial transcriptomics data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
