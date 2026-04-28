@@ -28,11 +28,7 @@ table{
 | <img src="images/sowmya_parthiban.png" width="150"/> | [Sowmya Parthiban]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](linkedin.com/in/sowmya-parthiban)\] \[[Website](https://sowmya-parthiban.com)\] |
 | <img src="images/kinnary_shah.jpg" width="150"/> | [Kinnary Shah]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/kinnary-shah)\] \[[Website](https://kinnaryshah.github.io/)\] \[[Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)\] |
 | <img src="images/jianing_yao.jpeg" width="150"/> | [Jianing Yao]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)\] |
-| <img src="images/harriet_he.jpg" width="150"/> | [Harriet (Jiali) He]{.h4} <br> MSE student <br> Biomedical Engineering <br> \[[Linkedin](https://www.linkedin.com/in/harriet-he-a5ba4b21b/)\] |
-| <img src="images/vani-padmakumar.jpg" width="150"/> | [Vani Padmakumar]{.h4} <br> MSE student <br> Biomedical Engineering <br> \[[Linkedin](https://www.linkedin.com/in/vani-padmakumar-79880a22b/)\] |
 | <img src="images/tingjun_chen.jpg" width="150"/> | [Tingjun Chen]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/tingjun-chen-a19320343)\] |
-| <img src="images/guan_gui.jpg" width="150"/> | [Guan Gui]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/guan-gui-ab4b93217/)\] |
-| <img src="images/shengyi_li.jpg" width="150"/> | [Shengyi Li]{.h4} <br> ScM student <br> Biostatistics |
 | <img src="images/daniel_chen.jpg" width="150"/> | [Xingyi (Daniel) Chen]{.h4} <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> \[[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)\] |
 
 <br>
@@ -53,6 +49,10 @@ table{
 
 ## Masters Alumni
 
+-   [Shengyi Li](https://www.linkedin.com/in/shengyi-l-7b358324b)  \| 2026 \| Next: PhD student, Yale University
+-   [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b)  \| 2026 \| Next: PhD student, MD Anderson
+-   [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/)    \| 2026 \| 
+-   [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b)  \| 2026 \|
 -   [Christine Hou](https://www.linkedin.com/in/christine-yiru-hou-086439221/) \| 2025 \| Next: PhD student, University of Wisconsin-Madison
 -   [Shu Luan](https://www.linkedin.com/in/shu-luan-a60a391a0/) \| 2025 \| Next: PhD student, University of Chicago
 -   [Weishan Li](https://www.linkedin.com/in/weishan-li-b57950307/) \| 2024 \| Next: PhD student, University of Colorado
