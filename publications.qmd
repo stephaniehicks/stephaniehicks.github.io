@@ -15,6 +15,8 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+He JH$^{*}$, Thompson JR$^{*}$, Totty M$^{*}$, **Hicks SC**. (2026). [SpatialArtifacts: a computational framework for tissue artifact detection in spatial transcriptomics data](https://www.biorxiv.org/content/10.64898/2026.05.15.725260v1). *bioRxiv*. 
+
 Kwon SH$^\dagger$, Boyi Guo$^{*,\dagger}$, Fang C$^{*}$, Tippani M, Bach SV, Miller RA, Maguire SE, Iatrou A, Pertea G, Eagles NJ, Valentine MR, Oh S, Jajoo A, Balakundi V, Du Y, Nguyen AB, Zhang R, Kaipa UM, Divecha HR, Lobana JS, Kleinman JE, Han S, Daskalakis NP, Hyde TM, Collado-Torres L, Page SC, Maynard KR$^\ddagger$, **Hicks SC**$^\ddagger$, Martinowich K$^\ddagger$. (2026). [Mapping spatially organized molecular and genetic signatures of schizophrenia across multiple scales in human prefrontal cortex](https://doi.org/10.64898/2026.02.16.706214). *bioRxiv*.
 
 Ivich A, Grieshober L, Davidson NR, Akatsu GY, Peres LC, **Hicks SC**, Marks JR, Schildkraut JM, Doherty JA$^\ddagger$, Greene CS$^\ddagger$. (2026). [Deconvolved tumor adipocyte proportions and high grade serous ovarian carcinoma survival](https://doi.org/10.64898/2026.01.14.699527). *bioRxiv*.
@@ -39,8 +41,6 @@ Ravichandran P$^{*,\dagger}$, Bach SV$^{\dagger}$, Phillips RA$^{*}$, Valentine 
 
 Goode TD, Bernstein M, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer-Cheren MD, Chung A, Duan X, Macosko E, **Hicks SC**, Zweifel L, Sahay A. (2025). [A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding](https://pubmed.ncbi.nlm.nih.gov/39149322/). *bioRxiv*.
 
-Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, Divecha HR, Miller RA, Kwon SH, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$^{\dagger}$, Martinowich K$^{\dagger}$. (2025). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://doi.org/10.1101/2025.07.14.664821). *bioRxiv*.
-
 Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). *arXiv*.
 
 Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks SC**, Greene CS. (2023). [Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes](https://doi.org/10.1101/2023.06.14.544991). *bioRxiv*.
@@ -48,6 +48,8 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). *arXiv*.
 
 ## 2026
+
+Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, AlGrain HA, Divecha HR, Miller RA, Siewe FRM, Kwon SH, Del Rosario Alvia I, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$^{\dagger}$, Martinowich K$^{\dagger}$. (2026). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://doi.org/10.1101/2025.07.14.664821). Accepted in *Cell Reports*.
 
 **Hicks SC**, Korthauer K, Shen X, Yan J, Zhang HH. (2026). [Statistical Aspects of Trustworthy Machine Learning](https://doi.org/10.6339/26-JDS241EDI). *Journal of Data Science*.
 

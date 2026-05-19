@@ -29,7 +29,7 @@ table{
 | <img src="images/kinnary_shah.jpg" width="150"/> | [Kinnary Shah]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/kinnary-shah)\] \[[Website](https://kinnaryshah.github.io/)\] \[[Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)\] |
 | <img src="images/jianing_yao.jpeg" width="150"/> | [Jianing Yao]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)\] |
 | <img src="images/tingjun_chen.jpg" width="150"/> | [Tingjun Chen]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/tingjun-chen-a19320343)\] |
-| <img src="images/daniel_chen.jpg" width="150"/> | [Xingyi (Daniel) Chen]{.h4} <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> \[[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)\] |
+| <img src="images/daniel_chen.jpg" width="150"/> | [Xingyi (Daniel) Chen]{.h4} <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> \[[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)\] \[[MSKCC QSURE Awardee](https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure)\]  |
 
 <br>
 
