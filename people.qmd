@@ -26,7 +26,6 @@ table{
 | <img src="images/cindy_fang.jpeg" width="150"/> | [Cindy Fang]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/cindyfang1/)\] \[[Website](https://cindyfang70.github.io/)\] |
 | <img src="images/jan_matthias.png" width="150"/> | [Jan Matthias]{.h4} <br> PhD student <br> Biomedical Informatics and Data Science <br> \[[Linkedin](https://www.linkedin.com/in/janmatthias)\] \[[Website](https://janmatthias1.github.io)\] |
 | <img src="images/sowmya_parthiban.png" width="150"/> | [Sowmya Parthiban]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](linkedin.com/in/sowmya-parthiban)\] \[[Website](https://sowmya-parthiban.com)\] |
-| <img src="images/kinnary_shah.jpg" width="150"/> | [Kinnary Shah]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/kinnary-shah)\] \[[Website](https://kinnaryshah.github.io/)\] \[[Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias)\] |
 | <img src="images/jianing_yao.jpeg" width="150"/> | [Jianing Yao]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)\] |
 | <img src="images/tingjun_chen.jpg" width="150"/> | [Tingjun Chen]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/tingjun-chen-a19320343)\] |
 | <img src="images/daniel_chen.jpg" width="150"/> | [Xingyi (Daniel) Chen]{.h4} <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> \[[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)\] \[[MSKCC QSURE Awardee](https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure)\]  |
@@ -44,15 +43,16 @@ table{
 
 ## PhD Alumni
 
+- [Kinnary Shah](https://www.linkedin.com/in/kinnary-shah) \| [Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias) \| 2026 \| Next: Manager, Pfizer
 -   [Erik Nelson](https://www.linkedin.com/in/erik-david-nelson) \| 2024 \| Next: Computational Biologist, Translational Omics at GSK
 -   [Albert Kuo](https://albertkuo.me) \| 2022 \| Next: Data Scientist, Amazon
 
 ## Masters Alumni
 
 -   [Shengyi Li](https://www.linkedin.com/in/shengyi-l-7b358324b)  \| 2026 \| Next: PhD student, Yale University
--   [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b)  \| 2026 \| Next: PhD student, MD Anderson
--   [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/)    \| 2026 \| 
--   [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b)  \| 2026 \|
+-   [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b)  \| 2026 \| Next: PhD student, University of Texas MD Anderson
+-   [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/)    \| 2026 \| PhD student, Karolinska Institutet
+-   [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b)  \| 2026
 -   [Christine Hou](https://www.linkedin.com/in/christine-yiru-hou-086439221/) \| 2025 \| Next: PhD student, University of Wisconsin-Madison
 -   [Shu Luan](https://www.linkedin.com/in/shu-luan-a60a391a0/) \| 2025 \| Next: PhD student, University of Chicago
 -   [Weishan Li](https://www.linkedin.com/in/weishan-li-b57950307/) \| 2024 \| Next: PhD student, University of Colorado
