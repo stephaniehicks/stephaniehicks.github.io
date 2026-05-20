@@ -37,10 +37,6 @@ Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, **
 
 Johnson CM, Li W$^*$, Solhjoo S, Madan V, Ali I, Nash K, **Hicks SC**, Timp W. (2025). [Single-cell RNA sequencing identifies subtypes of cancer-associated fibroblasts in early and late stages of mycosis fungoides](https://doi.org/10.1101/2025.09.07.25335167). *medRxiv*.
 
-Ravichandran P$^{*,\dagger}$, Bach SV$^{\dagger}$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, **Hicks SC**$^{\ddagger}$, Maynard K$^{\ddagger}$. (2025). [Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens](https://doi.org/10.1101/2025.09.10.675374). *bioRxiv*.
-
-Goode TD, Bernstein M, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer-Cheren MD, Chung A, Duan X, Macosko E, **Hicks SC**, Zweifel L, Sahay A. (2025). [A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding](https://pubmed.ncbi.nlm.nih.gov/39149322/). *bioRxiv*.
-
 Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). *arXiv*.
 
 Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks SC**, Greene CS. (2023). [Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes](https://doi.org/10.1101/2023.06.14.544991). *bioRxiv*.
@@ -49,9 +45,13 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 
 ## 2026
 
+Ravichandran P$^{*,\dagger}$, Bach SV$^{\dagger}$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, **Hicks SC**$^{\ddagger}$, Maynard K$^{\ddagger}$. (2026). [Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens](https://doi.org/10.1101/2025.09.10.675374). Accepted in *Neuron*.
+
 Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, AlGrain HA, Divecha HR, Miller RA, Siewe FRM, Kwon SH, Del Rosario Alvia I, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$^{\dagger}$, Martinowich K$^{\dagger}$. (2026). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://doi.org/10.1101/2025.07.14.664821). Accepted in *Cell Reports*.
 
 **Hicks SC**, Korthauer K, Shen X, Yan J, Zhang HH. (2026). [Statistical Aspects of Trustworthy Machine Learning](https://doi.org/10.6339/26-JDS241EDI). *Journal of Data Science*.
+
+Goode TD, Bernstein MX, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer MD, Chung A, Duan X, Macosko E, **Hicks SC**, Zweifel L, Sahay A. (2026). [A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding](https://doi.org/10.1016/j.neuron.2026.01.025). *Neuron*.
 
 Chen X$^*$, Totty MS$^*$, **Hicks SC**. (2026). [Spotsweeper-py: spatially-aware quality control metrics for spatial omics data in the Python ecosystem](https://f1000research.com/articles/15-33/v1). *F1000*.
 
