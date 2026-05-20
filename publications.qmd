@@ -15,7 +15,7 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
-He JH$^{*}$, Thompson JR$^{*}$, Totty M$^{*}$, **Hicks SC**. (2026). [SpatialArtifacts: a computational framework for tissue artifact detection in spatial transcriptomics data](https://www.biorxiv.org/content/10.64898/2026.05.15.725260v1). *bioRxiv*. 
+He JH$^{*}$, Thompson JR$^{*}$, Totty M$^{*}$, **Hicks SC**. (2026). [SpatialArtifacts: a computational framework for tissue artifact detection in spatial transcriptomics data](https://doi.org/10.64898/2026.05.15.725260). *bioRxiv*. 
 
 Kwon SH$^\dagger$, Boyi Guo$^{*,\dagger}$, Fang C$^{*}$, Tippani M, Bach SV, Miller RA, Maguire SE, Iatrou A, Pertea G, Eagles NJ, Valentine MR, Oh S, Jajoo A, Balakundi V, Du Y, Nguyen AB, Zhang R, Kaipa UM, Divecha HR, Lobana JS, Kleinman JE, Han S, Daskalakis NP, Hyde TM, Collado-Torres L, Page SC, Maynard KR$^\ddagger$, **Hicks SC**$^\ddagger$, Martinowich K$^\ddagger$. (2026). [Mapping spatially organized molecular and genetic signatures of schizophrenia across multiple scales in human prefrontal cortex](https://doi.org/10.64898/2026.02.16.706214). *bioRxiv*.
 
