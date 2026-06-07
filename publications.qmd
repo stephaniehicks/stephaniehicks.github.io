@@ -47,7 +47,7 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 
 Ravichandran P$^{*,\dagger}$, Bach SV$^{\dagger}$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, **Hicks SC**$^{\ddagger}$, Maynard K$^{\ddagger}$. (2026). [Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens](https://doi.org/10.1101/2025.09.10.675374). Accepted in *Neuron*.
 
-Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, AlGrain HA, Divecha HR, Miller RA, Siewe FRM, Kwon SH, Del Rosario Alvia I, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$^{\dagger}$, Martinowich K$^{\dagger}$. (2026). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://doi.org/10.1101/2025.07.14.664821). Accepted in *Cell Reports*.
+Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, AlGrain HA, Divecha HR, Miller RA, Siewe FRM, Kwon SH, Del Rosario Alvia I, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$^{\dagger}$, Martinowich K$^{\dagger}$. (2026). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://www.sciencedirect.com/science/article/pii/S2211124726005784). *Cell Reports*.
 
 **Hicks SC**, Korthauer K, Shen X, Yan J, Zhang HH. (2026). [Statistical Aspects of Trustworthy Machine Learning](https://doi.org/10.6339/26-JDS241EDI). *Journal of Data Science*.
 
