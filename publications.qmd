@@ -15,6 +15,10 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+Lee J, Min H, Casingal C, Ledford AT, Lee H, Ma W, Gao Y, Mao H, McCoy ES, Xing L, Fang C$^{*}$, Kwon SH, Zylka MJ, Martinowich K, Maynard KR, **Hicks SC**, Anton ES, Won H. (2026). [Perturbation of genes linked to common schizophrenia risk variants identifies cilia programs](https://doi.org/10.64898/2026.06.09.731172). *bioRxiv*
+
+Kim J, **Hicks SC**, Maynard K, Pavlidis P, Ciernia AV. (2026). [Spatially-resolved integration of microglia morphological diversity and gene expression using Visium with protein co-detection](https://doi.org/10.64898/2026.06.05.730425). *bioRxiv*. 
+
 He JH$^{*}$, Thompson JR$^{*}$, Totty M$^{*}$, **Hicks SC**. (2026). [SpatialArtifacts: a computational framework for tissue artifact detection in spatial transcriptomics data](https://doi.org/10.64898/2026.05.15.725260). *bioRxiv*. 
 
 Kwon SH$^\dagger$, Boyi Guo$^{*,\dagger}$, Fang C$^{*}$, Tippani M, Bach SV, Pertea G, Miller RA, Maguire SE, Iatrou A, Eagles NJ, Valentine MR, Oh S, Jajoo A, Balakundi V, Du Y, Nguyen AB, Zhang R, Kaipa UM, Divecha HR, Lobana JS, Kleinman JE, Han S, Daskalakis NP, Hyde TM, Collado-Torres L, Page SC, Maynard KR$^\ddagger$, **Hicks SC**$^\ddagger$, Martinowich K$^\ddagger$. (2026). [Mapping spatially organized molecular and genetic signatures of schizophrenia across multiple scales in human prefrontal cortex](https://doi.org/10.64898/2026.02.16.706214). *bioRxiv*.
