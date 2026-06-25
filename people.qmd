@@ -28,7 +28,7 @@ table{
 | <img src="images/sowmya_parthiban.png" width="150"/> | [Sowmya Parthiban]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](linkedin.com/in/sowmya-parthiban)\] \[[Website](https://sowmya-parthiban.com)\] |
 | <img src="images/jianing_yao.jpeg" width="150"/> | [Jianing Yao]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)\] |
 | <img src="images/tingjun_chen.jpg" width="150"/> | [Tingjun Chen]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/tingjun-chen-a19320343)\] |
-| <img src="images/daniel_chen.jpg" width="150"/> | [Xingyi (Daniel) Chen]{.h4} <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> \[[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)\] \[[MSKCC QSURE Awardee](https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure)\]  |
+| <img src="images/daniel_chen.jpg" width="150"/> | [Xingyi (Daniel) Chen]{.h4} <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> \[[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)\] \[[MSKCC QSURE Awardee](https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure)\] |
 
 <br>
 
@@ -36,62 +36,62 @@ table{
 
 ## Postdoc Alumni
 
--   [Lukas Weber](https://lmweber.github.io) \| Assistant Professor, Boston University, Biostatistics \| [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850)
--   [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) \| Assistant Professor, Columbia University, Biostatistics \| [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
--   [Sean Maden](https://metamaden.github.io/) \| Senior Data Analyst
--   [Boyi Guo](https://boyiguo1.github.io) \| Assistant Professor, University of Utah, Biostatistics
+- [Lukas Weber](https://lmweber.github.io) \| Assistant Professor, Boston University, Biostatistics \| [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850)
+- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) \| Assistant Professor, Columbia University, Biostatistics \| [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
+- [Sean Maden](https://metamaden.github.io/) \| Senior Data Analyst
+- [Boyi Guo](https://boyiguo1.github.io) \| Assistant Professor, University of Utah, Biostatistics
 
 ## PhD Alumni
 
 - [Kinnary Shah](https://www.linkedin.com/in/kinnary-shah) \| [Student Spotlight](https://publichealth.jhu.edu/departments/biostatistics/people/brain-mapping-and-bias) \| 2026 \| Next: Manager, Pfizer
--   [Erik Nelson](https://www.linkedin.com/in/erik-david-nelson) \| 2024 \| Next: Computational Biologist, Translational Omics at GSK
--   [Albert Kuo](https://albertkuo.me) \| 2022 \| Next: Data Scientist, Amazon
+- [Erik Nelson](https://www.linkedin.com/in/erik-david-nelson) \| 2024 \| Next: Computational Biologist, Translational Omics at GSK
+- [Albert Kuo](https://albertkuo.me) \| 2022 \| Next: Data Scientist, Amazon
 
 ## Masters Alumni
 
--   [Shengyi Li](https://www.linkedin.com/in/shengyi-l-7b358324b)  \| 2026 \| Next: PhD student, Yale University
--   [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b)  \| 2026 \| Next: PhD student, University of Texas MD Anderson
--   [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/)    \| 2026 \| PhD student, Karolinska Institutet
--   [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b)  \| 2026
--   [Christine Hou](https://www.linkedin.com/in/christine-yiru-hou-086439221/) \| 2025 \| Next: PhD student, University of Wisconsin-Madison
--   [Shu Luan](https://www.linkedin.com/in/shu-luan-a60a391a0/) \| 2025 \| Next: PhD student, University of Chicago
--   [Weishan Li](https://www.linkedin.com/in/weishan-li-b57950307/) \| 2024 \| Next: PhD student, University of Colorado
--   [Haowen Zhou](https://pixel-dream.github.io/) \| 2023 \| Next: PhD student, UC San Diego
--   [Jianing Yao](https://www.linkedin.com/in/jianing-yao-15156211b/) \| 2023 \| Next: PhD student, Johns Hopkins
--   [Yongbao Zhuang](https://yzhuang8.com/home/) \| 2022 \| Next: PhD student, Karolinska Institute
--   [Nathan Dyjack](https://ntdyjack.github.io/) \| 2021 \| Next: Data Scientist, UAB Medical Center ([Alumni Spotlight](https://publichealth.jhu.edu/2025/alumni-spotlight-nathan-dyjack-scm-22))
+- [Shengyi Li](https://www.linkedin.com/in/shengyi-l-7b358324b) \| 2026 \| Next: PhD student, Yale University
+- [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b) \| 2026 \| Next: PhD student, University of Texas MD Anderson
+- [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) \| 2026 \| PhD student, Swiss Federal Technology Institute of Lausanne (EPFL)
+- [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b) \| 2026
+- [Christine Hou](https://www.linkedin.com/in/christine-yiru-hou-086439221/) \| 2025 \| Next: PhD student, University of Wisconsin-Madison
+- [Shu Luan](https://www.linkedin.com/in/shu-luan-a60a391a0/) \| 2025 \| Next: PhD student, University of Chicago
+- [Weishan Li](https://www.linkedin.com/in/weishan-li-b57950307/) \| 2024 \| Next: PhD student, University of Colorado
+- [Haowen Zhou](https://pixel-dream.github.io/) \| 2023 \| Next: PhD student, UC San Diego
+- [Jianing Yao](https://www.linkedin.com/in/jianing-yao-15156211b/) \| 2023 \| Next: PhD student, Johns Hopkins
+- [Yongbao Zhuang](https://yzhuang8.com/home/) \| 2022 \| Next: PhD student, Karolinska Institute
+- [Nathan Dyjack](https://ntdyjack.github.io/) \| 2021 \| Next: Data Scientist, UAB Medical Center ([Alumni Spotlight](https://publichealth.jhu.edu/2025/alumni-spotlight-nathan-dyjack-scm-22))
 
 ## Rotation Alumni
 
--   Jon Sundstrom \| 2026
--   Omodolapo Nurudeen \| 2025
--   Grace Brooks \| 2025
--   Caleb Hallinan \| 2024
--   Rafael dos Santos Peixoto \| 2022
--   Chaichontat Sriworarat \| 2022
+- Jon Sundstrom \| 2026
+- Omodolapo Nurudeen \| 2025
+- Grace Brooks \| 2025
+- Caleb Hallinan \| 2024
+- Rafael dos Santos Peixoto \| 2022
+- Chaichontat Sriworarat \| 2022
 
 ## Undergraduate Alumni
 
--   Yilin Chen \| 2022
--   Cynthia Lo \| 2022
+- Yilin Chen \| 2022
+- Cynthia Lo \| 2022
 
 ## Past Research Assistants
 
--   Michael Ontiveros
--   Kexin (Sheena) Wang
--   Ruoxi Liu
--   Alexandra Stephens
--   Hanchao (Ted) Zhang
--   Pei-Lun (Perry) Kuo
+- Michael Ontiveros
+- Kexin (Sheena) Wang
+- Ruoxi Liu
+- Alexandra Stephens
+- Hanchao (Ted) Zhang
+- Pei-Lun (Perry) Kuo
 
 ## Former Friends of the Lab (FFOL)
 
--   [Prashanthi Ravichandran](https://www.linkedin.com/in/prashanthi-ravichandran-96a363a0)
--   [Anthony Ramnauth](https://www.linkedin.com/in/anthonyramnauth/)
--   [Madhavi Tippani](https://www.linkedin.com/in/madhavi-tippani/)
--   [Siqi (Alice) Chen](https://bcmb.bs.jhmi.edu/people/siqi-alice-chen)
--   [Carrie Wright](https://carriewright11.github.io/)
+- [Prashanthi Ravichandran](https://www.linkedin.com/in/prashanthi-ravichandran-96a363a0)
+- [Anthony Ramnauth](https://www.linkedin.com/in/anthonyramnauth/)
+- [Madhavi Tippani](https://www.linkedin.com/in/madhavi-tippani/)
+- [Siqi (Alice) Chen](https://bcmb.bs.jhmi.edu/people/siqi-alice-chen)
+- [Carrie Wright](https://carriewright11.github.io/)
 
 ## Visitors
 
--   [Andrea Sottosanti](https://andreasottosanti.github.io) \| 2022
+- [Andrea Sottosanti](https://andreasottosanti.github.io) \| 2022
