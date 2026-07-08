@@ -9,17 +9,17 @@ format:
 The following are a selected set of publications. To see a list with all of papers from Stephanie Hicks, you can visit [Google Scholar](https://scholar.google.com/citations?user=4T4qnL4AAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0002-7858-0231).
 
 ::: callout-tip
--   The $^*$ indicates a mentored student or post-doctoral fellow.
--   The $\dagger$ and $\ddagger$ indicate co-first and co-last authors, respectively.
+- The $^*$ indicates a mentored student or post-doctoral fellow.
+- The $\dagger$ and $\ddagger$ indicate co-first and co-last authors, respectively.
 :::
 
 ## Preprints
 
 Lee J, Min H, Casingal C, Ledford AT, Lee H, Ma W, Gao Y, Mao H, McCoy ES, Xing L, Fang C$^{*}$, Kwon SH, Zylka MJ, Martinowich K, Maynard KR, **Hicks SC**, Anton ES, Won H. (2026). [Perturbation of genes linked to common schizophrenia risk variants identifies cilia programs](https://doi.org/10.64898/2026.06.09.731172). *bioRxiv*.
 
-Kim J, **Hicks SC**, Maynard K, Pavlidis P$\ddagger$, Ciernia AV$\ddagger$. (2026). [Spatially-resolved integration of microglia morphological diversity and gene expression using Visium with protein co-detection](https://doi.org/10.64898/2026.06.05.730425). *bioRxiv*. 
+Kim J, **Hicks SC**, Maynard K, Pavlidis P$\ddagger$, Ciernia AV$\ddagger$. (2026). [Spatially-resolved integration of microglia morphological diversity and gene expression using Visium with protein co-detection](https://doi.org/10.64898/2026.06.05.730425). *bioRxiv*.
 
-He JH$^{*}$, Thompson JR$^{*}$, Totty M$^{*}$, **Hicks SC**. (2026). [SpatialArtifacts: a computational framework for tissue artifact detection in spatial transcriptomics data](https://doi.org/10.64898/2026.05.15.725260). *bioRxiv*. 
+He JH$^{*}$, Thompson JR$^{*}$, Totty M$^{*}$, **Hicks SC**. (2026). [SpatialArtifacts: a computational framework for tissue artifact detection in spatial transcriptomics data](https://doi.org/10.64898/2026.05.15.725260). *bioRxiv*.
 
 Kwon SH$^\dagger$, Boyi Guo$^{*,\dagger}$, Fang C$^{*}$, Tippani M, Bach SV, Pertea G, Miller RA, Maguire SE, Iatrou A, Eagles NJ, Valentine MR, Oh S, Jajoo A, Balakundi V, Du Y, Nguyen AB, Zhang R, Kaipa UM, Divecha HR, Lobana JS, Kleinman JE, Han S, Daskalakis NP, Hyde TM, Collado-Torres L, Page SC, Maynard KR$^\ddagger$, **Hicks SC**$^\ddagger$, Martinowich K$^\ddagger$. (2026). [Mapping spatially organized molecular and genetic signatures of schizophrenia across multiple scales in human prefrontal cortex](https://doi.org/10.64898/2026.02.16.706214). *bioRxiv*.
 
@@ -49,7 +49,7 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 
 ## 2026
 
-Ravichandran P$^{*,\dagger}$, Bach SV$^{\dagger}$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, **Hicks SC**$^{\ddagger}$, Maynard K$^{\ddagger}$. (2026). [Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens](https://doi.org/10.1101/2025.09.10.675374). Accepted in *Neuron*.
+Ravichandran P$^{*,\dagger}$, Bach SV$^{\dagger}$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, **Hicks SC**$^{\ddagger}$, Maynard K$^{\ddagger}$. (2026). [Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens](https://doi.org/10.1016/j.neuron.2026.06.002). *Neuron*.
 
 Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, AlGrain HA, Divecha HR, Miller RA, Siewe FRM, Kwon SH, Del Rosario Alvia I, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, **Hicks SC**$^{\dagger}$, Martinowich K$^{\dagger}$. (2026). [Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain](https://www.sciencedirect.com/science/article/pii/S2211124726005784). *Cell Reports*.
 
