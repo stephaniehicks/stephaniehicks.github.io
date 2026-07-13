@@ -33,16 +33,16 @@ She is also a co-host of the [The Corresponding Author](https://twitter.com/Corr
 
 ## JHU Affiliations
 
--   Associate Professor, [Biomedical Engineering](https://www.bme.jhu.edu/)
--   Associate Professor, [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics)
--   Faculty member, [Johns Hopkins Daa Science and AI Institute](https://ai.jhu.edu/)
--   Faculty member, [Kavli Neuroscience Discovery Institute](https://kavlijhu.org/)
--   Faculty member, [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu)
--   Faculty member, [Center for Imaging Science](https://www.cis.jhu.edu)
--   Faculty member, [Center for Computational Biology](https://ccb.jhu.edu/people.php)
--   Faculty member, [Johns Hopkins Data Science Lab](http://jhudatascience.org)
--   Preceptor, [Department of Genetic Medicine](https://www.hopkinsmedicine.org/institute-genetic-medicine/education-training/predoctoral-human-genetics)
--   Preceptor, [Department of Biochemistry and Molecular Biology](http://www.jhu-bmb-phd.org/faculty/stephanie-hicks)
+- Associate Professor, [Biomedical Engineering](https://www.bme.jhu.edu/)
+- Associate Professor, [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics)
+- Deputy Director of Educational Programs, [Johns Hopkins Data Science and AI Institute](https://ai.jhu.edu/)
+- Faculty member, [Kavli Neuroscience Discovery Institute](https://kavlijhu.org/)
+- Faculty member, [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu)
+- Faculty member, [Center for Imaging Science](https://www.cis.jhu.edu)
+- Faculty member, [Center for Computational Biology](https://ccb.jhu.edu/people.php)
+- Faculty member, [Johns Hopkins Data Science Lab](http://jhudatascience.org)
+- Preceptor, [Department of Genetic Medicine](https://www.hopkinsmedicine.org/institute-genetic-medicine/education-training/predoctoral-human-genetics)
+- Preceptor, [Department of Biochemistry and Molecular Biology](http://www.jhu-bmb-phd.org/faculty/stephanie-hicks)
 
 ## Educational training
 
