@@ -29,6 +29,8 @@ table{
 | <img src="images/jianing_yao.jpeg" width="150"/> | [Jianing Yao]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)\] |
 | <img src="images/tingjun_chen.jpg" width="150"/> | [Tingjun Chen]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/tingjun-chen-a19320343)\] |
 | <img src="images/daniel_chen.jpg" width="150"/> | [Xingyi (Daniel) Chen]{.h4} <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> \[[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)\] \[[MSKCC QSURE Awardee](https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure)\] |
+| <img src="images/chris_du.png" width="150"/> | [Chris Du]{.h4} <br> Undergraduate research assistant <br> Biomedical Engineering <br> Applied Math and Statistics <br> \[[Linkedin](https://www.linkedin.com/in/christopher-du-987211265/)\] |
+
 
 <br>
 
@@ -51,8 +53,8 @@ table{
 
 - [Shengyi Li](https://www.linkedin.com/in/shengyi-l-7b358324b) \| 2026 \| Next: PhD student, Yale University
 - [Harriet (Jiali) He](https://www.linkedin.com/in/harriet-he-a5ba4b21b) \| 2026 \| Next: PhD student, University of Texas MD Anderson
-- [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) \| 2026 \| PhD student, Swiss Federal Technology Institute of Lausanne (EPFL)
-- [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b) \| 2026
+- [Guan Gui](https://www.linkedin.com/in/guan-gui-ab4b93217/) \| 2026 \| Next: PhD student, Swiss Federal Technology Institute of Lausanne (EPFL)
+- [Vani Padmakumar](https://www.linkedin.com/in/vani-padmakumar-79880a22b) \| 2026 \| Next: Data scientist, Thermofisher
 - [Christine Hou](https://www.linkedin.com/in/christine-yiru-hou-086439221/) \| 2025 \| Next: PhD student, University of Wisconsin-Madison
 - [Shu Luan](https://www.linkedin.com/in/shu-luan-a60a391a0/) \| 2025 \| Next: PhD student, University of Chicago
 - [Weishan Li](https://www.linkedin.com/in/weishan-li-b57950307/) \| 2024 \| Next: PhD student, University of Colorado
