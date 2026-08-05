@@ -37,8 +37,6 @@ Crowell HL$^\dagger$, Dong Y$^\dagger$, Billato I, Cai P, Emons M, Gunz S, Guo B
 
 Mulvey B$^\dagger$, Divecha HR$^\dagger$, Tippani M, Bach SV, Bharadwaj R, Rosario ID, Maguire SE, Miller RA, Salisbury AJ, Chandra A, Oster BA, Montgomery KD, Kwon SH, Algrain HA, Papariello AR, Huuki-Myers LA, Kleinman JE, Collado-Torres L, Hyde TM, Han S, **Hicks SC**, Weinberger DR$^\ddagger$, Page SC, Maynard KR, Martinowich K$^\ddagger$. (2025). [Impact of Alzheimer's disease risk factors and local neuromelanin content on the transcriptomic landscape of the human locus coeruleus](https://doi.org/10.1101/2025.10.29.685354). *bioRxiv*.
 
-Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2025). [Characterizing intra- and inter-tumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics](https://www.biorxiv.org/cgi/content/short/2025.09.15.676244v1). *bioRxiv*.
-
 Johnson CM, Li W$^*$, Solhjoo S, Madan V, Ali I, Nash K, **Hicks SC**, Timp W. (2025). [Single-cell RNA sequencing identifies subtypes of cancer-associated fibroblasts in early and late stages of mycosis fungoides](https://doi.org/10.1101/2025.09.07.25335167). *medRxiv*.
 
 Peng RD, **Hicks SC**. (2024). [Modeling Data Analytic Iteration With Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494). *arXiv*.
@@ -48,6 +46,8 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). *arXiv*.
 
 ## 2026
+
+Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2026). [Characterizing intra- and inter-tumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics](https://www.biorxiv.org/cgi/content/short/2025.09.15.676244v1). Accepted in *Genome Research*.
 
 Shah K$^{*,\dagger}$, Hou C$^{*,\dagger}$, Thompson JR$^*$, **Hicks SC**. (2026). [BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection](https://doi.org/10.1093/bioinformatics/btag522). *Bioinformatics*.
 
