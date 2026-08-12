@@ -24,7 +24,7 @@ table{
 | <img src="images/alyssa_columbus.jpeg" width="150"/> | [Alyssa Columbus]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/acolum/)\] \[[Website](https://alyssacolumbus.com/)\] \[[Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative/)\] \[[Student Spotlight](https://publichealth.jhu.edu/2024/student-spotlight-alyssa-columbus)\] |
 | <img src="images/cindy_fang.jpeg" width="150"/> | [Cindy Fang]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/cindyfang1/)\] \[[Website](https://cindyfang70.github.io/)\] |
 | <img src="images/jan_matthias.png" width="150"/> | [Jan Matthias]{.h4} <br> PhD student <br> Biomedical Informatics and Data Science <br> \[[Linkedin](https://www.linkedin.com/in/janmatthias)\] \[[Website](https://janmatthias1.github.io)\] |
-|  | [Omodolapo Nurudeen]{.h4} <br> PhD student <br> Biomedical Engineering <br> \[[Linkedin](https://www.linkedin.com/in/omodolapo-nurudeen/)\] \[[Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative/)\] |
+| <img src="images/omodolapo_nurudeen.jpeg" width="150"/> | [Omodolapo Nurudeen]{.h4} <br> PhD student <br> Biomedical Engineering <br> \[[Linkedin](https://www.linkedin.com/in/omodolapo-nurudeen/)\] \[[Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative/)\] |
 | <img src="images/sowmya_parthiban.png" width="150"/> | [Sowmya Parthiban]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](linkedin.com/in/sowmya-parthiban)\] \[[Website](https://sowmya-parthiban.com)\] |
 | <img src="images/jianing_yao.jpeg" width="150"/> | [Jianing Yao]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)\] |
 | <img src="images/tingjun_chen.jpg" width="150"/> | [Tingjun Chen]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/tingjun-chen-a19320343)\] |
@@ -43,7 +43,7 @@ table{
 - [Sean Maden](https://metamaden.github.io/) \| 2024 \| Next: Senior Data Analyst
 - [Lukas Weber](https://lmweber.github.io) \| 2023 \| Next: Assistant Professor, Boston University, Biostatistics
   - [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850)
-- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) \| 2022 \| Next: Assistant Professor, Columbia University, Biostatistics 
+- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) \| 2022 \| Next: Assistant Professor, Columbia University, Biostatistics
   - [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
 
 ## PhD Alumni
