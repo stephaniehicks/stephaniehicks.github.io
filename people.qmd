@@ -20,17 +20,16 @@ table{
 
 |  |  |
 |:-------------------------------------:|:--------------------------------|
-| <img src="images/jacqueline-thompson.jpeg" width="150"/> | [Jacqueline R. Thompson]{.h4} <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jacqueline-r-thompson-6a478a159/)\] |
-| <img src="images/michael_totty.png" width="150"/> | [Michael Totty]{.h4} <br> Postdoctoral fellow <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/mictott/)\] \[[Website](https://mictott.github.io/)\] \[[NIH/NIMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104)\] |
+| <img src="images/jacqueline-thompson.jpeg" width="150"/> | [Jacqueline R. Thompson]{.h4} <br> Postdoc <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jacqueline-r-thompson-6a478a159/)\] |
 | <img src="images/alyssa_columbus.jpeg" width="150"/> | [Alyssa Columbus]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/acolum/)\] \[[Website](https://alyssacolumbus.com/)\] \[[Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative/)\] \[[Student Spotlight](https://publichealth.jhu.edu/2024/student-spotlight-alyssa-columbus)\] |
 | <img src="images/cindy_fang.jpeg" width="150"/> | [Cindy Fang]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/cindyfang1/)\] \[[Website](https://cindyfang70.github.io/)\] |
 | <img src="images/jan_matthias.png" width="150"/> | [Jan Matthias]{.h4} <br> PhD student <br> Biomedical Informatics and Data Science <br> \[[Linkedin](https://www.linkedin.com/in/janmatthias)\] \[[Website](https://janmatthias1.github.io)\] |
+|  | [Omodolapo Nurudeen]{.h4} <br> PhD student <br> Biomedical Engineering <br> \[[Linkedin](https://www.linkedin.com/in/omodolapo-nurudeen/)\] \[[Vivien Thomas Scholar](https://provost.jhu.edu/about/vivien-thomas-scholars-initiative/)\] |
 | <img src="images/sowmya_parthiban.png" width="150"/> | [Sowmya Parthiban]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](linkedin.com/in/sowmya-parthiban)\] \[[Website](https://sowmya-parthiban.com)\] |
 | <img src="images/jianing_yao.jpeg" width="150"/> | [Jianing Yao]{.h4} <br> PhD student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/jianing-yao-15156211b/)\] |
 | <img src="images/tingjun_chen.jpg" width="150"/> | [Tingjun Chen]{.h4} <br> ScM student <br> Biostatistics <br> \[[Linkedin](https://www.linkedin.com/in/tingjun-chen-a19320343)\] |
 | <img src="images/daniel_chen.jpg" width="150"/> | [Xingyi (Daniel) Chen]{.h4} <br> Undergraduate research assistant <br> Applied Math and Statistics <br> Computational Medicine <br> \[[Linkedin](https://www.linkedin.com/in/xingyi-chen-8291381a5/)\] \[[MSKCC QSURE Awardee](https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure)\] |
 | <img src="images/chris_du.png" width="150"/> | [Chris Du]{.h4} <br> Undergraduate research assistant <br> Biomedical Engineering <br> Applied Math and Statistics <br> \[[Linkedin](https://www.linkedin.com/in/christopher-du-987211265/)\] |
-
 
 <br>
 
@@ -38,10 +37,14 @@ table{
 
 ## Postdoc Alumni
 
-- [Lukas Weber](https://lmweber.github.io) \| Assistant Professor, Boston University, Biostatistics \| [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850)
-- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) \| Assistant Professor, Columbia University, Biostatistics \| [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
-- [Sean Maden](https://metamaden.github.io/) \| Senior Data Analyst
-- [Boyi Guo](https://boyiguo1.github.io) \| Assistant Professor, University of Utah, Biostatistics
+- [Michael Totty](https://mictott.github.io/) \| 2026 \| Next: Research Scientist, Lieber Institute for Brain Development
+  - [NIH/NIMH F32 awardee](https://reporter.nih.gov/search/T6djbB-iu0G7R933Rb0WYw/project-details/10999104) \| [NIH/NIMH K99/R00 awardee](https://reporter.nih.gov/search/9KlZS31X_U68Rt4oxFvvbA/project-details/11283284)
+- [Boyi Guo](https://boyiguo1.github.io) \| 2025 \| Next: Assistant Professor, University of Utah, Biostatistics
+- [Sean Maden](https://metamaden.github.io/) \| 2024 \| Next: Senior Data Analyst
+- [Lukas Weber](https://lmweber.github.io) \| 2023 \| Next: Assistant Professor, Boston University, Biostatistics
+  - [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/jo9zCTW54U2AcHyPnvczFw/project-details/10350850)
+- [Wenpin Hou](https://winnie09.github.io/Wenpin_Hou/) \| 2022 \| Next: Assistant Professor, Columbia University, Biostatistics 
+  - [NIH/NHGRI K99/R00 awardee](https://reporter.nih.gov/search/lFjtiEHahE2RP8mEYpFK1g/project-details/10104023)
 
 ## PhD Alumni
 
