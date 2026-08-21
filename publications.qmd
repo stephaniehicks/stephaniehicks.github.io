@@ -47,7 +47,7 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 
 ## 2026
 
-Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2026). [Characterizing intra- and inter-tumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics](https://www.biorxiv.org/cgi/content/short/2025.09.15.676244v1). Accepted in *Genome Research*.
+Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2026). [Characterizing intra- and inter-tumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics](https://doi.org/10.1101/gr.281433.125). *Genome Research*.
 
 Shah K$^{*,\dagger}$, Hou C$^{*,\dagger}$, Thompson JR$^*$, **Hicks SC**. (2026). [BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection](https://doi.org/10.1093/bioinformatics/btag522). *Bioinformatics*.
 
