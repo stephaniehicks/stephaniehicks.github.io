@@ -8,6 +8,7 @@ format:
 
 ## 2026
 
+-   Institute for Systems Biology (ISB) Frontiers in Computational Biology Symposium. 2026 Dec 9. Seattle, WA. USA.
 -   Joint Statistical Meetings. 2026 Aug 1-6. Boston, MA. USA.
 -   Department of Statistics. University of British Columbia. 2026 Jun 8. Vancouver, BC. Canada. 
 -   STATGEN Conference. 2026 May 18-20. Atlanta, GA. USA.
