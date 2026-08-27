@@ -15,6 +15,8 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+ Totty MS$^{*,\dagger, \ddagger}$, Bach SV$^{\dagger}$, Valentine MR, Tippani M, Maguire SE, Del Rosario Alvia I, Miller RA, Kleinman JE, Maynard KR, Page SC, Hyde TM, **Hicks SC**$^\ddagger$, Martinowich K$^\ddagger$. (2026). [Multiscale spatial transcriptomics resolves the cellular and molecular architecture of the human amygdala](https://doi.org/10.64898/2026.08.22.746381). *bioRxiv*. 
+
 Chen YT, **Hicks SC**. (2026). [Mind the Alignment Gap: A Spatial Transcriptomics Benchmark for Scientific Coding Agents](https://doi.org/10.64898/2026.07.05.736638). *bioRxiv*.
 
 Lee J, Min H, Casingal C, Ledford AT, Lee H, Ma W, Gao Y, Mao H, McCoy ES, Xing L, Fang C$^{*}$, Kwon SH, Zylka MJ, Martinowich K, Maynard KR, **Hicks SC**, Anton ES, Won H. (2026). [Perturbation of genes linked to common schizophrenia risk variants identifies cilia programs](https://doi.org/10.64898/2026.06.09.731172). *bioRxiv*.
