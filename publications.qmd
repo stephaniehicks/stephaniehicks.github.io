@@ -15,7 +15,9 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
- Totty MS$^{*,\dagger, \ddagger}$, Bach SV$^{\dagger}$, Valentine MR, Tippani M, Maguire SE, Del Rosario Alvia I, Miller RA, Kleinman JE, Maynard KR, Page SC, Hyde TM, **Hicks SC**$^\ddagger$, Martinowich K$^\ddagger$. (2026). [Multiscale spatial transcriptomics resolves the cellular and molecular architecture of the human amygdala](https://doi.org/10.64898/2026.08.22.746381). *bioRxiv*. 
+Buker IE, Ni Y, **Hicks SC**, Kang J, Acharyya S. (2026). [SCG: Spatially Co-Expressed Gene Identification through Spatially Varying Networks](https://doi.org/10.64898/2026.09.01.748618).
+
+Totty MS$^{*,\dagger, \ddagger}$, Bach SV$^{\dagger}$, Valentine MR, Tippani M, Maguire SE, Del Rosario Alvia I, Miller RA, Kleinman JE, Maynard KR, Page SC, Hyde TM, **Hicks SC**$^\ddagger$, Martinowich K$^\ddagger$. (2026). [Multiscale spatial transcriptomics resolves the cellular and molecular architecture of the human amygdala](https://doi.org/10.64898/2026.08.22.746381). *bioRxiv*.
 
 Chen YT, **Hicks SC**. (2026). [Mind the Alignment Gap: A Spatial Transcriptomics Benchmark for Scientific Coding Agents](https://doi.org/10.64898/2026.07.05.736638). *bioRxiv*.
 
