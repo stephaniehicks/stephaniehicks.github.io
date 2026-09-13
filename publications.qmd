@@ -51,6 +51,7 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 
 Mulvey B$^\dagger$, Divecha HR$^\dagger$, Tippani M, Bach SV, Bharadwaj R, Rosario ID, Maguire SE, Miller RA, Salisbury AJ, Chandra A, Oster BA, Montgomery KD, Kwon SH, Algrain HA, Papariello AR, Huuki-Myers LA, Kleinman JE, Collado-Torres L, Hyde TM, Han S, **Hicks SC**, Weinberger DR$^\ddagger$, Page SC, Maynard KR, Martinowich K$^\ddagger$. (2026). [Molecular programs in human locus coeruleus link APOE and neuromelanin to Alzheimer’s vulnerability](https://doi.org/10.1007/s00401-026-03073-8). *Acta Neuropathologica*.
 
+
 Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2026). [Characterizing intra- and inter-tumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics](https://doi.org/10.1101/gr.281433.125). *Genome Research*.
 
 Shah K$^{*,\dagger}$, Hou C$^{*,\dagger}$, Thompson JR$^*$, **Hicks SC**. (2026). [BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection](https://doi.org/10.1093/bioinformatics/btag522). *Bioinformatics*.
