@@ -9,13 +9,15 @@ format:
 The following are a selected set of publications. To see a list with all of papers from Stephanie Hicks, you can visit [Google Scholar](https://scholar.google.com/citations?user=4T4qnL4AAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0002-7858-0231).
 
 ::: callout-tip
-- The $^*$ indicates a mentored student or post-doctoral fellow.
+- The $^*$ indicates a mentored student or postdoctoral fellow.
 - The $\dagger$ and $\ddagger$ indicate co-first and co-last authors, respectively.
 :::
 
 ## Preprints
 
-Buker IE, Ni Y, **Hicks SC**, Kang J, Acharyya S. (2026). [SCG: Spatially Co-Expressed Gene Identification through Spatially Varying Networks](https://doi.org/10.64898/2026.09.01.748618).
+Chen T$^*$, **Hicks SC**. (2026). [Pretrained gene representations transfer mean expression more broadly than spatial patterns in virtual spatial transcriptomics](). *bioRxiv*.
+
+Buker IE, Ni Y, **Hicks SC**, Kang J, Acharyya S. (2026). [SCG: Spatially Co-Expressed Gene Identification through Spatially Varying Networks](https://doi.org/10.64898/2026.09.01.748618). *bioRxiv*.
 
 Totty MS$^{*,\dagger, \ddagger}$, Bach SV$^{\dagger}$, Valentine MR, Tippani M, Maguire SE, Del Rosario Alvia I, Miller RA, Kleinman JE, Maynard KR, Page SC, Hyde TM, **Hicks SC**$^\ddagger$, Martinowich K$^\ddagger$. (2026). [Multiscale spatial transcriptomics resolves the cellular and molecular architecture of the human amygdala](https://doi.org/10.64898/2026.08.22.746381). *bioRxiv*.
 
@@ -50,7 +52,6 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 ## 2026
 
 Mulvey B$^\dagger$, Divecha HR$^\dagger$, Tippani M, Bach SV, Bharadwaj R, Rosario ID, Maguire SE, Miller RA, Salisbury AJ, Chandra A, Oster BA, Montgomery KD, Kwon SH, Algrain HA, Papariello AR, Huuki-Myers LA, Kleinman JE, Collado-Torres L, Hyde TM, Han S, **Hicks SC**, Weinberger DR$^\ddagger$, Page SC, Maynard KR, Martinowich K$^\ddagger$. (2026). [Molecular programs in human locus coeruleus link APOE and neuromelanin to Alzheimer’s vulnerability](https://doi.org/10.1007/s00401-026-03073-8). *Acta Neuropathologica*.
-
 
 Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2026). [Characterizing intra- and inter-tumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics](https://doi.org/10.1101/gr.281433.125). *Genome Research*.
 
