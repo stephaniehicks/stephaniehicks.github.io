@@ -15,7 +15,7 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
-Chen T$^*$, **Hicks SC**. (2026). [Pretrained gene representations transfer mean expression more broadly than spatial patterns in virtual spatial transcriptomics](). *bioRxiv*.
+Chen T$^*$, **Hicks SC**. (2026). [Pretrained gene representations transfer mean expression more broadly than spatial patterns in virtual spatial transcriptomics](https://doi.org/10.64898/2026.09.15.751768). *bioRxiv*.
 
 Buker IE, Ni Y, **Hicks SC**, Kang J, Acharyya S. (2026). [SCG: Spatially Co-Expressed Gene Identification through Spatially Varying Networks](https://doi.org/10.64898/2026.09.01.748618). *bioRxiv*.
 
