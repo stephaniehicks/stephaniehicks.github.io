@@ -15,7 +15,7 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
-Yuan L, Li X, Le M, **Hicks SC**, Deshpande A, Taube JM, Szalay AS. (2026). [Interpretable spherical geometry of single-cell state transitions from dominant principal components](https://doi.org/10.64898/2026.09.11.751061). 
+Yuan L, Li X, Le M, **Hicks SC**, Deshpande A, Taube JM, Szalay AS. (2026). [Interpretable spherical geometry of single-cell state transitions from dominant principal components](https://doi.org/10.64898/2026.09.11.751061). *bioRxiv*.
 
 Chen T$^*$, **Hicks SC**. (2026). [Pretrained gene representations transfer mean expression more broadly than spatial patterns in virtual spatial transcriptomics](https://doi.org/10.64898/2026.09.15.751768). *bioRxiv*.
 
