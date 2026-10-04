@@ -8,7 +8,7 @@ format:
 
 ## 2027
 
-- Genome Science Training Program (GSTP), University of Michigan. 2027 Apr. Ann Arbor, MI. USA.
+- Genome Science Training Program (GSTP), University of Michigan. 2027 Apr 9. Ann Arbor, MI. USA.
 - Models, Inference & Algorithms (MIA), Broad Institute. 2027 Mar 3. Boston, MA. USA.
 
 ## 2026
