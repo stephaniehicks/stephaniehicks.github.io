@@ -15,6 +15,8 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+Thompson JR$^{*}$, Oh S, Maguire SE, Bach SV, Mulvey BJ, Pertea G, Abramson MR, Miller RA, Kwon SH, Tippani M, Valentine MR, Deep-Soboslay A, Du Y, Nguyen AB, Kleinman JE, Maynard KR, Hyde TM, Han S, Collado-Torres L, Martinowich K, **Hicks SC**$^{\ddagger}$, Page SC$^{\ddagger}$. (2026). [Overlapping yet distinct spatiomolecular profiles across mood disorders and biological sex in the human prefrontal cortex](https://doi.org/10.64898/2026.10.22.761067). *bioRxiv*.
+
 Matthias JH$^{*,\dagger}$, Yao J$^{*,\dagger}$, **Hicks SC**. (2026). [ALBIS: simulation of multi-resolution and multi-dimensional spatial transcriptomics data](https://doi.org/10.64898/2026.10.06.757026). *bioRxiv*.
 
 Phillips RA$^{\dagger}$, Yao J$^{*,\dagger}$, Bach SV, Del Rosario Alvia I, Du Y, Maguire SE, Zhang R, Miller RA, Kleinman JE, Hyde TM, Martinowich K$^{\ddagger}$, Maynard KR$^{\ddagger}$, **Hicks SC**$^{\ddagger}$. (2026). [Three dimensional reconstruction of the human nucleus accumbens reveals topographic organization and molecular heterogeneity of D1-islands across the anterior posterior axis](https://doi.org/10.64898/2026.09.25.754413). *bioRxiv*.
