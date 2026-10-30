@@ -8,13 +8,13 @@ format:
 
 ## 2027
 
+- Joint Statistical Meetings. 2027 Aug 8-12. Chicago, IL. USA.
 - Genome Science Training Program (GSTP), University of Michigan. 2027 Apr 9. Ann Arbor, MI. USA.
 - Models, Inference & Algorithms (MIA), Broad Institute. 2027 Mar 3. Boston, MA. USA.
 
 ## 2026
 
-- Institute for Systems Biology (ISB) Frontiers in Computational Biology Symposium:
-AI, Multi-Omics, and the Future of Human Health. 2026 Dec 9. Seattle, WA. USA.
+- Institute for Systems Biology (ISB) Frontiers in Computational Biology Symposium: AI, Multi-Omics, and the Future of Human Health. 2026 Dec 9. Seattle, WA. USA.
 - Joint Statistical Meetings. 2026 Aug 1-6. Boston, MA. USA.
 - Department of Statistics. University of British Columbia. 2026 Jun 8. Vancouver, BC. Canada.
 - STATGEN Conference. 2026 May 18-20. Atlanta, GA. USA.
