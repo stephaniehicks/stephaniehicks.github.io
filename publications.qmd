@@ -17,7 +17,7 @@ The following are a selected set of publications. To see a list with all of pape
 
 Chen X$^*$, **Hicks SC**. (2026). [Learning interpretable compositional features associated with continuous covariates](https://doi.org/10.64898/2026.11.04.764349). *bioRxiv*.
 
-Parthiban S$^{*}$, **Hicks SC**. (2026). [Transcript quantification using context-aware MAPQ modeling](https://doi.org/10.64898/2026.10.26.761703). *bioRxiv*. 
+Parthiban S$^{*}$, **Hicks SC**. (2026). [Transcript quantification using context-aware MAPQ modeling](https://doi.org/10.64898/2026.10.26.761703). *bioRxiv*.
 
 Thompson JR$^{*}$, Oh S, Maguire SE, Bach SV, Mulvey BJ, Pertea G, Abramson MR, Miller RA, Kwon SH, Tippani M, Valentine MR, Deep-Soboslay A, Du Y, Nguyen AB, Kleinman JE, Maynard KR, Hyde TM, Han S, Collado-Torres L, Martinowich K, **Hicks SC**$^{\ddagger}$, Page SC$^{\ddagger}$. (2026). [Overlapping yet distinct spatiomolecular profiles across mood disorders and biological sex in the human prefrontal cortex](https://doi.org/10.64898/2026.10.22.761067). *bioRxiv*.
 
@@ -47,8 +47,6 @@ Fang C$^*$, Montgomery KD, Maguire SE, Ramnauth AD, Guo B$^*$, Miller R, Kleinma
 
 Panwar P, Guo B$^*$, Zhou H$^*$, **Hicks SC**$^\ddagger$, Ghazanfar S$^\ddagger$. (2025). [ClustSIGNAL identifies cell types and subtypes using an adaptive smoothing approach for scalable spatial clustering](https://doi.org/10.64898/2025.11.30.691081). *bioRxiv*.
 
-Keuthan CJ, Parthiban S$^*$, Chang Y-Y, Shan X, Chang X, Yan E, Cavalier S, Timp W, **Hicks SC**$^\ddagger$, Zack DJ$^\ddagger$. (2025). [Dynamic changes in mRNA isoform usage during human retinal development](https://doi.org/10.1101/2025.11.26.689062). *bioRxiv*.
-
 Crowell HL$^\dagger$, Dong Y$^\dagger$, Billato I, Cai P, Emons M, Gunz S, Guo B$^*$, Li M, Mahmoud A, Manukyan A, Pagès H, Panwar P, Rao S, Sargeant CJ, Kern LS, Ramos M, Sun J, Totty M$^*$, Carey VJ, Chen Y, Collado-Torres L, Ghazanfar S, Hansen KD, Martinowich K, Maynard KR, Patrick E, Righelli D, Risso D, Tiberi S, Waldron L, Gottardo R$^\ddagger$, Robinson MD$^\ddagger$, **Hicks SC**$^\ddagger$, Weber LM$^\ddagger$. (2025). [Orchestrating Spatial Transcriptomics Analysis with Bioconductor](https://doi.org/10.1101/2025.11.20.688607). *bioRxiv*.
 
 Johnson CM, Li W$^*$, Solhjoo S, Madan V, Ali I, Nash K, **Hicks SC**, Timp W. (2025). [Single-cell RNA sequencing identifies subtypes of cancer-associated fibroblasts in early and late stages of mycosis fungoides](https://doi.org/10.1101/2025.09.07.25335167). *medRxiv*.
@@ -60,6 +58,8 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). *arXiv*.
 
 ## 2026
+
+Keuthan CJ$^{\dagger}$, Parthiban S$^{*,\dagger}$, Chang Y-Y, Shan X, Chang X, Yan E, Cavalier S, Timp W, **Hicks SC**$^\ddagger$, Zack DJ$^\ddagger$. (2026). [Dynamic changes in mRNA isoform usage during human retinal development](https://doi.org/10.1101/2025.11.26.689062). Accepted in *Genome Biology*.
 
 Kim J, **Hicks SC**, Maynard K, Pavlidis P$\ddagger$, Ciernia AV$\ddagger$. (2026). [Spatially-resolved integration of microglia morphological diversity and gene expression using Visium with protein co-detection](https://doi.org/10.64898/2026.06.05.730425). Accepted in *GEN Biotechnology*.
 
