@@ -8,6 +8,8 @@ format:
 
 ## 2027
 
+
+- Bioconductor Conference. 2027 Jun 14-18. Boston, MA. USA.
 - Joint Statistical Meetings. 2027 Aug 8-12. Chicago, IL. USA.
 - Genome Science Training Program (GSTP), University of Michigan. 2027 Apr 9. Ann Arbor, MI. USA.
 - Models, Inference & Algorithms (MIA), Broad Institute. 2027 Mar 3. Boston, MA. USA.
