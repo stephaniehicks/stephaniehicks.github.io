@@ -10,6 +10,7 @@ The following are a selected set of publications. To see a list with all of pape
 
 ::: callout-tip
 - The $^*$ indicates a mentored student or postdoctoral fellow.
+- The $^{+}$ indicates authors contributed equally.
 - The $\dagger$ and $\ddagger$ indicate co-first and co-last authors, respectively.
 :::
 
@@ -58,6 +59,8 @@ Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, **Hicks
 **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). *arXiv*.
 
 ## 2026
+
+Panwar P, Chen C$^{+}$, Ding S$^{+}$, Ameen F, Shen M, Kim D, Jayakumar R, Woollard M, Chuah J, Liang S, Yang J, Patrick E, Yang P, **Hicks SC**$^\ddagger$, Ghazanfar S$^\ddagger$. (2026). [Principles and assumptions underlying domain detection in spatial transcriptomics](https://doi.org/10.1038/s41588-026-02812-7). *Nature Genetics*.
 
 Keuthan CJ$^{\dagger}$, Parthiban S$^{*,\dagger}$, Chang Y-Y, Shan X, Chang X, Yan E, Cavalier S, Timp W, **Hicks SC**$^\ddagger$, Zack DJ$^\ddagger$. (2026). [Dynamic changes in mRNA isoform usage during human retinal development](https://doi.org/10.1101/2025.11.26.689062). Accepted in *Genome Biology*.
 
