@@ -16,6 +16,8 @@ The following are a selected set of publications. To see a list with all of pape
 
 ## Preprints
 
+Yao J$^*$, Matthias J$^*$, Gui G$^{*,+}$, Padmakumar V$^{*,+}$, Wang A$^{+}$, Luan S$^*$, Chen Y, Younes L, Maynard KR, Martinowich K, **Hicks SC**. (2026). [A systematic benchmark evaluation of algorithms for 3D tissue alignment and registration with spatial omics](https://doi.org/10.64898/2026.11.23.768628). *bioRxiv*.
+
 Chen YT, Matthias J, Yao J, Zhao HE, **Hicks SC**. (2026). [Publications as benchmarks: auditing AI agents on spatial transcriptomics alignment](https://doi.org/10.48550/arXiv.2611.11796). *arXiv*.
 
 Chen X$^*$, **Hicks SC**. (2026). [Learning interpretable compositional features associated with continuous covariates](https://doi.org/10.64898/2026.11.04.764349). *bioRxiv*.
